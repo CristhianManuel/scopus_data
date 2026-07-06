@@ -1,0 +1,83 @@
+{
+  "actualizado": "2026-07-06T19:36:53.836Z",
+  "colecciones": [
+    {
+      "clave": "enfermeria",
+      "handle": "20.500.12866/18617",
+      "tesis": [
+        {
+          "title": "Grado de conocimiento del papanicolaou y su cumplimiento en mujeres en edad productiva del Asentamiento humano La Victoria, Chimbote 2025",
+          "handle": "20.500.12866/24715"
+        },
+        {
+          "title": "Incertidumbre frente a la enfermedad en padres de niños hospitalizados de un instituto nacional, Lima",
+          "handle": "20.500.12866/24714"
+        },
+        {
+          "title": "Relación de la capacidad de agencia de autocuidado y afrontamiento - adaptación del cuidador primario de pacientes en cuidados paliativos, Lima",
+          "handle": "20.500.12866/24703"
+        },
+        {
+          "title": "Nivel de conocimiento y práctica del autoexamen de mama como diagnóstico precoz del cáncer de mama en mujeres que acuden a un centro de salud, Callao – 2025",
+          "handle": "20.500.12866/24697"
+        },
+        {
+          "title": "Efectividad de una sesión educativa virtual vs presencial sobre el nivel de conocimientos del cáncer de mama en madres de familia de dos instituciones educativas, 2025",
+          "handle": "20.500.12866/24692"
+        }
+      ]
+    },
+    {
+      "clave": "educacion",
+      "handle": "20.500.12866/18943",
+      "tesis": [
+        {
+          "title": "Propuesta de gestión directiva para la enseñanza de matemática mediante el uso de la inteligencia artificial generativa en docentes de una Institución Educativa Privada de Nuevo Chimbote",
+          "handle": "20.500.12866/24710"
+        },
+        {
+          "title": "Experiencia en la fabricación y uso didáctico de un equipo de ensayo de doblez guiado para evaluar las competencias en Construcciones Metálicas en SENATI Villa el Salvador, 2017 - 2024",
+          "handle": "20.500.12866/24704"
+        },
+        {
+          "title": "Fabricación y elaboración de guía de uso didáctico de un probador de culata de motor de combustión interna en el módulo reparación de motores en Senati Independencia, 2025",
+          "handle": "20.500.12866/24677"
+        },
+        {
+          "title": "Propuesta de una estrategia didáctica basada en el uso de podcasts para fortalecer el aprendizaje en el curso teórico de Ingeniería de Software y Metodologías Ágiles en SENATI Trujillo 2025",
+          "handle": "20.500.12866/24669"
+        },
+        {
+          "title": "Propuesta de gestión basada en Comunidades de Aprendizaje Profesional orientada al desempeño docente de un Centro de Educación Básica Alternativa",
+          "handle": "20.500.12866/24625"
+        }
+      ]
+    },
+    {
+      "clave": "psicologia",
+      "handle": "20.500.12866/18944",
+      "tesis": [
+        {
+          "title": "Efectos de la memoria de trabajo en el desarrollo de habilidades matemáticas en niños de nivel pre escolar: revisión crítica",
+          "handle": "20.500.12866/24689"
+        },
+        {
+          "title": "Propuesta de mejora del proceso de onboarding híbrido y su impacto en la reducción de la rotación de un equipo de atención al cliente en el año 2025",
+          "handle": "20.500.12866/24685"
+        },
+        {
+          "title": "Ansiedad estado rasgo y los dominios de las funciones ejecutivas en estudiantes de una institución educativa privada, 2023",
+          "handle": "20.500.12866/24672"
+        },
+        {
+          "title": "Suicidio, factores de riesgo y propuestas de intervención para prevenir el suicidio en América Latina: una revisión crítica",
+          "handle": "20.500.12866/24667"
+        },
+        {
+          "title": "Estilos parentales e ideación suicida en adolescentes de Asia y Europa: una revisión crítica",
+          "handle": "20.500.12866/24663"
+        }
+      ]
+    }
+  ]
+}
