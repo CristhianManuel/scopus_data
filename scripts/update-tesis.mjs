@@ -1,29 +1,51 @@
 import { writeFile } from "node:fs/promises";
 
-const SCOPE_UUID = "67be0856-eb7d-4239-a046-80e06efd9bf1"; // Facultad de Enfermeria
-const API_URL = `https://repositorio.upch.edu.pe/server/api/discover/search/objects?scope=${SCOPE_UUID}&sort=dc.date.accessioned,desc&size=5`;
+// Cada entrada es una coleccion/comunidad distinta que se quiere listar.
+// "handle" es el identificador publico de DSpace; el UUID (que es lo que la
+// API realmente necesita como "scope") se resuelve automaticamente abajo.
+const COLECCIONES = [
+    { clave: "enfermeria", handle: "20.500.12866/18617" },
+    { clave: "educacion", handle: "20.500.12866/18943" },
+    { clave: "psicologia", handle: "20.500.12866/18944" },
+    // agrega mas colecciones aqui, por ejemplo:
+    // { clave: "odontologia", handle: "20.500.12866/XXXXX" },
+];
 
-const res = await fetch(API_URL);
-if (!res.ok) {
-    throw new Error(`DSpace respondio con estado ${res.status}`);
+async function resolverUuid(handle) {
+    const res = await fetch(`https://repositorio.upch.edu.pe/server/api/pid/find?id=${handle}`);
+    if (!res.ok) throw new Error(`No se pudo resolver el handle ${handle} (status ${res.status})`);
+    const data = await res.json();
+    if (!data?.uuid) throw new Error(`El handle ${handle} no devolvio un uuid`);
+    return data.uuid;
 }
-const data = await res.json();
 
-const items = data?._embedded?.searchResult?._embedded?.objects || [];
+async function obtenerTesis(uuid) {
+    const url = `https://repositorio.upch.edu.pe/server/api/discover/search/objects?scope=${uuid}&sort=dc.date.accessioned,desc&size=5`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`DSpace respondio con estado ${res.status}`);
+    const data = await res.json();
+    const items = data?._embedded?.searchResult?._embedded?.objects || [];
 
-const tesis = items
-    .map(item => {
-        const metadata = item._embedded?.indexableObject?.metadata;
-        const title = metadata?.["dc.title"]?.[0]?.value;
-        const handle = item._embedded?.indexableObject?.handle;
-        return title && handle ? { title, handle } : null;
-    })
-    .filter(Boolean);
+    return items
+        .map(item => {
+            const metadata = item._embedded?.indexableObject?.metadata;
+            const title = metadata?.["dc.title"]?.[0]?.value;
+            const itemHandle = item._embedded?.indexableObject?.handle;
+            return title && itemHandle ? { title, handle: itemHandle } : null;
+        })
+        .filter(Boolean);
+}
+
+const colecciones = {};
+for (const { clave, handle } of COLECCIONES) {
+    const uuid = await resolverUuid(handle);
+    colecciones[clave] = await obtenerTesis(uuid);
+}
 
 const salida = {
     actualizado: new Date().toISOString(),
-    tesis
+    colecciones
 };
 
 await writeFile("tesis.json", JSON.stringify(salida, null, 2));
-console.log(`tesis.json actualizado con ${tesis.length} registros`);
+console.log(`tesis.json actualizado con ${Object.keys(colecciones).length} colecciones`);
