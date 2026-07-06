@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-06T19:36:53.836Z",
+  "actualizado": "2026-07-06T20:59:10.772Z",
   "colecciones": [
     {
       "clave": "enfermeria",
@@ -58,6 +58,10 @@
       "handle": "20.500.12866/18944",
       "tesis": [
         {
+          "title": "Implementación de entrevistas por competencias en procesos de selección para puestos entry level en una empresa del sector industrial",
+          "handle": "20.500.12866/24718"
+        },
+        {
           "title": "Efectos de la memoria de trabajo en el desarrollo de habilidades matemáticas en niños de nivel pre escolar: revisión crítica",
           "handle": "20.500.12866/24689"
         },
@@ -72,10 +76,6 @@
         {
           "title": "Suicidio, factores de riesgo y propuestas de intervención para prevenir el suicidio en América Latina: una revisión crítica",
           "handle": "20.500.12866/24667"
-        },
-        {
-          "title": "Estilos parentales e ideación suicida en adolescentes de Asia y Europa: una revisión crítica",
-          "handle": "20.500.12866/24663"
         }
       ]
     }
