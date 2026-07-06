@@ -36,10 +36,11 @@ async function obtenerTesis(uuid) {
         .filter(Boolean);
 }
 
-const colecciones = {};
+const colecciones = [];
 for (const { clave, handle } of COLECCIONES) {
     const uuid = await resolverUuid(handle);
-    colecciones[clave] = await obtenerTesis(uuid);
+    const tesis = await obtenerTesis(uuid);
+    colecciones.push({ clave, handle, tesis });
 }
 
 const salida = {
@@ -48,4 +49,4 @@ const salida = {
 };
 
 await writeFile("tesis.json", JSON.stringify(salida, null, 2));
-console.log(`tesis.json actualizado con ${Object.keys(colecciones).length} colecciones`);
+console.log(`tesis.json actualizado con ${colecciones.length} colecciones`);
