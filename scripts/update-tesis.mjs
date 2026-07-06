@@ -1,14 +1,10 @@
 import { writeFile } from "node:fs/promises";
 
-// Cada entrada es una coleccion/comunidad distinta que se quiere listar.
-// "handle" es el identificador publico de DSpace; el UUID (que es lo que la
-// API realmente necesita como "scope") se resuelve automaticamente abajo.
 const COLECCIONES = [
     { clave: "enfermeria", handle: "20.500.12866/18617" },
     { clave: "educacion", handle: "20.500.12866/18943" },
     { clave: "psicologia", handle: "20.500.12866/18944" },
-    // agrega mas colecciones aqui, por ejemplo:
-    // { clave: "odontologia", handle: "20.500.12866/XXXXX" },
+
 ];
 
 async function resolverUuid(handle) {
