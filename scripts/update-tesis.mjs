@@ -1,10 +1,6 @@
 import { writeFile } from "node:fs/promises";
 
 const COLECCIONES = [
-    { clave: "enfermeria", handle: "20.500.12866/18617" },
-    { clave: "educacion", handle: "20.500.12866/18943" },
-    { clave: "psicologia", handle: "20.500.12866/18944" },
-
     { clave: "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos", handle: "20.500.12866/18995" },
     { clave: "administracion-maestria-en-gerencia-de-proyectos-y-programas-sociales", handle: "20.500.12866/19017" },
     { clave: "administracion-maestria-en-politicas-y-gestion-de-la-ciencia-tecnologia-e-innovacion", handle: "20.500.12866/18612" },
