@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-07T14:44:47.882Z",
+  "actualizado": "2026-07-07T16:12:31.646Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -600,6 +600,10 @@
       "handle": "20.500.12866/18977",
       "tesis": [
         {
+          "title": "Gestión del cambio educativo en una institución básica regular de Huancayo: liderazgo, desarrollo docente y gestión por procesos",
+          "handle": "20.500.12866/24723"
+        },
+        {
           "title": "Propuesta de gestión directiva para la enseñanza de matemática mediante el uso de la inteligencia artificial generativa en docentes de una Institución Educativa Privada de Nuevo Chimbote",
           "handle": "20.500.12866/24710"
         },
@@ -614,10 +618,6 @@
         {
           "title": "Gestión en formación docente para mejorar el diseño y aplicación de instrumentos de evaluación formativa",
           "handle": "20.500.12866/18395"
-        },
-        {
-          "title": "Propuesta de gestión de comunidades profesionales orientadas al fortalecimiento de la convivencia escolar en una institución pública de Lima",
-          "handle": "20.500.12866/18177"
         }
       ]
     },
