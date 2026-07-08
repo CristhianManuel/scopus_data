@@ -69,6 +69,18 @@ const COLECCIONES = [
     { clave: "tecnologia-medica-terapia-de-audicion-voz-y-lenguaje-titulo-profesional", handle: "20.500.12866/18760" },
     { clave: "tecnologia-medica-terapia-fisica-y-rehabilitacion", handle: "20.500.12866/18758" },
     { clave: "tecnologia-medica-terapia-ocupacional-titulo-profesional", handle: "20.500.12866/18754" },
+    { clave: "enfermeria-bachiller", handle: "20.500.12866/18887" },
+    { clave: "enfermeria-titulo-profesional", handle: "20.500.12866/18888" },
+    { clave: "enfermeria-titulo-de-segunda-especialidad-en-enfermeria", handle: "20.500.12866/18624" },
+    { clave: "enfermeria-maestria-en-enfermeria", handle: "20.500.12866/18621" },
+    { clave: "enfermeria-maestria-en-gestion-del-cuidado-en-enfermeria", handle: "20.500.12866/18622" },
+    { clave: "estomatologia-titulo-profesional-en-estomatologia", handle: "20.500.12866/18889" },
+    { clave: "estomatologia-titulo-de-segunda-especialidad-en-estomatologia", handle: "20.500.12866/18667" },
+    { clave: "estomatologia-maestria-en-estomatologia", handle: "20.500.12866/18653" },
+    { clave: "estomatologia-maestria-en-endodoncia", handle: "20.500.12866/18652" },
+    { clave: "estomatologia-maestria-en-ortodoncia", handle: "20.500.12866/18656" },
+    { clave: "estomatologia-maestria-en-estomatologia-con-mencion-en-rehabilitacion-oral", handle: "20.500.12866/18659" },
+    { clave: "estomatologia-doctorado-en-estomatologia", handle: "20.500.12866/18650" },
 ];
 
 async function resolverUuid(handle) {
