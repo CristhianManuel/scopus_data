@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-08T13:08:50.803Z",
+  "actualizado": "2026-07-08T15:34:09.056Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -84,6 +84,10 @@
       "handle": "20.500.12866/19009",
       "tesis": [
         {
+          "title": "Plan de negocio “Hello Old Age”",
+          "handle": "20.500.12866/24729"
+        },
+        {
           "title": "Estudio de viabilidad para la implementación de centros de hemodiálisis en las regiones sin oferta disponible como Amazonas, Pasco y Huancavelica",
           "handle": "20.500.12866/24609"
         },
@@ -98,10 +102,6 @@
         {
           "title": "Análisis de la disponibilidad de citotóxicos y medicamentos adyuvantes esenciales en el Instituto Nacional de Enfermedades Neoplásicas de Lima (2017-2024)",
           "handle": "20.500.12866/17922"
-        },
-        {
-          "title": "Satisfacción laboral percibida en un hospital del segundo nivel del Ministerio de Salud en el año 2024",
-          "handle": "20.500.12866/17812"
         }
       ]
     },
@@ -1000,6 +1000,10 @@
       "handle": "20.500.12866/18813",
       "tesis": [
         {
+          "title": "Conocimiento y percepción sobre el enfoque actual de la obesidad en estudiantes de medicina de la Universidad Peruana Cayetano Heredia en el año 2026",
+          "handle": "20.500.12866/24725"
+        },
+        {
           "title": "Conocimientos y prácticas acerca del lavado de manos en madres de neonatos hospitalizados en unidades de cuidados neonatales en un hospital de tercer nivel en Lima, Perú",
           "handle": "20.500.12866/24645"
         },
@@ -1014,10 +1018,6 @@
         {
           "title": "Colonización nasofaríngea por N. meningitidis en trabajadores de salud asintomáticos de la unidad pediátrica del Hospital Cayetano Heredia",
           "handle": "20.500.12866/19382"
-        },
-        {
-          "title": "Lesión renal aguda en pacientes con insuficiencia cardíaca aguda: incidencia, características y asociación con desenlaces intrahospitalarios en un hospital de tercer nivel de Lima, Perú",
-          "handle": "20.500.12866/18504"
         }
       ]
     },
@@ -1550,6 +1550,14 @@
       "handle": "20.500.12866/18758",
       "tesis": [
         {
+          "title": "Abordajes fisioterapéuticos del suelo pélvico en la incontinencia urinaria en mujeres deportistas que realizan ejercicios de alto impacto atendidas en servicios de fisioterapia: una revisión de alcance",
+          "handle": "20.500.12866/24730"
+        },
+        {
+          "title": "Intervenciones de fisioterapia respiratoria aplicadas durante la ventilación mecánica previo al destete ventilatorio en pacientes pediátricos: una revisión de alcance",
+          "handle": "20.500.12866/24727"
+        },
+        {
           "title": "Evidencias sobre el uso clínico de las mediciones de presión inspiratoria máxima (PIMAX) y presión espiratoria máxima (PEMAX) en la rehabilitación pulmonar de personas con esclerosis lateral amiotrófica en el ámbito hospitalario: una revisión de alcance",
           "handle": "20.500.12866/24678"
         },
@@ -1560,14 +1568,6 @@
         {
           "title": "Abordaje fisioterapéutico postoperatorio inmediato como prevención de secuelas asociadas a la cirugía mamaria en pacientes con cáncer de mama: una revisión de alcance",
           "handle": "20.500.12866/24533"
-        },
-        {
-          "title": "Dolor cervical asociado al uso prolongado de dispositivos móviles en estudiantes universitarios: una revisión de alcance",
-          "handle": "20.500.12866/24525"
-        },
-        {
-          "title": "Abordajes fisioterapéuticos con electroterapia en adultos con espasticidad post accidente cerebrovascular isquémico: una revisión de alcance",
-          "handle": "20.500.12866/24505"
         }
       ]
     },
@@ -1575,6 +1575,10 @@
       "clave": "tecnologia-medica-terapia-ocupacional-titulo-profesional",
       "handle": "20.500.12866/18754",
       "tesis": [
+        {
+          "title": "Beneficios de tecnologías asistivas aplicadas en la independencia funcional del adulto mayor en entornos domiciliarios: una revisión de alcance",
+          "handle": "20.500.12866/24728"
+        },
         {
           "title": "Evidencia sobre programas de rehabilitación laboral desde la terapia ocupacional en la participación productiva de personas adultas con esquizofrenia: una revisión de alcance",
           "handle": "20.500.12866/24666"
@@ -1590,10 +1594,6 @@
         {
           "title": "Eficacia del programa de integración sensorial para mejorar el nivel de atención en niños de primer grado de primaria del “Colegio Cristiano Internacional ELIM San Juan de Lurigancho”",
           "handle": "20.500.12866/24520"
-        },
-        {
-          "title": "Impacto de la terapia ocupacional en el manejo del tiempo libre y actividades recreativas de adultos y adultos mayores con depresión: una revisión de alcance",
-          "handle": "20.500.12866/17908"
         }
       ]
     }
