@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-09T18:31:57.607Z",
+  "actualizado": "2026-07-09T20:26:37.755Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1612,6 +1612,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el conocimiento y prácticas sobre lactancia materna exclusiva en madres de menores de 6 meses en un Puesto de Salud Ica, 2025",
+          "handle": "20.500.12866/24733"
+        },
+        {
           "title": "Estrategias de afrontamiento y calidad de vida en mujeres con cáncer de mama sometidas a una mastectomía en un hospital nacional, Lima - 2025",
           "handle": "20.500.12866/24721"
         },
@@ -1626,10 +1630,6 @@
         {
           "title": "Nivel de conocimiento y práctica del autoexamen de mama como diagnóstico precoz del cáncer de mama en mujeres que acuden a un centro de salud, Callao – 2025",
           "handle": "20.500.12866/24697"
-        },
-        {
-          "title": "Efectividad de una sesión educativa virtual vs presencial sobre el nivel de conocimientos del cáncer de mama en madres de familia de dos instituciones educativas, 2025",
-          "handle": "20.500.12866/24692"
         }
       ]
     },
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Nivel de conocimiento sobre caries de infancia temprana en gestantes atendidas en el servicio de Gineco-Obstetricia del Hospital Nacional Cayetano Heredia, Lima, 2026",
+          "handle": "20.500.12866/24734"
+        },
+        {
           "title": "Influencia del material de férula y del material antagonista sobre el desgaste de férulas oclusales fabricadas mediante técnica convencional, sustractiva y aditiva",
           "handle": "20.500.12866/24732"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Asociación entre el tipo de maloclusión, edentulismo y signos y síntomas relacionados a trastornos temporomandibulares en pacientes atendidos en el servicio de Rehabilitación Oral de la Clínica Dental Docente de la Universidad Peruana Cayetano Heredia durante el período 2017-2019",
           "handle": "20.500.12866/24706"
-        },
-        {
-          "title": "Conocimientos sobre caries de infancia temprana en personal de salud del primer nivel de atención de la provincia de Castrovirreyna, Huancavelica-Perú, 2026",
-          "handle": "20.500.12866/24700"
         }
       ]
     },
