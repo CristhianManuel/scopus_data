@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-09T14:15:39.208Z",
+  "actualizado": "2026-07-09T16:46:38.052Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Influencia del material de férula y del material antagonista sobre el desgaste de férulas oclusales fabricadas mediante técnica convencional, sustractiva y aditiva",
+          "handle": "20.500.12866/24732"
+        },
+        {
           "title": "Prevalencia, severidad y factores asociados de recesiones gingivales en un centro odontológico privado en Trujillo",
           "handle": "20.500.12866/24722"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Conocimientos sobre caries de infancia temprana en personal de salud del primer nivel de atención de la provincia de Castrovirreyna, Huancavelica-Perú, 2026",
           "handle": "20.500.12866/24700"
-        },
-        {
-          "title": "Asociación entre asimetría facial y desviación de la línea media dental en pacientes atendidos en la clínica Multident Villa El Salvador, Lima-Perú, 2025",
-          "handle": "20.500.12866/24698"
         }
       ]
     },
