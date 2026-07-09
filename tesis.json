@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-09T20:26:37.755Z",
+  "actualizado": "2026-07-09T21:57:56.185Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1052,6 +1052,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Análisis del proceso de auditoría de  sistemas de gestión de seguridad  y salud en el trabajo  bajo el marco general de la Ley N° 29783",
+          "handle": "20.500.12866/24738"
+        },
+        {
           "title": "Consecuencias de la pandemia COVID-19 en los trastornos de refracción: una revisión sistemática",
           "handle": "20.500.12866/24711"
         },
@@ -1066,10 +1070,6 @@
         {
           "title": "Gestión de riesgos psicosociales en las organizaciones del sector minero: una revisión narrativa",
           "handle": "20.500.12866/24640"
-        },
-        {
-          "title": "Realidad virtual como herramienta de prevención y evaluación en actividades de manipulación manual de cargas",
-          "handle": "20.500.12866/24547"
         }
       ]
     },
@@ -1738,6 +1738,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Efectividad de los diferentes tratamientos para el queratoquiste odontogénico tratados en el centro dental docente UPCH entre los años: 2021 – 2026",
+          "handle": "20.500.12866/24737"
+        },
+        {
+          "title": "Características clínicas y protésicas de las prótesis implantosoportadas realizadas en el programa de posgrado del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2020-2025",
+          "handle": "20.500.12866/24736"
+        },
+        {
           "title": "Nivel de conocimiento sobre caries de infancia temprana en gestantes atendidas en el servicio de Gineco-Obstetricia del Hospital Nacional Cayetano Heredia, Lima, 2026",
           "handle": "20.500.12866/24734"
         },
@@ -1748,14 +1756,6 @@
         {
           "title": "Prevalencia, severidad y factores asociados de recesiones gingivales en un centro odontológico privado en Trujillo",
           "handle": "20.500.12866/24722"
-        },
-        {
-          "title": "Prácticas de higiene oral en pacientes adultos portadores de aparatología ortodóntica fija atendidos en la Clínica Dental Docente de la Universidad Peruana Cayetano Heredia",
-          "handle": "20.500.12866/24708"
-        },
-        {
-          "title": "Asociación entre el tipo de maloclusión, edentulismo y signos y síntomas relacionados a trastornos temporomandibulares en pacientes atendidos en el servicio de Rehabilitación Oral de la Clínica Dental Docente de la Universidad Peruana Cayetano Heredia durante el período 2017-2019",
-          "handle": "20.500.12866/24706"
         }
       ]
     },
