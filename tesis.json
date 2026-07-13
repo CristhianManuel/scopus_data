@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-13T13:06:16.511Z",
+  "actualizado": "2026-07-13T15:51:13.159Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1612,6 +1612,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Relación entre sobrecarga y afrontamiento del estrés en cuidadores primarios de niños con síndrome de Down en una institución privada de Lima, 2025",
+          "handle": "20.500.12866/24748"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el conocimiento y prácticas sobre lactancia materna exclusiva en madres de menores de 6 meses en un Puesto de Salud Ica, 2025",
           "handle": "20.500.12866/24733"
         },
@@ -1626,10 +1630,6 @@
         {
           "title": "Relación de la capacidad de agencia de autocuidado y afrontamiento - adaptación del cuidador primario de pacientes en cuidados paliativos, Lima",
           "handle": "20.500.12866/24703"
-        },
-        {
-          "title": "Nivel de conocimiento y práctica del autoexamen de mama como diagnóstico precoz del cáncer de mama en mujeres que acuden a un centro de salud, Callao – 2025",
-          "handle": "20.500.12866/24697"
         }
       ]
     },
@@ -1638,24 +1638,24 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Sobrecarga del cuidador principal del paciente con enfermedad renal crónica",
+          "handle": "20.500.12866/24749"
+        },
+        {
+          "title": "Conocimiento y práctica del profesional de enfermería en la prevención de hipotermia en la etapa perioperatoria en Centro Quirúrgico de un Hospital de Lima, 2025",
+          "handle": "20.500.12866/24747"
+        },
+        {
+          "title": "Efectividad de la musicoterapia como intervención complementaria para la reducción de la ansiedad del paciente durante la etapa preoperatoria en un hospital de la ciudad de Lima",
+          "handle": "20.500.12866/24745"
+        },
+        {
           "title": "Grado de conocimiento del papanicolaou y su cumplimiento en mujeres en edad productiva del Asentamiento humano La Victoria, Chimbote 2025",
           "handle": "20.500.12866/24715"
         },
         {
           "title": "Efectividad de la visita prequirúrgica en la ansiedad del paciente programado para cirugía cardíaca, 2025",
           "handle": "20.500.12866/24633"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el autocuidado del paciente adulto maduro con colostoma",
-          "handle": "20.500.12866/24620"
-        },
-        {
-          "title": "Evidencias de la posición prona sobre la mecánica ventilatoria de pacientes con Síndrome de Distrés Respiratorio Agudo ocasionado por SARS COV - 2 en la unidad de cuidados intensivos",
-          "handle": "20.500.12866/24612"
-        },
-        {
-          "title": "Conocimiento y prácticas sobre medidas de bioseguridad en la prevención de riesgos biológicos en el personal de enfermería del centro quirúrgico de un hospital de Lima, 2025",
-          "handle": "20.500.12866/24606"
         }
       ]
     },
@@ -1738,6 +1738,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Relación entre el soporte oclusal posterior y la severidad de los trastornos temporomandibulares en pacientes parcialmente edéntulos atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2026",
+          "handle": "20.500.12866/24744"
+        },
+        {
+          "title": "Relación entre el conocimiento, la percepción y el nivel de ansiedad frente al tratamiento de conducto en pacientes que asisten al servicio de Endodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia",
+          "handle": "20.500.12866/24743"
+        },
+        {
           "title": "Resistencia a la fatiga cíclica del instrumento One RECI 25/.04 utilizando reciprocación adaptativa inteligente (ARI) y el programa recomendado por el fabricante: estudio in vitro",
           "handle": "20.500.12866/24742"
         },
@@ -1748,14 +1756,6 @@
         {
           "title": "Conocimiento, uso y percepción del acceso endodóntico guiado en los miembros de la Sociedad Peruana de Endodoncia, 2026",
           "handle": "20.500.12866/24740"
-        },
-        {
-          "title": "Manejo y eficacia en la selección del color dental en los residentes de las áreas de Rehabilitación Oral y Odontología Restauradora y Estética de la Universidad Peruana Cayetano Heredia en el periodo 2026",
-          "handle": "20.500.12866/24739"
-        },
-        {
-          "title": "Efectividad de los diferentes tratamientos para el queratoquiste odontogénico tratados en el centro dental docente UPCH entre los años: 2021 – 2026",
-          "handle": "20.500.12866/24737"
         }
       ]
     },
