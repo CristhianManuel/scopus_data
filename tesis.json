@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T16:07:20.411Z",
+  "actualizado": "2026-07-14T17:34:35.280Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Estrategias de enfermeras para la prevención de lesiones por presión en neonatos prematuros por ventilación mecánica no invasiva en UCI neonatal de un hospital nivel IV ESSALUD, 2025",
+          "handle": "20.500.12866/24755"
+        },
+        {
           "title": "Sobrecarga del cuidador principal del paciente con enfermedad renal crónica",
           "handle": "20.500.12866/24749"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Grado de conocimiento del papanicolaou y su cumplimiento en mujeres en edad productiva del Asentamiento humano La Victoria, Chimbote 2025",
           "handle": "20.500.12866/24715"
-        },
-        {
-          "title": "Efectividad de la visita prequirúrgica en la ansiedad del paciente programado para cirugía cardíaca, 2025",
-          "handle": "20.500.12866/24633"
         }
       ]
     },
