@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T20:00:01.869Z",
+  "actualizado": "2026-07-14T21:06:17.456Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa audiovisual en el nivel de ansiedad en pacientes sometidos a cirugía en centro quirúrgico de un hospital nacional, Lima, 2025",
+          "handle": "20.500.12866/24760"
+        },
+        {
           "title": "Efectividad de las intervenciones educativas de enfermería para mejorar la adherencia al tratamiento en usuarios ambulatorios del programa de falla cardíaca en el Instituto Nacional Cardiovascular durante el año 2025",
           "handle": "20.500.12866/24757"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Sobrecarga del cuidador principal del paciente con enfermedad renal crónica",
           "handle": "20.500.12866/24749"
-        },
-        {
-          "title": "Conocimiento y práctica del profesional de enfermería en la prevención de hipotermia en la etapa perioperatoria en Centro Quirúrgico de un Hospital de Lima, 2025",
-          "handle": "20.500.12866/24747"
         }
       ]
     },
