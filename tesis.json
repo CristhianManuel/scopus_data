@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T14:51:48.742Z",
+  "actualizado": "2026-07-14T16:07:20.411Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Nivel de conocimientos sobre protección radiológica de los odontólogos del Policlínico Militar de Chorrillos-Lima, 2026",
+          "handle": "20.500.12866/24752"
+        },
+        {
           "title": "Relación entre el soporte oclusal posterior y la severidad de los trastornos temporomandibulares en pacientes parcialmente edéntulos atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2026",
           "handle": "20.500.12866/24744"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Prevalencia y localización del conducto mesiovestibular secundario (MB2) en segundos molares superiores evaluados mediante tomografía computarizada de haz cónico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2016-2025",
           "handle": "20.500.12866/24741"
-        },
-        {
-          "title": "Conocimiento, uso y percepción del acceso endodóntico guiado en los miembros de la Sociedad Peruana de Endodoncia, 2026",
-          "handle": "20.500.12866/24740"
         }
       ]
     },
