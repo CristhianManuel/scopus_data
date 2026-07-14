@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T21:06:17.456Z",
+  "actualizado": "2026-07-14T22:11:57.109Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Necesidad de tratamiento ortodóntico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2025",
+          "handle": "20.500.12866/24762"
+        },
+        {
+          "title": "Estudio in vitro del efecto de dentífricos blanqueadores libres de peróxido de hidrógeno en la resistencia adhesiva al microcizallamiento de adhesivos universales al esmalte dental",
+          "handle": "20.500.12866/24761"
+        },
+        {
           "title": "Evaluación de la distancia de la primera y segunda molar superior con el piso del seno maxilar mediante la tomografía volumétrica en pacientes que acudieron al servicio de Radiología Bucal del Centro Dental Docente UPCH, Lima-Perú, 2026",
           "handle": "20.500.12866/24759"
         },
@@ -1748,14 +1756,6 @@
         {
           "title": "Nivel de conocimientos sobre protección radiológica de los odontólogos del Policlínico Militar de Chorrillos-Lima, 2026",
           "handle": "20.500.12866/24752"
-        },
-        {
-          "title": "Relación entre el soporte oclusal posterior y la severidad de los trastornos temporomandibulares en pacientes parcialmente edéntulos atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2026",
-          "handle": "20.500.12866/24744"
-        },
-        {
-          "title": "Relación entre el conocimiento, la percepción y el nivel de ansiedad frente al tratamiento de conducto en pacientes que asisten al servicio de Endodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia",
-          "handle": "20.500.12866/24743"
         }
       ]
     },
