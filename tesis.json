@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T12:57:17.594Z",
+  "actualizado": "2026-07-14T14:51:48.742Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Evaluación de la inmunogenicidad celular de proteínas seleccionadas de Treponema pallidum mediante detección y cuantificación de IFN-γ en pacientes con sífilis en Lima, Perú",
+          "handle": "20.500.12866/24751"
+        },
+        {
           "title": "Evaluación de la expresión de biomarcadores de estrés oxidativo en cultivos primarios astrocíticos de Rattus norvegicus inducidos con antígeno E/S o Total del estadio de cisticerco de Taenia solium",
           "handle": "20.500.12866/24503"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Evaluación de la competencia de analistas microbiológicos aplicando la ISO/IEC 17025:2017 para Salmonella spp., Aerobios Mesófilos a 30ºC y Escherichia coli en productos hidrobiológicos congelados de Dosidicus gigas (pota)",
           "handle": "20.500.12866/18465"
-        },
-        {
-          "title": "Evaluación de la densidad y características de Nostoc sphaericum en relación a cultivos agrícolas en San Pedro de Cajas",
-          "handle": "20.500.12866/18422"
         }
       ]
     },
