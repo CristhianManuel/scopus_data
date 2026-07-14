@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-14T18:46:14.551Z",
+  "actualizado": "2026-07-14T20:00:01.869Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Efectividad de las intervenciones educativas de enfermería para mejorar la adherencia al tratamiento en usuarios ambulatorios del programa de falla cardíaca en el Instituto Nacional Cardiovascular durante el año 2025",
+          "handle": "20.500.12866/24757"
+        },
+        {
+          "title": "Nivel de conocimiento sobre la ingesta de líquidos en pacientes con enfermedad renal crónica en hemodiálisis de un hospital III - 2 de Lima, 2026",
+          "handle": "20.500.12866/24756"
+        },
+        {
           "title": "Estrategias de enfermeras para la prevención de lesiones por presión en neonatos prematuros por ventilación mecánica no invasiva en UCI neonatal de un hospital nivel IV ESSALUD, 2025",
           "handle": "20.500.12866/24755"
         },
@@ -1648,14 +1656,6 @@
         {
           "title": "Conocimiento y práctica del profesional de enfermería en la prevención de hipotermia en la etapa perioperatoria en Centro Quirúrgico de un Hospital de Lima, 2025",
           "handle": "20.500.12866/24747"
-        },
-        {
-          "title": "Efectividad de la musicoterapia como intervención complementaria para la reducción de la ansiedad del paciente durante la etapa preoperatoria en un hospital de la ciudad de Lima",
-          "handle": "20.500.12866/24745"
-        },
-        {
-          "title": "Grado de conocimiento del papanicolaou y su cumplimiento en mujeres en edad productiva del Asentamiento humano La Victoria, Chimbote 2025",
-          "handle": "20.500.12866/24715"
         }
       ]
     },
@@ -1738,6 +1738,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Evaluación de la distancia de la primera y segunda molar superior con el piso del seno maxilar mediante la tomografía volumétrica en pacientes que acudieron al servicio de Radiología Bucal del Centro Dental Docente UPCH, Lima-Perú, 2026",
+          "handle": "20.500.12866/24759"
+        },
+        {
+          "title": "Evaluación tomográfica de las características óseas y mucosa de la región palatina para la colocación de mini implantes bicorticales en MARPE en pacientes del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2025",
+          "handle": "20.500.12866/24758"
+        },
+        {
           "title": "Nivel de conocimientos sobre protección radiológica de los odontólogos del Policlínico Militar de Chorrillos-Lima, 2026",
           "handle": "20.500.12866/24752"
         },
@@ -1748,14 +1756,6 @@
         {
           "title": "Relación entre el conocimiento, la percepción y el nivel de ansiedad frente al tratamiento de conducto en pacientes que asisten al servicio de Endodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia",
           "handle": "20.500.12866/24743"
-        },
-        {
-          "title": "Resistencia a la fatiga cíclica del instrumento One RECI 25/.04 utilizando reciprocación adaptativa inteligente (ARI) y el programa recomendado por el fabricante: estudio in vitro",
-          "handle": "20.500.12866/24742"
-        },
-        {
-          "title": "Prevalencia y localización del conducto mesiovestibular secundario (MB2) en segundos molares superiores evaluados mediante tomografía computarizada de haz cónico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2016-2025",
-          "handle": "20.500.12866/24741"
         }
       ]
     },
