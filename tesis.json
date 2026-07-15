@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-15T13:00:42.115Z",
+  "actualizado": "2026-07-15T15:00:20.982Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1104,6 +1104,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Reporte de caso de tricoblastoma de tejido blando en un canino atendido en una veterinaria de Lima, Perú",
+          "handle": "20.500.12866/24764"
+        },
+        {
           "title": "“Enfermedad del tracto urinario inferior felino asociado a urolitiasis: reporte de casos a partir de una clínica veterinaria especializada en medicina felina en Lima.”",
           "handle": "20.500.12866/24687"
         },
@@ -1118,10 +1122,6 @@
         {
           "title": "Impacto productivo de la aplicación de dos vacunas contra circovirus porcino tipo 2 en una granja de cerdos de crianza intensiva en la provincia de Pisco, Ica -Perú",
           "handle": "20.500.12866/19772"
-        },
-        {
-          "title": "Comparación de leyes de esterilización en cinco países latinoamericanos: Argentina, Chile, Colombia, México y Perú",
-          "handle": "20.500.12866/19554"
         }
       ]
     },
@@ -1576,6 +1576,10 @@
       "handle": "20.500.12866/18754",
       "tesis": [
         {
+          "title": "Efectos de la posición de trabajo sobre la carga física y mental de costureros al desempeñar actividades de costura a máquina",
+          "handle": "20.500.12866/24763"
+        },
+        {
           "title": "Beneficios de tecnologías asistivas aplicadas en la independencia funcional del adulto mayor en entornos domiciliarios: una revisión de alcance",
           "handle": "20.500.12866/24728"
         },
@@ -1590,10 +1594,6 @@
         {
           "title": "Intervenciones de terapia ocupacional para promover la autonomía en actividades básicas de la vida diaria en estudiantes de educación básica especial: una revisión de alcance",
           "handle": "20.500.12866/24631"
-        },
-        {
-          "title": "Eficacia del programa de integración sensorial para mejorar el nivel de atención en niños de primer grado de primaria del “Colegio Cristiano Internacional ELIM San Juan de Lurigancho”",
-          "handle": "20.500.12866/24520"
         }
       ]
     },
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Nivel de satisfacción y percepción de los pacientes tratados con alineadores versus ortodoncia convencional del Servicio de Ortodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2026",
+          "handle": "20.500.12866/24765"
+        },
+        {
           "title": "Necesidad de tratamiento ortodóntico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2025",
           "handle": "20.500.12866/24762"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Evaluación tomográfica de las características óseas y mucosa de la región palatina para la colocación de mini implantes bicorticales en MARPE en pacientes del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2025",
           "handle": "20.500.12866/24758"
-        },
-        {
-          "title": "Nivel de conocimientos sobre protección radiológica de los odontólogos del Policlínico Militar de Chorrillos-Lima, 2026",
-          "handle": "20.500.12866/24752"
         }
       ]
     },
