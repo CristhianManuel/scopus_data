@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-16T14:18:40.677Z",
+  "actualizado": "2026-07-16T15:51:19.234Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1052,6 +1052,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Cáncer ocupacional del aparato digestivo",
+          "handle": "20.500.12866/24768"
+        },
+        {
           "title": "Análisis del proceso de auditoría de  sistemas de gestión de seguridad  y salud en el trabajo  bajo el marco general de la Ley N° 29783",
           "handle": "20.500.12866/24738"
         },
@@ -1066,10 +1070,6 @@
         {
           "title": "Rehabilitación profesional: herramienta para la gestión del retorno al trabajo e inclusión laboral",
           "handle": "20.500.12866/24702"
-        },
-        {
-          "title": "Gestión de riesgos psicosociales en las organizaciones del sector minero: una revisión narrativa",
-          "handle": "20.500.12866/24640"
         }
       ]
     },
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Síndrome de Burnout en el personal de enfermería durante la pandemia COVID-19",
+          "handle": "20.500.12866/24767"
+        },
+        {
           "title": "Efectividad de una intervención educativa audiovisual en el nivel de ansiedad en pacientes sometidos a cirugía en centro quirúrgico de un hospital nacional, Lima, 2025",
           "handle": "20.500.12866/24760"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Estrategias de enfermeras para la prevención de lesiones por presión en neonatos prematuros por ventilación mecánica no invasiva en UCI neonatal de un hospital nivel IV ESSALUD, 2025",
           "handle": "20.500.12866/24755"
-        },
-        {
-          "title": "Sobrecarga del cuidador principal del paciente con enfermedad renal crónica",
-          "handle": "20.500.12866/24749"
         }
       ]
     },
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Evaluación de la distancia interincisiva post expansión rápida maxilar con anclaje convencional o esquelético",
+          "handle": "20.500.12866/24770"
+        },
+        {
           "title": "Nivel de satisfacción y percepción de los pacientes tratados con alineadores versus ortodoncia convencional del Servicio de Ortodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2026",
           "handle": "20.500.12866/24765"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Evaluación de la distancia de la primera y segunda molar superior con el piso del seno maxilar mediante la tomografía volumétrica en pacientes que acudieron al servicio de Radiología Bucal del Centro Dental Docente UPCH, Lima-Perú, 2026",
           "handle": "20.500.12866/24759"
-        },
-        {
-          "title": "Evaluación tomográfica de las características óseas y mucosa de la región palatina para la colocación de mini implantes bicorticales en MARPE en pacientes del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2025",
-          "handle": "20.500.12866/24758"
         }
       ]
     },
