@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T18:32:45.647Z",
+  "actualizado": "2026-07-17T19:44:36.709Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1712,6 +1712,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Prevalencia de compuestos volátiles sulfurados de la halitosis en pacientes edéntulos totales de la Clínica Dental Docente Cayetano Heredia durante el 2025",
+          "handle": "20.500.12866/24777"
+        },
+        {
           "title": "Caries dental, enfermedad periodontal y conductas de riesgo en adolescentes de una comunidad rural de Cajatambo, año 2025",
           "handle": "20.500.12866/24724"
         },
@@ -1726,10 +1730,6 @@
         {
           "title": "Análisis comparativo de la prevalencia de patologías bucales en hombres y mujeres atendidos en el Laboratorio de Patología Bucomaxilofacial de la Universidad Peruana Cayetano Heredia - Centro Dental Docente (1991-2023)",
           "handle": "20.500.12866/24518"
-        },
-        {
-          "title": "Evaluación de los hábitos saludables en estudiantes de pregrado de Estomatología de la Universidad Peruana Cayetano Heredia en el año 2024",
-          "handle": "20.500.12866/24508"
         }
       ]
     },
@@ -1764,6 +1764,10 @@
       "handle": "20.500.12866/18653",
       "tesis": [
         {
+          "title": "Evaluación de la microdureza superficial y color de una resina para impresión 3D de larga duración con aditivo de óxido de grafeno",
+          "handle": "20.500.12866/24776"
+        },
+        {
           "title": "Impacto de la migración en calidad de vida relacionada con salud oral en adolescentes del cantón Cañar-Ecuador",
           "handle": "20.500.12866/18519"
         },
@@ -1778,10 +1782,6 @@
         {
           "title": "Asociación del colapso posterior de mordida con las características clínicas en pacientes del Centro Dental Docente de la UPCH del 2016 - 2024",
           "handle": "20.500.12866/17987"
-        },
-        {
-          "title": "Influencia de la morfología palatina en la exactitud y precisión del escaneo intraoral del maxilar edéntulo",
-          "handle": "20.500.12866/17975"
         }
       ]
     },
