@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T20:36:32.304Z",
+  "actualizado": "2026-07-17T21:29:28.725Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Conocimiento y práctica de enfermería en la prevención de neumonía asociada en ventilación mecánica en la Unidad de Cuidados Intensivos de un hospital de ESSALUD Pasco, 2026",
+          "handle": "20.500.12866/24780"
+        },
+        {
           "title": "Conocimiento y cuidados de enfermería en el manejo de pacientes con accidente cerebrovascular en el personal de enfermería del servicio de emergencia en un hospital de ESSALUD, 2025",
           "handle": "20.500.12866/24778"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Efectividad de las intervenciones educativas de enfermería para mejorar la adherencia al tratamiento en usuarios ambulatorios del programa de falla cardíaca en el Instituto Nacional Cardiovascular durante el año 2025",
           "handle": "20.500.12866/24757"
-        },
-        {
-          "title": "Nivel de conocimiento sobre la ingesta de líquidos en pacientes con enfermedad renal crónica en hemodiálisis de un hospital III - 2 de Lima, 2026",
-          "handle": "20.500.12866/24756"
         }
       ]
     },
