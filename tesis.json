@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T17:23:36.080Z",
+  "actualizado": "2026-07-17T18:32:45.647Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Hallazgos clínicos más frecuentes en pacientes diagnosticados con síndrome de combinación atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia durante el año 2025",
+          "handle": "20.500.12866/24773"
+        },
+        {
+          "title": "Factores asociados a la decisión de extracción o no extracción de premolares en tratamientos ortodóncicos de la Maloclusión Clase I de la Clínica Dental Docente Cayetano Heredia durante los años 2019-2024",
+          "handle": "20.500.12866/24772"
+        },
+        {
           "title": "Evaluación de la distancia interincisiva post expansión rápida maxilar con anclaje convencional o esquelético",
           "handle": "20.500.12866/24770"
         },
@@ -1748,14 +1756,6 @@
         {
           "title": "Necesidad de tratamiento ortodóntico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2025",
           "handle": "20.500.12866/24762"
-        },
-        {
-          "title": "Estudio in vitro del efecto de dentífricos blanqueadores libres de peróxido de hidrógeno en la resistencia adhesiva al microcizallamiento de adhesivos universales al esmalte dental",
-          "handle": "20.500.12866/24761"
-        },
-        {
-          "title": "Evaluación de la distancia de la primera y segunda molar superior con el piso del seno maxilar mediante la tomografía volumétrica en pacientes que acudieron al servicio de Radiología Bucal del Centro Dental Docente UPCH, Lima-Perú, 2026",
-          "handle": "20.500.12866/24759"
         }
       ]
     },
