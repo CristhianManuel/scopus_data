@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T21:29:28.725Z",
+  "actualizado": "2026-07-17T22:25:29.685Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Calidad de vida y conductas de autocuidado en personas con insuficiencia cardíaca que participan en un programa de educación y seguimiento de enfermería, en el Instituto Nacional Cardiovascular, Lima 2025",
+          "handle": "20.500.12866/24781"
+        },
+        {
           "title": "Conocimiento y práctica de enfermería en la prevención de neumonía asociada en ventilación mecánica en la Unidad de Cuidados Intensivos de un hospital de ESSALUD Pasco, 2026",
           "handle": "20.500.12866/24780"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Efectividad de una intervención educativa audiovisual en el nivel de ansiedad en pacientes sometidos a cirugía en centro quirúrgico de un hospital nacional, Lima, 2025",
           "handle": "20.500.12866/24760"
-        },
-        {
-          "title": "Efectividad de las intervenciones educativas de enfermería para mejorar la adherencia al tratamiento en usuarios ambulatorios del programa de falla cardíaca en el Instituto Nacional Cardiovascular durante el año 2025",
-          "handle": "20.500.12866/24757"
         }
       ]
     },
