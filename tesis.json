@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-17T19:44:36.709Z",
+  "actualizado": "2026-07-17T20:36:32.304Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,6 +1638,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Conocimiento y cuidados de enfermería en el manejo de pacientes con accidente cerebrovascular en el personal de enfermería del servicio de emergencia en un hospital de ESSALUD, 2025",
+          "handle": "20.500.12866/24778"
+        },
+        {
           "title": "Síndrome de Burnout en el personal de enfermería durante la pandemia COVID-19",
           "handle": "20.500.12866/24767"
         },
@@ -1652,10 +1656,6 @@
         {
           "title": "Nivel de conocimiento sobre la ingesta de líquidos en pacientes con enfermedad renal crónica en hemodiálisis de un hospital III - 2 de Lima, 2026",
           "handle": "20.500.12866/24756"
-        },
-        {
-          "title": "Estrategias de enfermeras para la prevención de lesiones por presión en neonatos prematuros por ventilación mecánica no invasiva en UCI neonatal de un hospital nivel IV ESSALUD, 2025",
-          "handle": "20.500.12866/24755"
         }
       ]
     },
