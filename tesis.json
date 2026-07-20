@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-20T16:22:47.906Z",
+  "actualizado": "2026-07-20T18:27:42.734Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Conectando con la naturaleza: el impacto de las visitas guiadas educativas a la RNIPG- Punta San Juan en los conocimientos y percepciones de los residentes de Marcona",
+          "handle": "20.500.12866/24785"
+        },
+        {
           "title": "Evaluación de la inmunogenicidad celular de proteínas seleccionadas de Treponema pallidum mediante detección y cuantificación de IFN-γ en pacientes con sífilis en Lima, Perú",
           "handle": "20.500.12866/24751"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Estudio comparativo de los efectos energizantes en ratones del extracto hidroalcohólico atomizado de maca negra (Lepidium meyenii) con otros energizantes comerciales",
           "handle": "20.500.12866/18467"
-        },
-        {
-          "title": "Evaluación de la competencia de analistas microbiológicos aplicando la ISO/IEC 17025:2017 para Salmonella spp., Aerobios Mesófilos a 30ºC y Escherichia coli en productos hidrobiológicos congelados de Dosidicus gigas (pota)",
-          "handle": "20.500.12866/18465"
         }
       ]
     },
