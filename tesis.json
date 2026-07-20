@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-20T12:38:07.597Z",
+  "actualizado": "2026-07-20T14:55:48.298Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Cambios dentoalveolares del incisivo inferior en pacientes con relación esqueletal Clase III atendidos en un centro dental docente, Lima-Perú, 2026",
+          "handle": "20.500.12866/24783"
+        },
+        {
           "title": "Hallazgos clínicos más frecuentes en pacientes diagnosticados con síndrome de combinación atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia durante el año 2025",
           "handle": "20.500.12866/24773"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Nivel de satisfacción y percepción de los pacientes tratados con alineadores versus ortodoncia convencional del Servicio de Ortodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2026",
           "handle": "20.500.12866/24765"
-        },
-        {
-          "title": "Necesidad de tratamiento ortodóntico en pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, Lima-Perú, 2025",
-          "handle": "20.500.12866/24762"
         }
       ]
     },
