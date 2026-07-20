@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-20T18:27:42.734Z",
+  "actualizado": "2026-07-20T20:08:13.313Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1712,6 +1712,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Relación entre el uso de la IA generativa Gemini 1.5, el rendimiento académico y la percepción estudiantil en alumnos de Estomatología de la UPCH. Estudio longitudinal",
+          "handle": "20.500.12866/24786"
+        },
+        {
           "title": "Prevalencia de compuestos volátiles sulfurados de la halitosis en pacientes edéntulos totales de la Clínica Dental Docente Cayetano Heredia durante el 2025",
           "handle": "20.500.12866/24777"
         },
@@ -1726,10 +1730,6 @@
         {
           "title": "Nivel de ansiedad frente al tratamiento odontológico de los pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2024",
           "handle": "20.500.12866/24528"
-        },
-        {
-          "title": "Análisis comparativo de la prevalencia de patologías bucales en hombres y mujeres atendidos en el Laboratorio de Patología Bucomaxilofacial de la Universidad Peruana Cayetano Heredia - Centro Dental Docente (1991-2023)",
-          "handle": "20.500.12866/24518"
         }
       ]
     },
