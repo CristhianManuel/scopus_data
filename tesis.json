@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-21T19:29:16.783Z",
+  "actualizado": "2026-07-21T20:47:48.220Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1764,6 +1764,10 @@
       "handle": "20.500.12866/18653",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y actitudes hacia la lactancia materna en odontólogos del valle del Mantaro, Junín",
+          "handle": "20.500.12866/24788"
+        },
+        {
           "title": "Evaluación de la microdureza superficial y color de una resina para impresión 3D de larga duración con aditivo de óxido de grafeno",
           "handle": "20.500.12866/24776"
         },
@@ -1778,10 +1782,6 @@
         {
           "title": "Asociación entre los indicadores de impacto con el costo de publicación en revistas odontológicas del mundo",
           "handle": "20.500.12866/17999"
-        },
-        {
-          "title": "Asociación del colapso posterior de mordida con las características clínicas en pacientes del Centro Dental Docente de la UPCH del 2016 - 2024",
-          "handle": "20.500.12866/17987"
         }
       ]
     },
