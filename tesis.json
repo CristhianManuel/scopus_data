@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-21T20:47:48.220Z",
+  "actualizado": "2026-07-21T21:48:44.565Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1638,24 +1638,24 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y prácticas sobre la técnica de lactancia materna en madres primerizas adolescentes y añosas de prematuros, 2025",
+          "handle": "20.500.12866/24793"
+        },
+        {
+          "title": "Calidad de atención de enfermería y satisfacción del paciente en el servicio de emergencia del Hospital José Casimiro Ulloa, Lima 2026",
+          "handle": "20.500.12866/24792"
+        },
+        {
+          "title": "Cuidados de enfermería en el manejo de pacientes politraumatizados en el servicio de emergencia",
+          "handle": "20.500.12866/24791"
+        },
+        {
           "title": "Calidad de vida y conductas de autocuidado en personas con insuficiencia cardíaca que participan en un programa de educación y seguimiento de enfermería, en el Instituto Nacional Cardiovascular, Lima 2025",
           "handle": "20.500.12866/24781"
         },
         {
           "title": "Conocimiento y práctica de enfermería en la prevención de neumonía asociada en ventilación mecánica en la Unidad de Cuidados Intensivos de un hospital de ESSALUD Pasco, 2026",
           "handle": "20.500.12866/24780"
-        },
-        {
-          "title": "Conocimiento y cuidados de enfermería en el manejo de pacientes con accidente cerebrovascular en el personal de enfermería del servicio de emergencia en un hospital de ESSALUD, 2025",
-          "handle": "20.500.12866/24778"
-        },
-        {
-          "title": "Síndrome de Burnout en el personal de enfermería durante la pandemia COVID-19",
-          "handle": "20.500.12866/24767"
-        },
-        {
-          "title": "Efectividad de una intervención educativa audiovisual en el nivel de ansiedad en pacientes sometidos a cirugía en centro quirúrgico de un hospital nacional, Lima, 2025",
-          "handle": "20.500.12866/24760"
         }
       ]
     },
