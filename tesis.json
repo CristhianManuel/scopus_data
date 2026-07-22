@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-22T21:44:22.161Z",
+  "actualizado": "2026-07-22T22:43:07.580Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -930,6 +930,10 @@
       "handle": "20.500.12866/18907",
       "tesis": [
         {
+          "title": "Desarrollo de una aplicación web para el registro y consulta de eventos de mantenimiento de equipos médicos en la Clínica Médica Cayetano Heredia (CMCH)",
+          "handle": "20.500.12866/24796"
+        },
+        {
           "title": "Arquitectura metodológica para la evaluación sistemática y la optimización funcional de materiales en procesos de bioimpresión 3D mediante la tecnología CELLINK BIO-X",
           "handle": "20.500.12866/17997"
         },
@@ -944,10 +948,6 @@
         {
           "title": "Desarrollo de un protocolo de pruebas (PMS) para Pulmochip: un dispositivo médico que determina el factor de protección efectivo de respiradores utilizados en la minería",
           "handle": "20.500.12866/16549"
-        },
-        {
-          "title": "Tecnologías basadas en inteligencia artificial para el diagnóstico del síndrome coronario agudo: una revisión sistemática",
-          "handle": "20.500.12866/15537"
         }
       ]
     },
@@ -1052,6 +1052,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Factores de riesgo psicosociales laborales relacionados a trastornos mentales en mujeres",
+          "handle": "20.500.12866/24795"
+        },
+        {
           "title": "Cáncer ocupacional del aparato digestivo",
           "handle": "20.500.12866/24768"
         },
@@ -1066,10 +1070,6 @@
         {
           "title": "Factores de riesgo disergonómicos en músicos",
           "handle": "20.500.12866/24705"
-        },
-        {
-          "title": "Rehabilitación profesional: herramienta para la gestión del retorno al trabajo e inclusión laboral",
-          "handle": "20.500.12866/24702"
         }
       ]
     },
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Frecuencia, motivos y oportunidad de respuesta de los reclamos registrados en el libro de reclamaciones en salud de un centro odontológico privado de Lima, Perú, durante el periodo enero 2024 a diciembre 2026",
+          "handle": "20.500.12866/24798"
+        },
+        {
           "title": "Cambios dentoalveolares del incisivo inferior en pacientes con relación esqueletal Clase III atendidos en un centro dental docente, Lima-Perú, 2026",
           "handle": "20.500.12866/24783"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Evaluación de la distancia interincisiva post expansión rápida maxilar con anclaje convencional o esquelético",
           "handle": "20.500.12866/24770"
-        },
-        {
-          "title": "Nivel de satisfacción y percepción de los pacientes tratados con alineadores versus ortodoncia convencional del Servicio de Ortodoncia del Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2026",
-          "handle": "20.500.12866/24765"
         }
       ]
     },
