@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T12:53:02.907Z",
+  "actualizado": "2026-07-24T14:31:33.771Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1738,6 +1738,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Adherencia a las guías de práctica clínica en odontología por operadores de un centro dental docente de Lima-Perú, 2026",
+          "handle": "20.500.12866/24799"
+        },
+        {
           "title": "Frecuencia, motivos y oportunidad de respuesta de los reclamos registrados en el libro de reclamaciones en salud de un centro odontológico privado de Lima, Perú, durante el periodo enero 2024 a diciembre 2026",
           "handle": "20.500.12866/24798"
         },
@@ -1752,10 +1756,6 @@
         {
           "title": "Factores asociados a la decisión de extracción o no extracción de premolares en tratamientos ortodóncicos de la Maloclusión Clase I de la Clínica Dental Docente Cayetano Heredia durante los años 2019-2024",
           "handle": "20.500.12866/24772"
-        },
-        {
-          "title": "Evaluación de la distancia interincisiva post expansión rápida maxilar con anclaje convencional o esquelético",
-          "handle": "20.500.12866/24770"
         }
       ]
     },
