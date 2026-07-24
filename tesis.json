@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T21:51:52.105Z",
+  "actualizado": "2026-07-24T22:48:39.748Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Implementación de un plan maestro de validación para software de equipos analíticos de control de calidad en un laboratorio farmacéutico con enfoque en CFR 21 parte 11",
+          "handle": "20.500.12866/24816"
+        },
+        {
           "title": "Asociación entre el manganeso en PM10 y el porcentaje de logro satisfactorio en las pruebas de comprensión lectora y matemáticas en estudiantes de segundo de primaria y segundo de secundaria del Perú del 2007 al 2019",
           "handle": "20.500.12866/24671"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Comparación de la biodisponibilidad en ratas de 2 formulaciones de furosemida con meglumina al 4 y 20%",
           "handle": "20.500.12866/18426"
-        },
-        {
-          "title": "Implementación del análisis fisicoquímico de los materiales de construcción de los sistemas de envase-cierre de productos farmacéuticos",
-          "handle": "20.500.12866/18250"
         }
       ]
     },
@@ -955,6 +955,10 @@
       "clave": "ingenieria-informatica-titulo-profesional-en-ingenieria-informatica",
       "handle": "20.500.12866/18908",
       "tesis": [
+        {
+          "title": "Sistema predictivo basado en técnicas de machine learning para la detección temprana del riesgo académico y la deserción estudiantil en una universidad peruana",
+          "handle": "20.500.12866/24817"
+        },
         {
           "title": "Mejora en la calidad de servicio en el proceso de elecciones bajo modalidad virtual usando la metodología DMAIC y herramientas ágiles",
           "handle": "20.500.12866/14344"
@@ -1738,6 +1742,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Influencia de la altura del tejido supracrestal en la pérdida ósea marginal alrededor de implantes: una revisión sistemática",
+          "handle": "20.500.12866/24818"
+        },
+        {
+          "title": "Efecto del silano precalentado sobre la resistencia de unión al microcizallamiento de cerámicas de disilicato de litio: Estudio in vitro",
+          "handle": "20.500.12866/24815"
+        },
+        {
           "title": "Actitudes y prácticas sobre la relación entre diabetes y enfermedad periodontal en médicos de hospitales del Minsa de Lima, Cajamarca y San Martín",
           "handle": "20.500.12866/24804"
         },
@@ -1748,14 +1760,6 @@
         {
           "title": "Caries dental en segunda molar inferior asociada a la posición del tercer molar inferior en radiografías panorámicas, de un centro radiológico de Trujillo, en el año 2025",
           "handle": "20.500.12866/24801"
-        },
-        {
-          "title": "Adherencia a las guías de práctica clínica en odontología por operadores de un centro dental docente de Lima-Perú, 2026",
-          "handle": "20.500.12866/24799"
-        },
-        {
-          "title": "Frecuencia, motivos y oportunidad de respuesta de los reclamos registrados en el libro de reclamaciones en salud de un centro odontológico privado de Lima, Perú, durante el periodo enero 2024 a diciembre 2026",
-          "handle": "20.500.12866/24798"
         }
       ]
     },
