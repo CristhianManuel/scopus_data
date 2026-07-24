@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T19:43:51.250Z",
+  "actualizado": "2026-07-24T20:51:39.735Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1104,6 +1104,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Relación entre la actividad diurna de la hembra de Ixodes ricinus (estadio adulto) en función de la temperatura y humedad en un dispositivo experimental en un ambiente semiabierto",
+          "handle": "20.500.12866/24811"
+        },
+        {
           "title": "Reporte de caso de tricoblastoma de tejido blando en un canino atendido en una veterinaria de Lima, Perú",
           "handle": "20.500.12866/24764"
         },
@@ -1118,10 +1122,6 @@
         {
           "title": "Características clínicas y epidemiológicas de casos atendidos por emergencia durante el periodo de 2023 en una clínica veterinaria en el distrito de Miraflores - Lima",
           "handle": "20.500.12866/24652"
-        },
-        {
-          "title": "Impacto productivo de la aplicación de dos vacunas contra circovirus porcino tipo 2 en una granja de cerdos de crianza intensiva en la provincia de Pisco, Ica -Perú",
-          "handle": "20.500.12866/19772"
         }
       ]
     },
@@ -1612,6 +1612,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Conocimiento y estilos de vida en adultos con hipertensión arterial de un centro de salud en lima 2025",
+          "handle": "20.500.12866/24810"
+        },
+        {
           "title": "Relación entre sobrecarga y afrontamiento del estrés en cuidadores primarios de niños con síndrome de Down en una institución privada de Lima, 2025",
           "handle": "20.500.12866/24748"
         },
@@ -1626,10 +1630,6 @@
         {
           "title": "Incertidumbre frente a la enfermedad en padres de niños hospitalizados de un instituto nacional, Lima",
           "handle": "20.500.12866/24714"
-        },
-        {
-          "title": "Relación de la capacidad de agencia de autocuidado y afrontamiento - adaptación del cuidador primario de pacientes en cuidados paliativos, Lima",
-          "handle": "20.500.12866/24703"
         }
       ]
     },
@@ -1637,6 +1637,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Conocimientos y prácticas de enfermería en el manejo del soporte ventilatorio con presión positiva continua en la vía aérea en recién nacidos prematuros en un hospital de Lima norte, 2025",
+          "handle": "20.500.12866/24809"
+        },
         {
           "title": "Factores estresores y distrés emocional en pacientes egresados de la unidad de cuidados intensivos de un hospital nacional en Lima durante enero a junio 2026",
           "handle": "20.500.12866/24807"
@@ -1652,10 +1656,6 @@
         {
           "title": "Calidad de atención de enfermería y satisfacción del paciente en el servicio de emergencia del Hospital José Casimiro Ulloa, Lima 2026",
           "handle": "20.500.12866/24792"
-        },
-        {
-          "title": "Cuidados de enfermería en el manejo de pacientes politraumatizados en el servicio de emergencia",
-          "handle": "20.500.12866/24791"
         }
       ]
     },
