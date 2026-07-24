@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T14:31:33.771Z",
+  "actualizado": "2026-07-24T19:43:51.250Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1432,6 +1432,10 @@
       "handle": "20.500.12866/18906",
       "tesis": [
         {
+          "title": "Síntesis y sinterización de nanopartículas de hidroxiapatita obtenidas a partir de residuos de argopecten purpuratus aplicadas al proceso de adsorción de arsénico en la remediación ambiental",
+          "handle": "20.500.12866/24800"
+        },
+        {
           "title": "Evaluación de la técnica de análisis por activación neutrónica instrumental basado en el método k-subcero para la determinación multielemental en suelos y sedimentos",
           "handle": "20.500.12866/24501"
         },
@@ -1446,10 +1450,6 @@
         {
           "title": "Implementación de mejoras para obtener la certificación de Buenas Prácticas de Manufactura en la fabricación de desinfectantes en una empresa pecuaria en Lima",
           "handle": "20.500.12866/17760"
-        },
-        {
-          "title": "Diseño, refinamiento y evaluación in silico de modelos farmacofóricos dinámicos para la búsqueda de potenciales inhibidores de la quinasa G (PknG) de Mycobacterium tuberculosis mediante el tamizaje masivo de moléculas",
-          "handle": "20.500.12866/17265"
         }
       ]
     },
@@ -1638,6 +1638,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Factores estresores y distrés emocional en pacientes egresados de la unidad de cuidados intensivos de un hospital nacional en Lima durante enero a junio 2026",
+          "handle": "20.500.12866/24807"
+        },
+        {
+          "title": "Prácticas de prevención secundaria y adherencia al tratamiento post síndrome coronario agudo en los usuarios adultos del instituto nacional cardiovascular – Incor",
+          "handle": "20.500.12866/24803"
+        },
+        {
           "title": "Nivel de conocimiento y prácticas sobre la técnica de lactancia materna en madres primerizas adolescentes y añosas de prematuros, 2025",
           "handle": "20.500.12866/24793"
         },
@@ -1648,14 +1656,6 @@
         {
           "title": "Cuidados de enfermería en el manejo de pacientes politraumatizados en el servicio de emergencia",
           "handle": "20.500.12866/24791"
-        },
-        {
-          "title": "Calidad de vida y conductas de autocuidado en personas con insuficiencia cardíaca que participan en un programa de educación y seguimiento de enfermería, en el Instituto Nacional Cardiovascular, Lima 2025",
-          "handle": "20.500.12866/24781"
-        },
-        {
-          "title": "Conocimiento y práctica de enfermería en la prevención de neumonía asociada en ventilación mecánica en la Unidad de Cuidados Intensivos de un hospital de ESSALUD Pasco, 2026",
-          "handle": "20.500.12866/24780"
         }
       ]
     },
@@ -1738,24 +1738,24 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Actitudes y prácticas sobre la relación entre diabetes y enfermedad periodontal en médicos de hospitales del Minsa de Lima, Cajamarca y San Martín",
+          "handle": "20.500.12866/24804"
+        },
+        {
+          "title": "Disponibilidad de recursos tangibles y experiencia de la atención odontológica del usuario externo en un centro dental docente de lima - Perú, 2026",
+          "handle": "20.500.12866/24802"
+        },
+        {
+          "title": "Caries dental en segunda molar inferior asociada a la posición del tercer molar inferior en radiografías panorámicas, de un centro radiológico de Trujillo, en el año 2025",
+          "handle": "20.500.12866/24801"
+        },
+        {
           "title": "Adherencia a las guías de práctica clínica en odontología por operadores de un centro dental docente de Lima-Perú, 2026",
           "handle": "20.500.12866/24799"
         },
         {
           "title": "Frecuencia, motivos y oportunidad de respuesta de los reclamos registrados en el libro de reclamaciones en salud de un centro odontológico privado de Lima, Perú, durante el periodo enero 2024 a diciembre 2026",
           "handle": "20.500.12866/24798"
-        },
-        {
-          "title": "Cambios dentoalveolares del incisivo inferior en pacientes con relación esqueletal Clase III atendidos en un centro dental docente, Lima-Perú, 2026",
-          "handle": "20.500.12866/24783"
-        },
-        {
-          "title": "Hallazgos clínicos más frecuentes en pacientes diagnosticados con síndrome de combinación atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia durante el año 2025",
-          "handle": "20.500.12866/24773"
-        },
-        {
-          "title": "Factores asociados a la decisión de extracción o no extracción de premolares en tratamientos ortodóncicos de la Maloclusión Clase I de la Clínica Dental Docente Cayetano Heredia durante los años 2019-2024",
-          "handle": "20.500.12866/24772"
         }
       ]
     },
