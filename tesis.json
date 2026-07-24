@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-24T20:51:39.735Z",
+  "actualizado": "2026-07-24T21:51:52.105Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1612,6 +1612,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de un programa educativo en la capacidad de respuesta de los docentes ante la asfixia y paro cardiaco en una institución educativa de lima, 2025",
+          "handle": "20.500.12866/24814"
+        },
+        {
           "title": "Conocimiento y estilos de vida en adultos con hipertensión arterial de un centro de salud en lima 2025",
           "handle": "20.500.12866/24810"
         },
@@ -1626,10 +1630,6 @@
         {
           "title": "Estrategias de afrontamiento y calidad de vida en mujeres con cáncer de mama sometidas a una mastectomía en un hospital nacional, Lima - 2025",
           "handle": "20.500.12866/24721"
-        },
-        {
-          "title": "Incertidumbre frente a la enfermedad en padres de niños hospitalizados de un instituto nacional, Lima",
-          "handle": "20.500.12866/24714"
         }
       ]
     },
