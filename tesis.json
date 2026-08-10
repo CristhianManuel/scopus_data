@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T21:34:58.589Z",
+  "actualizado": "2026-08-10T22:12:04.141Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1326,6 +1326,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Uso problemático de internet y empatía en adolescentes de familias monoparentales y biparentales de 3º, 4º y 5º de secundaria de un colegio nacional de Chorrillos",
+          "handle": "20.500.12866/24819"
+        },
+        {
           "title": "Implementación de entrevistas por competencias en procesos de selección para puestos entry level en una empresa del sector industrial",
           "handle": "20.500.12866/24718"
         },
@@ -1340,10 +1344,6 @@
         {
           "title": "Intervención conductual para el desarrollo de habilidades adaptativas en una niña con TEA en una institución educativa privada de La Molina, Lima - Perú",
           "handle": "20.500.12866/24526"
-        },
-        {
-          "title": "Plan de mejora en el proceso de reclutamiento y selección de vendedores de campo en una empresa de consumo masivo de alta rotación",
-          "handle": "20.500.12866/24521"
         }
       ]
     },
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y práctica de los enfermeros  sobre medidas de prevención de neumonías asociado al ventilador mecánico",
+          "handle": "20.500.12866/24821"
+        },
+        {
           "title": "Conocimientos y prácticas de enfermería en el manejo del soporte ventilatorio con presión positiva continua en la vía aérea en recién nacidos prematuros en un hospital de Lima norte, 2025",
           "handle": "20.500.12866/24809"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Nivel de conocimiento y prácticas sobre la técnica de lactancia materna en madres primerizas adolescentes y añosas de prematuros, 2025",
           "handle": "20.500.12866/24793"
-        },
-        {
-          "title": "Calidad de atención de enfermería y satisfacción del paciente en el servicio de emergencia del Hospital José Casimiro Ulloa, Lima 2026",
-          "handle": "20.500.12866/24792"
         }
       ]
     },
@@ -1742,6 +1742,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Resistencia a la fractura y tipo de falla de dientes tratados endodónticamente restaurados con resina compuesta reforzada con fibras de polietileno, fibras cortas de vidrio y resina compuesta convencional",
+          "handle": "20.500.12866/24820"
+        },
+        {
           "title": "Influencia de la altura del tejido supracrestal en la pérdida ósea marginal alrededor de implantes: una revisión sistemática",
           "handle": "20.500.12866/24818"
         },
@@ -1756,10 +1760,6 @@
         {
           "title": "Disponibilidad de recursos tangibles y experiencia de la atención odontológica del usuario externo en un centro dental docente de lima - Perú, 2026",
           "handle": "20.500.12866/24802"
-        },
-        {
-          "title": "Caries dental en segunda molar inferior asociada a la posición del tercer molar inferior en radiografías panorámicas, de un centro radiológico de Trujillo, en el año 2025",
-          "handle": "20.500.12866/24801"
         }
       ]
     },
