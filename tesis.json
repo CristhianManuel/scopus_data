@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T18:35:32.588Z",
+  "actualizado": "2026-08-12T19:44:37.604Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "“Diseño de una metodología para la calificación del personal de acondicionado de productos farmacéuticos en concordancia con la normativa de Buenas Prácticas de Manufactura de DIGEMID”",
+          "handle": "20.500.12866/24830"
+        },
+        {
           "title": "Implementación de un plan maestro de validación para software de equipos analíticos de control de calidad en un laboratorio farmacéutico con enfoque en CFR 21 parte 11",
           "handle": "20.500.12866/24816"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Determinación de residuos de sulfonamidas en muestras de huevo de gallina mediante un método microbiológico y cELISA, en un mercado mayorista de Lima Este, 2024",
           "handle": "20.500.12866/18475"
-        },
-        {
-          "title": "Comparación de la biodisponibilidad en ratas de 2 formulaciones de furosemida con meglumina al 4 y 20%",
-          "handle": "20.500.12866/18426"
         }
       ]
     },
