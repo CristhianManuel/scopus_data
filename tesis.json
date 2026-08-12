@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-12T16:38:21.014Z",
+  "actualizado": "2026-08-12T17:39:47.946Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "“Análisis y sistematización de la producción científica y técnica sobre la Reserva Nacional Pampa Galeras Bárbara D’Achille, durante el periodo 2000–2025”",
+          "handle": "20.500.12866/24827"
+        },
+        {
           "title": "Conectando con la naturaleza: el impacto de las visitas guiadas educativas a la RNIPG- Punta San Juan en los conocimientos y percepciones de los residentes de Marcona",
           "handle": "20.500.12866/24785"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Fortaleciendo la educación rural en Perú mediante la implementación de un microscopio de papel, foldscope",
           "handle": "20.500.12866/19559"
-        },
-        {
-          "title": "Estudio comparativo de los efectos energizantes en ratones del extracto hidroalcohólico atomizado de maca negra (Lepidium meyenii) con otros energizantes comerciales",
-          "handle": "20.500.12866/18467"
         }
       ]
     },
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Prevalencia y caracterización antimicrobiana de cepas de Campylobacter jejuni y Campylobacter coli aisladas de carne de pollo comercializada en hipermercados de Lima Este",
+          "handle": "20.500.12866/24828"
+        },
+        {
           "title": "Relación entre la actividad diurna de la hembra de Ixodes ricinus (estadio adulto) en función de la temperatura y humedad en un dispositivo experimental en un ambiente semiabierto",
           "handle": "20.500.12866/24811"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Efecto de la línea paterna y época de parto sobre los parámetros productivos y reproductivos de vacas de la raza Brown Swiss ubicadas en tres localidades de la Región Andina del Perú.",
           "handle": "20.500.12866/24670"
-        },
-        {
-          "title": "Características clínicas y epidemiológicas de casos atendidos por emergencia durante el periodo de 2023 en una clínica veterinaria en el distrito de Miraflores - Lima",
-          "handle": "20.500.12866/24652"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención de enfermería en el conocimiento de medidas de prevención para la tuberculosis en estudiantes de secundaria de una institución educativa, 2025",
+          "handle": "20.500.12866/24826"
+        },
+        {
           "title": "Efectividad de un programa educativo en la capacidad de respuesta de los docentes ante la asfixia y paro cardiaco en una institución educativa de lima, 2025",
           "handle": "20.500.12866/24814"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Efectividad de una intervención educativa en el conocimiento y prácticas sobre lactancia materna exclusiva en madres de menores de 6 meses en un Puesto de Salud Ica, 2025",
           "handle": "20.500.12866/24733"
-        },
-        {
-          "title": "Estrategias de afrontamiento y calidad de vida en mujeres con cáncer de mama sometidas a una mastectomía en un hospital nacional, Lima - 2025",
-          "handle": "20.500.12866/24721"
         }
       ]
     },
@@ -1641,6 +1641,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Factores de riesgo químico, biológico y ergonómico en el profesional de enfermería en centro quirúrgico",
+          "handle": "20.500.12866/24823"
+        },
         {
           "title": "Nivel de conocimiento y práctica de los enfermeros  sobre medidas de prevención de neumonías asociado al ventilador mecánico",
           "handle": "20.500.12866/24821"
@@ -1656,10 +1660,6 @@
         {
           "title": "Prácticas de prevención secundaria y adherencia al tratamiento post síndrome coronario agudo en los usuarios adultos del instituto nacional cardiovascular – Incor",
           "handle": "20.500.12866/24803"
-        },
-        {
-          "title": "Nivel de conocimiento y prácticas sobre la técnica de lactancia materna en madres primerizas adolescentes y añosas de prematuros, 2025",
-          "handle": "20.500.12866/24793"
         }
       ]
     },
@@ -1742,6 +1742,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Rugosidad superficial en resinas compuestas  convencionales y Bulk Fill ante el precalentamiento - estudio in vitro",
+          "handle": "20.500.12866/24829"
+        },
+        {
+          "title": "Efecto de las bebidas funcionales en la estabilidad del color de las resinas compuestas: Convencional, Universal y Bulk Fill",
+          "handle": "20.500.12866/24822"
+        },
+        {
           "title": "Resistencia a la fractura y tipo de falla de dientes tratados endodónticamente restaurados con resina compuesta reforzada con fibras de polietileno, fibras cortas de vidrio y resina compuesta convencional",
           "handle": "20.500.12866/24820"
         },
@@ -1752,14 +1760,6 @@
         {
           "title": "Efecto del silano precalentado sobre la resistencia de unión al microcizallamiento de cerámicas de disilicato de litio: Estudio in vitro",
           "handle": "20.500.12866/24815"
-        },
-        {
-          "title": "Actitudes y prácticas sobre la relación entre diabetes y enfermedad periodontal en médicos de hospitales del Minsa de Lima, Cajamarca y San Martín",
-          "handle": "20.500.12866/24804"
-        },
-        {
-          "title": "Disponibilidad de recursos tangibles y experiencia de la atención odontológica del usuario externo en un centro dental docente de lima - Perú, 2026",
-          "handle": "20.500.12866/24802"
         }
       ]
     },
