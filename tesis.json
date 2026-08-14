@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T15:12:45.249Z",
+  "actualizado": "2026-08-14T16:07:52.450Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Ausentismo laboral y costos directos en una empresa textil peruana, período 2020 - 2023",
+          "handle": "20.500.12866/24838"
+        },
+        {
           "title": "Factores de riesgo psicosociales laborales relacionados a trastornos mentales en mujeres",
           "handle": "20.500.12866/24795"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Consecuencias de la pandemia COVID-19 en los trastornos de refracción: una revisión sistemática",
           "handle": "20.500.12866/24711"
-        },
-        {
-          "title": "Factores de riesgo disergonómicos en músicos",
-          "handle": "20.500.12866/24705"
         }
       ]
     },
@@ -1554,6 +1554,10 @@
       "handle": "20.500.12866/18758",
       "tesis": [
         {
+          "title": "Características de las ortesis más utilizadas en lactantes con displasia de cadera: una revisión de alcance",
+          "handle": "20.500.12866/24813"
+        },
+        {
           "title": "Abordajes fisioterapéuticos del suelo pélvico en la incontinencia urinaria en mujeres deportistas que realizan ejercicios de alto impacto atendidas en servicios de fisioterapia: una revisión de alcance",
           "handle": "20.500.12866/24730"
         },
@@ -1568,10 +1572,6 @@
         {
           "title": "Ejercicios pliométricos en deportistas adultos con lesiones de ligamento cruzado anterior: una revisión de alcance",
           "handle": "20.500.12866/24589"
-        },
-        {
-          "title": "Abordaje fisioterapéutico postoperatorio inmediato como prevención de secuelas asociadas a la cirugía mamaria en pacientes con cáncer de mama: una revisión de alcance",
-          "handle": "20.500.12866/24533"
         }
       ]
     },
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Evidencia de la aplicación de la lista de verificación segura frente a un acto quirúrgico en un hospital",
+          "handle": "20.500.12866/24842"
+        },
+        {
           "title": "Factores de riesgo químico, biológico y ergonómico en el profesional de enfermería en centro quirúrgico",
           "handle": "20.500.12866/24823"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Factores estresores y distrés emocional en pacientes egresados de la unidad de cuidados intensivos de un hospital nacional en Lima durante enero a junio 2026",
           "handle": "20.500.12866/24807"
-        },
-        {
-          "title": "Prácticas de prevención secundaria y adherencia al tratamiento post síndrome coronario agudo en los usuarios adultos del instituto nacional cardiovascular – Incor",
-          "handle": "20.500.12866/24803"
         }
       ]
     },
@@ -1716,6 +1716,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Revisión sistemática de la evolución de los escáneres intraorales",
+          "handle": "20.500.12866/24841"
+        },
+        {
           "title": "Relación entre el uso de la IA generativa Gemini 1.5, el rendimiento académico y la percepción estudiantil en alumnos de Estomatología de la UPCH. Estudio longitudinal",
           "handle": "20.500.12866/24786"
         },
@@ -1730,10 +1734,6 @@
         {
           "title": "Evaluación de una intervención en salud bucal en la población del Distrito de Ambo, Huánuco, Perú, 2021",
           "handle": "20.500.12866/24611"
-        },
-        {
-          "title": "Nivel de ansiedad frente al tratamiento odontológico de los pacientes atendidos en el Centro Dental Docente de la Universidad Peruana Cayetano Heredia, 2024",
-          "handle": "20.500.12866/24528"
         }
       ]
     },
