@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T17:48:26.529Z",
+  "actualizado": "2026-08-18T18:16:25.481Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1476,6 +1476,10 @@
       "handle": "20.500.12866/18757",
       "tesis": [
         {
+          "title": "Métodos diagnósticos usados en Latinoamérica para la identificación de carbapenemasas en Enterobacterales: una revisión de alcance",
+          "handle": "20.500.12866/24854"
+        },
+        {
           "title": "Caracterización genómica de genes de resistencia a carbapenémicos en aislamientos clínicos de Proteeae en América (2017-2025): una revisión de alcance",
           "handle": "20.500.12866/24659"
         },
@@ -1490,10 +1494,6 @@
         {
           "title": "Evidencia sobre el rendimiento diagnóstico de la prueba galactomanano en orina frente a otras pruebas para el diagnóstico de histoplasmosis diseminada progresiva en pacientes con VIH: una revisión de alcance",
           "handle": "20.500.12866/24567"
-        },
-        {
-          "title": "Desempeño diagnóstico de los métodos utilizados para la identificación de Candida spp. en candidiasis vulvovaginal: una revisión de alcance",
-          "handle": "20.500.12866/24543"
         }
       ]
     },
