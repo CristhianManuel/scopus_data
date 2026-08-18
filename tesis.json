@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T17:17:11.336Z",
+  "actualizado": "2026-08-18T17:48:26.529Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1846,6 +1846,10 @@
       "handle": "20.500.12866/18659",
       "tesis": [
         {
+          "title": "Adaptación de cofias metálicas confeccionadas con la técnica de fusión selectiva láser según la relación ángulo de convergencia, altura de muñón y tipo de impresión digital",
+          "handle": "20.500.12866/24850"
+        },
+        {
           "title": "Evaluación in vitro de la adaptación de cofias metálicas fabricadas con la técnica de impresión en resina y colado por inducción, en función del ángulo de convergencia total y el espacio para el cemento",
           "handle": "20.500.12866/17846"
         },
@@ -1860,10 +1864,6 @@
         {
           "title": "Evaluación in vitro de la estabilidad dimensional de impresiones de poliéter sometidas a diferentes técnicas de desinfección y esterilización",
           "handle": "20.500.12866/14519"
-        },
-        {
-          "title": "Estudio in vitro de la comparación de la resistencia a la tracción de estructuras de Ni Cr soldadas por láser y soplete según ancho y tipo de corte",
-          "handle": "20.500.12866/14436"
         }
       ]
     },
