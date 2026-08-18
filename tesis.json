@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T16:17:17.357Z",
+  "actualizado": "2026-08-18T16:52:07.129Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Influencia de perfiles de ultrafiltración en la prevención de hipotensión intradialítica de pacientes con hemodiálisis en una clínica particular, 2026",
+          "handle": "20.500.12866/24846"
+        },
+        {
           "title": "Evidencia de la aplicación de la lista de verificación segura frente a un acto quirúrgico en un hospital",
           "handle": "20.500.12866/24842"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Conocimientos y prácticas de enfermería en el manejo del soporte ventilatorio con presión positiva continua en la vía aérea en recién nacidos prematuros en un hospital de Lima norte, 2025",
           "handle": "20.500.12866/24809"
-        },
-        {
-          "title": "Factores estresores y distrés emocional en pacientes egresados de la unidad de cuidados intensivos de un hospital nacional en Lima durante enero a junio 2026",
-          "handle": "20.500.12866/24807"
         }
       ]
     },
