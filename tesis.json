@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T14:52:38.767Z",
+  "actualizado": "2026-08-19T15:18:56.660Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Descripción de la Microbiota Intratumoral y su Asociación con la Respuesta al Tratamiento de Cáncer Colorrectal según Sexo: Un Análisis Secundario Exploratorio de Datos Metagenómicos",
+          "handle": "20.500.12866/24858"
+        },
+        {
           "title": "“Análisis y sistematización de la producción científica y técnica sobre la Reserva Nacional Pampa Galeras Bárbara D’Achille, durante el periodo 2000–2025”",
           "handle": "20.500.12866/24827"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Evaluación de la expresión de biomarcadores de estrés oxidativo en cultivos primarios astrocíticos de Rattus norvegicus inducidos con antígeno E/S o Total del estadio de cisticerco de Taenia solium",
           "handle": "20.500.12866/24503"
-        },
-        {
-          "title": "Fortaleciendo la educación rural en Perú mediante la implementación de un microscopio de papel, foldscope",
-          "handle": "20.500.12866/19559"
         }
       ]
     },
