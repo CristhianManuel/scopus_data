@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T20:21:21.485Z",
+  "actualizado": "2026-08-20T20:53:16.597Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Efectos de la exposición al sílice cristalina en la salud de los trabajadores de la construcción y estrategias de prevención",
+          "handle": "20.500.12866/24869"
+        },
+        {
           "title": "Dengue como desencadenante de enfermedades reumatológicas inmunomediadas: una revisión exploratoria",
           "handle": "20.500.12866/24860"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Cáncer ocupacional del aparato digestivo",
           "handle": "20.500.12866/24768"
-        },
-        {
-          "title": "Análisis del proceso de auditoría de  sistemas de gestión de seguridad  y salud en el trabajo  bajo el marco general de la Ley N° 29783",
-          "handle": "20.500.12866/24738"
         }
       ]
     },
