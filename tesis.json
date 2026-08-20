@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T14:50:31.721Z",
+  "actualizado": "2026-08-20T15:21:02.994Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1476,6 +1476,10 @@
       "handle": "20.500.12866/18757",
       "tesis": [
         {
+          "title": "Mapeo de los métodos de diagnóstico molecular utilizados en la detección de heterorresistencia en Mycobacterium tuberculosis: una revisión de alcance",
+          "handle": "20.500.12866/24865"
+        },
+        {
           "title": "Métodos diagnósticos usados en Latinoamérica para la identificación de carbapenemasas en Enterobacterales: una revisión de alcance",
           "handle": "20.500.12866/24854"
         },
@@ -1490,10 +1494,6 @@
         {
           "title": "Desempeño diagnóstico de métodos moleculares para la detección de genes de resistencia en Pseudomonas aeruginosa: una revisión de alcance",
           "handle": "20.500.12866/24596"
-        },
-        {
-          "title": "Evidencia sobre el rendimiento diagnóstico de la prueba galactomanano en orina frente a otras pruebas para el diagnóstico de histoplasmosis diseminada progresiva en pacientes con VIH: una revisión de alcance",
-          "handle": "20.500.12866/24567"
         }
       ]
     },
@@ -1580,6 +1580,10 @@
       "handle": "20.500.12866/18754",
       "tesis": [
         {
+          "title": "Selectividad alimentaria en niños con dificultades en el procesamiento sensorial: una revisión de alcance sobre su prevalencia y factores asociados",
+          "handle": "20.500.12866/24864"
+        },
+        {
           "title": "Efectos de la posición de trabajo sobre la carga física y mental de costureros al desempeñar actividades de costura a máquina",
           "handle": "20.500.12866/24763"
         },
@@ -1594,10 +1598,6 @@
         {
           "title": "Barreras y facilitadores que perciben las personas con discapacidad física del distrito de Ventanilla para participar en el deporte adaptado",
           "handle": "20.500.12866/24665"
-        },
-        {
-          "title": "Intervenciones de terapia ocupacional para promover la autonomía en actividades básicas de la vida diaria en estudiantes de educación básica especial: una revisión de alcance",
-          "handle": "20.500.12866/24631"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la alimentación complementaria en madres de niños de 6-12 meses en un centro de salud de San Martín de Porres, Lima, 2025",
+          "handle": "20.500.12866/24866"
+        },
+        {
           "title": "Apoyo social y su relación en la adherencia al tratamiento en pacientes con tuberculosis de un centro de salud - Lima, 2025",
           "handle": "20.500.12866/24848"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Conocimiento y estilos de vida en adultos con hipertensión arterial de un centro de salud en lima 2025",
           "handle": "20.500.12866/24810"
-        },
-        {
-          "title": "Relación entre sobrecarga y afrontamiento del estrés en cuidadores primarios de niños con síndrome de Down en una institución privada de Lima, 2025",
-          "handle": "20.500.12866/24748"
         }
       ]
     },
@@ -1742,6 +1742,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Relación de la prominencia de la sínfisis mandibular con la inclinación de los incisivos inferiores y el índice de Holdaway en pacientes con clase III esqueletal: estudio tomográfico",
+          "handle": "20.500.12866/24867"
+        },
+        {
           "title": "Rugosidad superficial en resinas compuestas  convencionales y Bulk Fill ante el precalentamiento - estudio in vitro",
           "handle": "20.500.12866/24829"
         },
@@ -1756,10 +1760,6 @@
         {
           "title": "Influencia de la altura del tejido supracrestal en la pérdida ósea marginal alrededor de implantes: una revisión sistemática",
           "handle": "20.500.12866/24818"
-        },
-        {
-          "title": "Efecto del silano precalentado sobre la resistencia de unión al microcizallamiento de cerámicas de disilicato de litio: Estudio in vitro",
-          "handle": "20.500.12866/24815"
         }
       ]
     },
