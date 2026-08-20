@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T14:04:01.091Z",
+  "actualizado": "2026-08-20T14:50:31.721Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Dengue como desencadenante de enfermedades reumatológicas inmunomediadas: una revisión exploratoria",
+          "handle": "20.500.12866/24860"
+        },
+        {
           "title": "Ausentismo laboral y costos directos en una empresa textil peruana, período 2020 - 2023",
           "handle": "20.500.12866/24838"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Análisis del proceso de auditoría de  sistemas de gestión de seguridad  y salud en el trabajo  bajo el marco general de la Ley N° 29783",
           "handle": "20.500.12866/24738"
-        },
-        {
-          "title": "Consecuencias de la pandemia COVID-19 en los trastornos de refracción: una revisión sistemática",
-          "handle": "20.500.12866/24711"
         }
       ]
     },
