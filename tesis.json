@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T20:12:42.527Z",
+  "actualizado": "2026-08-21T20:43:38.713Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1502,6 +1502,10 @@
       "handle": "20.500.12866/18756",
       "tesis": [
         {
+          "title": "Impacto de la baja dosis en tomografía computarizada en la mejora del cribado de cáncer pulmonar: una revisión de alcance",
+          "handle": "20.500.12866/24872"
+        },
+        {
           "title": "Utilidad de la inteligencia artificial en la mejora del diagnóstico de enfisema pulmonar por tomografía computarizada de baja dosis: una revisión de alcance",
           "handle": "20.500.12866/24713"
         },
@@ -1516,10 +1520,6 @@
         {
           "title": "Utilidad diagnóstica de la elastografía por ultrasonido como método complementario a la ecografía en modo B o a la resonancia magnética en la evaluación de partes blandas para el diagnóstico de lesiones y enfermedades musculoesqueléticas en adultos: una revisión de alcance",
           "handle": "20.500.12866/24646"
-        },
-        {
-          "title": "Precisión diagnóstica de resonancia magnética con contraste y tomografía por emisión de positrones-tomografía computarizada (PET/CT) con galio-68 DOTATATE en tumores neuroendocrinos: una revisión de alcance",
-          "handle": "20.500.12866/24626"
         }
       ]
     },
