@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T21:56:15.222Z",
+  "actualizado": "2026-08-21T22:20:16.514Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Factores de riesgo disergonómico relacionados al síndrome de visión por computadora en trabajadores administrativos de una empresa privada en Lima 2025",
+          "handle": "20.500.12866/24885"
+        },
+        {
           "title": "Relación entre el factor de riesgo disergonómico y los trastornos musculoesqueléticos en el personal administrativo de la municipalidad de José Luis Bustamante y Rivero - Arequipa, 2023",
           "handle": "20.500.12866/24883"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Dengue como desencadenante de enfermedades reumatológicas inmunomediadas: una revisión exploratoria",
           "handle": "20.500.12866/24860"
-        },
-        {
-          "title": "Ausentismo laboral y costos directos en una empresa textil peruana, período 2020 - 2023",
-          "handle": "20.500.12866/24838"
         }
       ]
     },
