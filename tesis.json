@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T21:34:05.531Z",
+  "actualizado": "2026-08-21T21:56:15.222Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Relación entre Burnout académico y logros de aprendizaje en la Facultad de Ingeniería de Sistemas de una universidad pública de Lima, 2020",
+          "handle": "20.500.12866/24884"
+        },
+        {
           "title": "Estrategias para el aprendizaje significativo en estudiantes de Segunda Especialidad de Enfermería en el cuidado del neurodesarrollo del recién nacido",
           "handle": "20.500.12866/24519"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Estudio bibliométrico sobre aprendizaje colaborativo en educación superior en el Perú y en países en los que se habla el idioma castellano en el periodo 2018-2023",
           "handle": "20.500.12866/18339"
-        },
-        {
-          "title": "Motivación de logro en la elaboración de la tesis en estudiantes de pregrado de la carrera de psicología de una universidad privada en Lima",
-          "handle": "20.500.12866/18338"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Relación entre el factor de riesgo disergonómico y los trastornos musculoesqueléticos en el personal administrativo de la municipalidad de José Luis Bustamante y Rivero - Arequipa, 2023",
+          "handle": "20.500.12866/24883"
+        },
+        {
           "title": "Revisión de la gestión de los factores de riesgo ergonómicos y psicosociales en la prevención de trastornos musculoesqueléticos en trabajadores en general, basada en publicaciones entre 2014 y 2024: enfoques y mejores prácticas",
           "handle": "20.500.12866/24880"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Ausentismo laboral y costos directos en una empresa textil peruana, período 2020 - 2023",
           "handle": "20.500.12866/24838"
-        },
-        {
-          "title": "Factores de riesgo psicosociales laborales relacionados a trastornos mentales en mujeres",
-          "handle": "20.500.12866/24795"
         }
       ]
     },
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Prevalencia de Campylobacter spp. en perros con dueño que asisten a una clínica veterinaria en Miraflores (Lima, Perú)",
+          "handle": "20.500.12866/24882"
+        },
+        {
           "title": "Características de las intervenciones quirúrgicas ortopédicas en animales de compañía realizadas en el Centro Veterinario Docente Cayetano durante el periodo Enero 2020 a Julio 2025",
           "handle": "20.500.12866/24878"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Relación entre la actividad diurna de la hembra de Ixodes ricinus (estadio adulto) en función de la temperatura y humedad en un dispositivo experimental en un ambiente semiabierto",
           "handle": "20.500.12866/24811"
-        },
-        {
-          "title": "Reporte de caso de tricoblastoma de tejido blando en un canino atendido en una veterinaria de Lima, Perú",
-          "handle": "20.500.12866/24764"
         }
       ]
     },
