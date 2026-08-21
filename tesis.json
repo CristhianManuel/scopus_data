@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T21:02:10.592Z",
+  "actualizado": "2026-08-21T21:34:05.531Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Revisión de la gestión de los factores de riesgo ergonómicos y psicosociales en la prevención de trastornos musculoesqueléticos en trabajadores en general, basada en publicaciones entre 2014 y 2024: enfoques y mejores prácticas",
+          "handle": "20.500.12866/24880"
+        },
+        {
           "title": "Efectos de la exposición al sílice cristalina en la salud de los trabajadores de la construcción y estrategias de prevención",
           "handle": "20.500.12866/24869"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Factores de riesgo psicosociales laborales relacionados a trastornos mentales en mujeres",
           "handle": "20.500.12866/24795"
-        },
-        {
-          "title": "Cáncer ocupacional del aparato digestivo",
-          "handle": "20.500.12866/24768"
         }
       ]
     },
@@ -1108,6 +1108,14 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Características de las intervenciones quirúrgicas ortopédicas en animales de compañía realizadas en el Centro Veterinario Docente Cayetano durante el periodo Enero 2020 a Julio 2025",
+          "handle": "20.500.12866/24878"
+        },
+        {
+          "title": "Comparación de protocolos de conservación de muestras para la obtención de ADN de Sarcocystis aucheniae: Análisis de cantidad y pureza",
+          "handle": "20.500.12866/24877"
+        },
+        {
           "title": "Prevalencia y caracterización antimicrobiana de cepas de Campylobacter jejuni y Campylobacter coli aisladas de carne de pollo comercializada en hipermercados de Lima Este",
           "handle": "20.500.12866/24828"
         },
@@ -1118,14 +1126,6 @@
         {
           "title": "Reporte de caso de tricoblastoma de tejido blando en un canino atendido en una veterinaria de Lima, Perú",
           "handle": "20.500.12866/24764"
-        },
-        {
-          "title": "“Enfermedad del tracto urinario inferior felino asociado a urolitiasis: reporte de casos a partir de una clínica veterinaria especializada en medicina felina en Lima.”",
-          "handle": "20.500.12866/24687"
-        },
-        {
-          "title": "Efecto de la línea paterna y época de parto sobre los parámetros productivos y reproductivos de vacas de la raza Brown Swiss ubicadas en tres localidades de la Región Andina del Perú.",
-          "handle": "20.500.12866/24670"
         }
       ]
     },
@@ -1742,6 +1742,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Validación de un instrumento para medir el conocimiento sobre atención estomatológica de pacientes con necesidades especiales en cirujanos dentistas",
+          "handle": "20.500.12866/24881"
+        },
+        {
           "title": "Relación de la prominencia de la sínfisis mandibular con la inclinación de los incisivos inferiores y el índice de Holdaway en pacientes con clase III esqueletal: estudio tomográfico",
           "handle": "20.500.12866/24867"
         },
@@ -1756,10 +1760,6 @@
         {
           "title": "Resistencia a la fractura y tipo de falla de dientes tratados endodónticamente restaurados con resina compuesta reforzada con fibras de polietileno, fibras cortas de vidrio y resina compuesta convencional",
           "handle": "20.500.12866/24820"
-        },
-        {
-          "title": "Influencia de la altura del tejido supracrestal en la pérdida ósea marginal alrededor de implantes: una revisión sistemática",
-          "handle": "20.500.12866/24818"
         }
       ]
     },
