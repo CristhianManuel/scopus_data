@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T20:45:38.229Z",
+  "actualizado": "2026-08-24T21:14:24.837Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Efecto de un programa de consejería educativa en la mejora de la técnica de recambio en diálisis peritoneal Lima 2026",
+          "handle": "20.500.12866/24888"
+        },
+        {
           "title": "Validación de una guía de intervención de enfermería para traslado de pacientes en ambulancia en el ámbito prehospitalario – 2026",
           "handle": "20.500.12866/24886"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Factores de riesgo químico, biológico y ergonómico en el profesional de enfermería en centro quirúrgico",
           "handle": "20.500.12866/24823"
-        },
-        {
-          "title": "Nivel de conocimiento y práctica de los enfermeros  sobre medidas de prevención de neumonías asociado al ventilador mecánico",
-          "handle": "20.500.12866/24821"
         }
       ]
     },
