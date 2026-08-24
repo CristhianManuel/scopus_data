@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T21:46:41.081Z",
+  "actualizado": "2026-08-24T22:04:45.432Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1300,6 +1300,10 @@
       "handle": "20.500.12866/18904",
       "tesis": [
         {
+          "title": "Interpretación médico nutricional como herramienta para clarificar mensajes nutricionales en población migrante en Estados Unidos",
+          "handle": "20.500.12866/24894"
+        },
+        {
           "title": "The seasonality of nutrition status in Shawi Indigenous children in the Peruvian Amazon",
           "handle": "20.500.12866/24668"
         },
@@ -1314,10 +1318,6 @@
         {
           "title": "Evaluación del estado nutricional de pacientes adultos del Área de Soporte Metabólico y Nutricional (ASMEN) en un hospital peruano, 2024",
           "handle": "20.500.12866/18372"
-        },
-        {
-          "title": "Mejora de la alimentación mediante recomendaciones nutricionales adecuadas para el personal de buceo de una empresa de trabajos submarinos",
-          "handle": "20.500.12866/17792"
         }
       ]
     },
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Caracterización de los pacientes hemodializados con catéter venoso central de una clínica tercializada de Ica 2026",
+          "handle": "20.500.12866/24893"
+        },
+        {
           "title": "Cuidados preventivos y riesgo de Lesiones por Presión en pacientes de Cuidados Intensivos de un hospital de Lima, 2026",
           "handle": "20.500.12866/24890"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Influencia de perfiles de ultrafiltración en la prevención de hipotensión intradialítica de pacientes con hemodiálisis en una clínica particular, 2026",
           "handle": "20.500.12866/24846"
-        },
-        {
-          "title": "Evidencia de la aplicación de la lista de verificación segura frente a un acto quirúrgico en un hospital",
-          "handle": "20.500.12866/24842"
         }
       ]
     },
