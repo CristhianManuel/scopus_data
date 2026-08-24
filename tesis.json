@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T20:05:39.437Z",
+  "actualizado": "2026-08-24T20:45:38.229Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Validación de una guía de intervención de enfermería para traslado de pacientes en ambulancia en el ámbito prehospitalario – 2026",
+          "handle": "20.500.12866/24886"
+        },
+        {
           "title": "Influencia de perfiles de ultrafiltración en la prevención de hipotensión intradialítica de pacientes con hemodiálisis en una clínica particular, 2026",
           "handle": "20.500.12866/24846"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Nivel de conocimiento y práctica de los enfermeros  sobre medidas de prevención de neumonías asociado al ventilador mecánico",
           "handle": "20.500.12866/24821"
-        },
-        {
-          "title": "Conocimientos y prácticas de enfermería en el manejo del soporte ventilatorio con presión positiva continua en la vía aérea en recién nacidos prematuros en un hospital de Lima norte, 2025",
-          "handle": "20.500.12866/24809"
         }
       ]
     },
