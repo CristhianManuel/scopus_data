@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T21:14:24.837Z",
+  "actualizado": "2026-08-24T21:46:41.081Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -522,6 +522,10 @@
       "handle": "20.500.12866/18974",
       "tesis": [
         {
+          "title": "Propuesta de uso didáctico de Nearpod en el desarrollo del módulo formativo CCNA 7, M1, ITN- Introduction to Networks (CISCO) en SENATI - La Libertad, 2025",
+          "handle": "20.500.12866/24889"
+        },
+        {
           "title": "Experiencia en la fabricación y uso didáctico de un equipo de ensayo de doblez guiado para evaluar las competencias en Construcciones Metálicas en SENATI Villa el Salvador, 2017 - 2024",
           "handle": "20.500.12866/24704"
         },
@@ -536,10 +540,6 @@
         {
           "title": "Implementación de una plataforma de laboratorios remotos en la carrera de Instrumentación Industrial de la Escuela de Electrotecnia en SENATI, 2024",
           "handle": "20.500.12866/24585"
-        },
-        {
-          "title": "Experiencia del seguimiento a la formación práctica en empresa de los estudiantes de la carrera de Mecánica Automotriz del SENATI – Puerto Maldonado, 2015-2018",
-          "handle": "20.500.12866/24512"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Baremología y calificación de incapacidad de patologías neurológicas asociadas al trabajo",
+          "handle": "20.500.12866/24891"
+        },
+        {
           "title": "Factores de riesgo disergonómico relacionados al síndrome de visión por computadora en trabajadores administrativos de una empresa privada en Lima 2025",
           "handle": "20.500.12866/24885"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Efectos de la exposición al sílice cristalina en la salud de los trabajadores de la construcción y estrategias de prevención",
           "handle": "20.500.12866/24869"
-        },
-        {
-          "title": "Dengue como desencadenante de enfermedades reumatológicas inmunomediadas: una revisión exploratoria",
-          "handle": "20.500.12866/24860"
         }
       ]
     },
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Cuidados preventivos y riesgo de Lesiones por Presión en pacientes de Cuidados Intensivos de un hospital de Lima, 2026",
+          "handle": "20.500.12866/24890"
+        },
+        {
           "title": "Efecto de un programa de consejería educativa en la mejora de la técnica de recambio en diálisis peritoneal Lima 2026",
           "handle": "20.500.12866/24888"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Evidencia de la aplicación de la lista de verificación segura frente a un acto quirúrgico en un hospital",
           "handle": "20.500.12866/24842"
-        },
-        {
-          "title": "Factores de riesgo químico, biológico y ergonómico en el profesional de enfermería en centro quirúrgico",
-          "handle": "20.500.12866/24823"
         }
       ]
     },
