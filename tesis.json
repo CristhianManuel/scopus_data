@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T22:04:45.432Z",
+  "actualizado": "2026-08-24T22:39:54.880Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1396,6 +1396,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "Habilidades sociales y ansiedad estado rasgo en estudiantes de secundaria de un colegio de bachillerato internacional de la ciudad de Cusco, 2024",
+          "handle": "20.500.12866/24895"
+        },
+        {
           "title": "Suicidio, factores de riesgo y propuestas de intervención para prevenir el suicidio en América Latina: una revisión crítica",
           "handle": "20.500.12866/24667"
         },
@@ -1410,10 +1414,6 @@
         {
           "title": "El consumo de videojuegos con contenido violento y su relación con la violencia escolar en la población infanto-adolescente: una revisión de la literatura",
           "handle": "20.500.12866/19369"
-        },
-        {
-          "title": "El papel del mindfulness en la regulación emocional y la mejora de los procesos cognitivos en la depresión en adultos: una revisión crítica",
-          "handle": "20.500.12866/18600"
         }
       ]
     },
