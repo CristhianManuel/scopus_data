@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T20:16:33.170Z",
+  "actualizado": "2026-08-25T20:50:50.361Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1768,6 +1768,10 @@
       "handle": "20.500.12866/18653",
       "tesis": [
         {
+          "title": "Conocimientos y actitudes sobre inteligencia artificial en el diagnóstico y planificación del tratamiento de caries dental en estudiantes de Odontología: validación y aplicación de un cuestionario",
+          "handle": "20.500.12866/24898"
+        },
+        {
           "title": "Nivel de conocimiento y actitudes hacia la lactancia materna en odontólogos del valle del Mantaro, Junín",
           "handle": "20.500.12866/24788"
         },
@@ -1782,10 +1786,6 @@
         {
           "title": "Validación de un cuestionario como herramienta para medir conocimientos de bioseguridad en odontología",
           "handle": "20.500.12866/18097"
-        },
-        {
-          "title": "Asociación entre los indicadores de impacto con el costo de publicación en revistas odontológicas del mundo",
-          "handle": "20.500.12866/17999"
         }
       ]
     },
