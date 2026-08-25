@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T21:14:22.408Z",
+  "actualizado": "2026-08-25T21:46:23.429Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Calidad de la atención de enfermería y satisfacción de los padres de recién nacidos en la Unidad de Cuidados Intensivos Neonatal de un hospital privado Nivel II 2026",
+          "handle": "20.500.12866/24902"
+        },
+        {
           "title": "Percepción del familiar del paciente crítico sobre el cuidado humanizado que brinda el enfermero en una unidad de cuidados intensivos. Lima, 2026",
           "handle": "20.500.12866/24901"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Efecto de un programa de consejería educativa en la mejora de la técnica de recambio en diálisis peritoneal Lima 2026",
           "handle": "20.500.12866/24888"
-        },
-        {
-          "title": "Validación de una guía de intervención de enfermería para traslado de pacientes en ambulancia en el ámbito prehospitalario – 2026",
-          "handle": "20.500.12866/24886"
         }
       ]
     },
