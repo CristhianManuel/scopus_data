@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T14:55:38.643Z",
+  "actualizado": "2026-08-25T15:37:22.349Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1742,6 +1742,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Evaluación tomográfica de las características óseas de la zona retromolar mandibular en pacientes con diferentes patrones esqueléticos sagitales",
+          "handle": "20.500.12866/24897"
+        },
+        {
           "title": "Validación de un instrumento para medir el conocimiento sobre atención estomatológica de pacientes con necesidades especiales en cirujanos dentistas",
           "handle": "20.500.12866/24881"
         },
@@ -1756,10 +1760,6 @@
         {
           "title": "Efecto de las bebidas funcionales en la estabilidad del color de las resinas compuestas: Convencional, Universal y Bulk Fill",
           "handle": "20.500.12866/24822"
-        },
-        {
-          "title": "Resistencia a la fractura y tipo de falla de dientes tratados endodónticamente restaurados con resina compuesta reforzada con fibras de polietileno, fibras cortas de vidrio y resina compuesta convencional",
-          "handle": "20.500.12866/24820"
         }
       ]
     },
