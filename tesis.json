@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T15:58:08.232Z",
+  "actualizado": "2026-08-26T16:50:04.897Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Elaboración de un procedimiento para la validación de procesos de farmacovigilancia, en una droguería peruana",
+          "handle": "20.500.12866/24909"
+        },
+        {
           "title": "“Diseño de una metodología para la calificación del personal de acondicionado de productos farmacéuticos en concordancia con la normativa de Buenas Prácticas de Manufactura de DIGEMID”",
           "handle": "20.500.12866/24830"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Conocimientos sobre antibióticos y las actitudes y prácticas de automedicación en cuidadores de niños menores de 5 años de edad en Villa El Salvador, Lima-Perú",
           "handle": "20.500.12866/24484"
-        },
-        {
-          "title": "Determinación de residuos de sulfonamidas en muestras de huevo de gallina mediante un método microbiológico y cELISA, en un mercado mayorista de Lima Este, 2024",
-          "handle": "20.500.12866/18475"
         }
       ]
     },
@@ -1326,6 +1326,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Autoeficacia académica y apoyo social percibido en adolescentes de una institución educativa estatal de Lima Metropolitana",
+          "handle": "20.500.12866/24908"
+        },
+        {
           "title": "Uso problemático de internet y empatía en adolescentes de familias monoparentales y biparentales de 3º, 4º y 5º de secundaria de un colegio nacional de Chorrillos",
           "handle": "20.500.12866/24819"
         },
@@ -1340,10 +1344,6 @@
         {
           "title": "Acoso sexual callejero y ansiedad social en mujeres adultas emergentes de una universidad privada de Lima",
           "handle": "20.500.12866/24614"
-        },
-        {
-          "title": "Intervención conductual para el desarrollo de habilidades adaptativas en una niña con TEA en una institución educativa privada de La Molina, Lima - Perú",
-          "handle": "20.500.12866/24526"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y prácticas preventivas sobre anemia en gestantes que acuden a un centro de salud en Pachacamac, 2025",
+          "handle": "20.500.12866/24910"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la alimentación complementaria en madres de niños de 6-12 meses en un centro de salud de San Martín de Porres, Lima, 2025",
           "handle": "20.500.12866/24866"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Efectividad de un programa educativo en la capacidad de respuesta de los docentes ante la asfixia y paro cardiaco en una institución educativa de lima, 2025",
           "handle": "20.500.12866/24814"
-        },
-        {
-          "title": "Conocimiento y estilos de vida en adultos con hipertensión arterial de un centro de salud en lima 2025",
-          "handle": "20.500.12866/24810"
         }
       ]
     },
@@ -1642,24 +1642,24 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
-          "title": "Calidad de la atención de enfermería y satisfacción de los padres de recién nacidos en la Unidad de Cuidados Intensivos Neonatal de un hospital privado Nivel II 2026",
-          "handle": "20.500.12866/24902"
+          "title": "Conocimiento de las enfermeras sobre el cuidado del paciente con ventilación mecánica en el servicio de emergencia en un hospital público de Lima – 2025 Perú",
+          "handle": "20.500.12866/24911"
         },
         {
-          "title": "Percepción del familiar del paciente crítico sobre el cuidado humanizado que brinda el enfermero en una unidad de cuidados intensivos. Lima, 2026",
-          "handle": "20.500.12866/24901"
+          "title": "Transporte intrahospitalario del paciente pediátrico crítico y calidad del cuidado enfermero en una unidad intensiva pediátrica de un hospital público – Lima 2026",
+          "handle": "20.500.12866/24907"
         },
         {
-          "title": "Caracterización de los pacientes hemodializados con catéter venoso central de una clínica tercializada de Ica 2026",
-          "handle": "20.500.12866/24893"
+          "title": "Cuidado humanizado y seguridad del paciente en la Unidad de Cuidados Intensivos Neonatal de un hospital nivel III 2026",
+          "handle": "20.500.12866/24906"
         },
         {
-          "title": "Cuidados preventivos y riesgo de Lesiones por Presión en pacientes de Cuidados Intensivos de un hospital de Lima, 2026",
-          "handle": "20.500.12866/24890"
+          "title": "Conocimiento y práctica del profesional de Enfermería sobre la reanimación cardiopulmonar básica en adultos en un centro de salud de Piura, 2026",
+          "handle": "20.500.12866/24905"
         },
         {
-          "title": "Efecto de un programa de consejería educativa en la mejora de la técnica de recambio en diálisis peritoneal Lima 2026",
-          "handle": "20.500.12866/24888"
+          "title": "Aspectos sociodemográficos y adherencia al tratamiento en pacientes hemodializados del Centro de Diálisis de Cañete, 2026",
+          "handle": "20.500.12866/24904"
         }
       ]
     },
