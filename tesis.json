@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-26T14:22:02.571Z",
+  "actualizado": "2026-08-26T15:58:08.232Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -522,6 +522,10 @@
       "handle": "20.500.12866/18974",
       "tesis": [
         {
+          "title": "Situación de la producción académica de la relación entre los estilos de aprendizaje y rendimiento académico de los estudiantes de las universidades púbicas y privadas en el Perú, período 2015-2022",
+          "handle": "20.500.12866/24903"
+        },
+        {
           "title": "Propuesta de uso didáctico de Nearpod en el desarrollo del módulo formativo CCNA 7, M1, ITN- Introduction to Networks (CISCO) en SENATI - La Libertad, 2025",
           "handle": "20.500.12866/24889"
         },
@@ -536,10 +540,6 @@
         {
           "title": "Propuesta de una estrategia didáctica basada en el uso de podcasts para fortalecer el aprendizaje en el curso teórico de Ingeniería de Software y Metodologías Ágiles en SENATI Trujillo 2025",
           "handle": "20.500.12866/24669"
-        },
-        {
-          "title": "Implementación de una plataforma de laboratorios remotos en la carrera de Instrumentación Industrial de la Escuela de Electrotecnia en SENATI, 2024",
-          "handle": "20.500.12866/24585"
         }
       ]
     },
