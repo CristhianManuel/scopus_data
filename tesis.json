@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-28T16:38:17.655Z",
+  "actualizado": "2026-08-29T00:43:13.863Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Evaluación y mejora del Procedimiento Operativo Estándar (POE) del reporte de precios frente a la no conformidad detectada por la Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) en una droguería de Lima",
+          "handle": "20.500.12866/24921"
+        },
+        {
           "title": "Propuesta de Guía de Validación y Recopilación de Información para la notificación de sospechas de reacciones adversas a medicamentos u otros productos farmacéuticos por los TRS y/o TCRS",
           "handle": "20.500.12866/24920"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Implementación de un plan maestro de validación para software de equipos analíticos de control de calidad en un laboratorio farmacéutico con enfoque en CFR 21 parte 11",
           "handle": "20.500.12866/24816"
-        },
-        {
-          "title": "Asociación entre el manganeso en PM10 y el porcentaje de logro satisfactorio en las pruebas de comprensión lectora y matemáticas en estudiantes de segundo de primaria y segundo de secundaria del Perú del 2007 al 2019",
-          "handle": "20.500.12866/24671"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de las intervenciones educativas de enfermería en el conocimiento sobre estilos de vida saludable en estudiantes de 1° y 2° de secundaria en una institución educativa-2025",
+          "handle": "20.500.12866/24922"
+        },
+        {
           "title": "Nivel de conocimiento y prácticas preventivas sobre anemia en gestantes que acuden a un centro de salud en Pachacamac, 2025",
           "handle": "20.500.12866/24910"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Efectividad de una intervención de enfermería en el conocimiento de medidas de prevención para la tuberculosis en estudiantes de secundaria de una institución educativa, 2025",
           "handle": "20.500.12866/24826"
-        },
-        {
-          "title": "Efectividad de un programa educativo en la capacidad de respuesta de los docentes ante la asfixia y paro cardiaco en una institución educativa de lima, 2025",
-          "handle": "20.500.12866/24814"
         }
       ]
     },
@@ -1641,6 +1641,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Cuidados de enfermería en la sujeción del tubo endotraqueal en pacientes adultos hospitalizados en la Unidad de Cuidados Intensivos de un hospital de Lima  –  2026",
+          "handle": "20.500.12866/24924"
+        },
         {
           "title": "Conocimiento de las enfermeras sobre el cuidado del paciente con ventilación mecánica en el servicio de emergencia en un hospital público de Lima – 2025 Perú",
           "handle": "20.500.12866/24911"
@@ -1656,10 +1660,6 @@
         {
           "title": "Conocimiento y práctica del profesional de Enfermería sobre la reanimación cardiopulmonar básica en adultos en un centro de salud de Piura, 2026",
           "handle": "20.500.12866/24905"
-        },
-        {
-          "title": "Aspectos sociodemográficos y adherencia al tratamiento en pacientes hemodializados del Centro de Diálisis de Cañete, 2026",
-          "handle": "20.500.12866/24904"
         }
       ]
     },
