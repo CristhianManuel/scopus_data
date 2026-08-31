@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T15:27:36.269Z",
+  "actualizado": "2026-08-31T20:59:56.248Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Implementación de un área de almacenamiento para el cumplimiento de las Buenas Prácticas de Almacenamiento (BPA) de productos farmacéuticos y dispositivos médicos termo sensibles",
+          "handle": "20.500.12866/24928"
+        },
+        {
           "title": "Evaluación y mejora del Procedimiento Operativo Estándar (POE) del reporte de precios frente a la no conformidad detectada por la Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) en una droguería de Lima",
           "handle": "20.500.12866/24921"
         },
@@ -842,10 +846,6 @@
         {
           "title": "“Diseño de una metodología para la calificación del personal de acondicionado de productos farmacéuticos en concordancia con la normativa de Buenas Prácticas de Manufactura de DIGEMID”",
           "handle": "20.500.12866/24830"
-        },
-        {
-          "title": "Implementación de un plan maestro de validación para software de equipos analíticos de control de calidad en un laboratorio farmacéutico con enfoque en CFR 21 parte 11",
-          "handle": "20.500.12866/24816"
         }
       ]
     },
