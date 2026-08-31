@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T07:39:48.995Z",
+  "actualizado": "2026-08-31T15:27:36.269Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Características sociodemográficas, económicas y socioculturales de adultos que se automedican en el Centro de Salud “Aeropuerto”, Callao - 2025",
+          "handle": "20.500.12866/24926"
+        },
+        {
           "title": "Efectividad de las intervenciones educativas de enfermería en el conocimiento sobre estilos de vida saludable en estudiantes de 1° y 2° de secundaria en una institución educativa-2025",
           "handle": "20.500.12866/24922"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Apoyo social y su relación en la adherencia al tratamiento en pacientes con tuberculosis de un centro de salud - Lima, 2025",
           "handle": "20.500.12866/24848"
-        },
-        {
-          "title": "Efectividad de una intervención de enfermería en el conocimiento de medidas de prevención para la tuberculosis en estudiantes de secundaria de una institución educativa, 2025",
-          "handle": "20.500.12866/24826"
         }
       ]
     },
