@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T10:25:16.963Z",
+  "actualizado": "2026-09-01T15:02:40.134Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Sobrevida general y del injerto de niños sometidos a un trasplante renal en el Hospital Cayetano Heredia",
+          "handle": "20.500.12866/24930"
+        },
+        {
           "title": "Patologías extra-auditivas relacionadas a la exposición a ruido ocupacional",
           "handle": "20.500.12866/24915"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Relación entre el factor de riesgo disergonómico y los trastornos musculoesqueléticos en el personal administrativo de la municipalidad de José Luis Bustamante y Rivero - Arequipa, 2023",
           "handle": "20.500.12866/24883"
-        },
-        {
-          "title": "Revisión de la gestión de los factores de riesgo ergonómicos y psicosociales en la prevención de trastornos musculoesqueléticos en trabajadores en general, basada en publicaciones entre 2014 y 2024: enfoques y mejores prácticas",
-          "handle": "20.500.12866/24880"
         }
       ]
     },
@@ -1502,6 +1502,10 @@
       "handle": "20.500.12866/18756",
       "tesis": [
         {
+          "title": "Utilidad de la inteligencia artificial en la reconstrucción de imágenes en angiografía coronaria por tomografía computarizada en la mejora de la calidad de imagen y reducción de dosis: una revisión de alcance",
+          "handle": "20.500.12866/24931"
+        },
+        {
           "title": "Impacto de la baja dosis en tomografía computarizada en la mejora del cribado de cáncer pulmonar: una revisión de alcance",
           "handle": "20.500.12866/24872"
         },
@@ -1516,10 +1520,6 @@
         {
           "title": "Precisión diagnóstica de la mamografía contrastada en comparación con la resonancia magnética en mujeres con mamas densas para el diagnóstico de cáncer de mama: una revisión de alcance",
           "handle": "20.500.12866/24648"
-        },
-        {
-          "title": "Utilidad diagnóstica de la elastografía por ultrasonido como método complementario a la ecografía en modo B o a la resonancia magnética en la evaluación de partes blandas para el diagnóstico de lesiones y enfermedades musculoesqueléticas en adultos: una revisión de alcance",
-          "handle": "20.500.12866/24646"
         }
       ]
     },
