@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T15:02:40.134Z",
+  "actualizado": "2026-09-01T18:24:26.774Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Evaluación comparativa de 4 bioestimulantes comerciales a base de extractos de algas marinas en el proceso de aclimatación ex vitro de plántulas de arándano variedad Emerald",
+          "handle": "20.500.12866/24932"
+        },
+        {
           "title": "Descripción de la Microbiota Intratumoral y su Asociación con la Respuesta al Tratamiento de Cáncer Colorrectal según Sexo: Un Análisis Secundario Exploratorio de Datos Metagenómicos",
           "handle": "20.500.12866/24858"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Evaluación de la inmunogenicidad celular de proteínas seleccionadas de Treponema pallidum mediante detección y cuantificación de IFN-γ en pacientes con sífilis en Lima, Perú",
           "handle": "20.500.12866/24751"
-        },
-        {
-          "title": "Evaluación de la expresión de biomarcadores de estrés oxidativo en cultivos primarios astrocíticos de Rattus norvegicus inducidos con antígeno E/S o Total del estadio de cisticerco de Taenia solium",
-          "handle": "20.500.12866/24503"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre prevención de violencia de género en la etapa de enamoramiento en adolescentes de una institución educativa, 2025",
+          "handle": "20.500.12866/24935"
+        },
+        {
           "title": "Características sociodemográficas, económicas y socioculturales de adultos que se automedican en el Centro de Salud “Aeropuerto”, Callao - 2025",
           "handle": "20.500.12866/24926"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la alimentación complementaria en madres de niños de 6-12 meses en un centro de salud de San Martín de Porres, Lima, 2025",
           "handle": "20.500.12866/24866"
-        },
-        {
-          "title": "Apoyo social y su relación en la adherencia al tratamiento en pacientes con tuberculosis de un centro de salud - Lima, 2025",
-          "handle": "20.500.12866/24848"
         }
       ]
     },
@@ -1641,6 +1641,14 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Conocimiento y adherencia de las enfermeras a las medidas del bundle de neumonía asociada a la ventilación mecánica en 3 unidades de cuidados intensivos de Lima Metropolitana - 2026",
+          "handle": "20.500.12866/24934"
+        },
+        {
+          "title": "Percepción del paciente sobre el cuidado enfermero según la teoría de Rose Marie Parse en la unidad de cuidados intensivos de un hospital nacional, 2023",
+          "handle": "20.500.12866/24933"
+        },
         {
           "title": "Cuidados de enfermería en la sujeción del tubo endotraqueal en pacientes adultos hospitalizados en la Unidad de Cuidados Intensivos de un hospital de Lima  –  2026",
           "handle": "20.500.12866/24924"
@@ -1652,14 +1660,6 @@
         {
           "title": "Transporte intrahospitalario del paciente pediátrico crítico y calidad del cuidado enfermero en una unidad intensiva pediátrica de un hospital público – Lima 2026",
           "handle": "20.500.12866/24907"
-        },
-        {
-          "title": "Cuidado humanizado y seguridad del paciente en la Unidad de Cuidados Intensivos Neonatal de un hospital nivel III 2026",
-          "handle": "20.500.12866/24906"
-        },
-        {
-          "title": "Conocimiento y práctica del profesional de Enfermería sobre la reanimación cardiopulmonar básica en adultos en un centro de salud de Piura, 2026",
-          "handle": "20.500.12866/24905"
         }
       ]
     },
