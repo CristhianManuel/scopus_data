@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T20:28:11.884Z",
+  "actualizado": "2026-09-02T22:47:28.708Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "First implementation of a Point -of -care ultrasound course in undergraduate medical students in Peru",
+          "handle": "20.500.12866/24941"
+        },
+        {
           "title": "Influencia del aula invertida en los resultados de aprendizaje de los estudiantes de la Cátedra de Parasitología para Farmacéuticos en una Universidad de Iquitos",
           "handle": "20.500.12866/24919"
         },
@@ -588,10 +592,6 @@
         {
           "title": "La evaluación participativa a través de herramientas digitales en la asignatura probabilidad y estadística, carrera de ITI de una universidad extranjera",
           "handle": "20.500.12866/19036"
-        },
-        {
-          "title": "Autoeficacia para la investigación como predictora de la motivación para la publicación de artículos científicos en estudiantes de psicología de una universidad privada de Arequipa",
-          "handle": "20.500.12866/19026"
         }
       ]
     },
@@ -1056,6 +1056,14 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Gobernanza, calidad y toma de decisiones en el sistema de Exámenes Médicos Ocupacionales: análisis normativo, técnico y organizacional en contextos de riesgo.",
+          "handle": "20.500.12866/24938"
+        },
+        {
+          "title": "Impacto de la ausencia de medidas de prevención laboral en el desarrollo de estrés de los trabajadores del sector agrícola",
+          "handle": "20.500.12866/24937"
+        },
+        {
           "title": "Sobrevida general y del injerto de niños sometidos a un trasplante renal en el Hospital Cayetano Heredia",
           "handle": "20.500.12866/24930"
         },
@@ -1066,14 +1074,6 @@
         {
           "title": "Baremología y calificación de incapacidad de patologías neurológicas asociadas al trabajo",
           "handle": "20.500.12866/24891"
-        },
-        {
-          "title": "Factores de riesgo disergonómico relacionados al síndrome de visión por computadora en trabajadores administrativos de una empresa privada en Lima 2025",
-          "handle": "20.500.12866/24885"
-        },
-        {
-          "title": "Relación entre el factor de riesgo disergonómico y los trastornos musculoesqueléticos en el personal administrativo de la municipalidad de José Luis Bustamante y Rivero - Arequipa, 2023",
-          "handle": "20.500.12866/24883"
         }
       ]
     },
@@ -1616,6 +1616,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Conocimientos y prácticas sobre primeros auxilios en docentes de una institución educativa estatal de San Juan Lurigancho, 2025",
+          "handle": "20.500.12866/24940"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre prevención de violencia de género en la etapa de enamoramiento en adolescentes de una institución educativa, 2025",
           "handle": "20.500.12866/24935"
         },
@@ -1630,10 +1634,6 @@
         {
           "title": "Nivel de conocimiento y prácticas preventivas sobre anemia en gestantes que acuden a un centro de salud en Pachacamac, 2025",
           "handle": "20.500.12866/24910"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la alimentación complementaria en madres de niños de 6-12 meses en un centro de salud de San Martín de Porres, Lima, 2025",
-          "handle": "20.500.12866/24866"
         }
       ]
     },
@@ -1641,6 +1641,14 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Comunicación terapéutica enfermera - paciente en centro quirúrgico de un hospital nacional de Lima 2026",
+          "handle": "20.500.12866/24939"
+        },
+        {
+          "title": "Relación entre la percepción de la calidad del cuidado de enfermería y la satisfacción del paciente en un centro de hemodiálisis privado, Lima 2026",
+          "handle": "20.500.12866/24936"
+        },
         {
           "title": "Conocimiento y adherencia de las enfermeras a las medidas del bundle de neumonía asociada a la ventilación mecánica en 3 unidades de cuidados intensivos de Lima Metropolitana - 2026",
           "handle": "20.500.12866/24934"
@@ -1652,14 +1660,6 @@
         {
           "title": "Cuidados de enfermería en la sujeción del tubo endotraqueal en pacientes adultos hospitalizados en la Unidad de Cuidados Intensivos de un hospital de Lima  –  2026",
           "handle": "20.500.12866/24924"
-        },
-        {
-          "title": "Conocimiento de las enfermeras sobre el cuidado del paciente con ventilación mecánica en el servicio de emergencia en un hospital público de Lima – 2025 Perú",
-          "handle": "20.500.12866/24911"
-        },
-        {
-          "title": "Transporte intrahospitalario del paciente pediátrico crítico y calidad del cuidado enfermero en una unidad intensiva pediátrica de un hospital público – Lima 2026",
-          "handle": "20.500.12866/24907"
         }
       ]
     },
