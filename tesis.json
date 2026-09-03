@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T20:08:34.227Z",
+  "actualizado": "2026-09-03T22:33:25.838Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Criterios de selección para pacientes candidatas a citorreducción completa por cáncer de endometrio recurrente: una revisión exploratoria",
+          "handle": "20.500.12866/24942"
+        },
+        {
           "title": "Gobernanza, calidad y toma de decisiones en el sistema de Exámenes Médicos Ocupacionales: análisis normativo, técnico y organizacional en contextos de riesgo.",
           "handle": "20.500.12866/24938"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Patologías extra-auditivas relacionadas a la exposición a ruido ocupacional",
           "handle": "20.500.12866/24915"
-        },
-        {
-          "title": "Baremología y calificación de incapacidad de patologías neurológicas asociadas al trabajo",
-          "handle": "20.500.12866/24891"
         }
       ]
     },
