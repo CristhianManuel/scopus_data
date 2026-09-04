@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T21:37:20.587Z",
+  "actualizado": "2026-09-04T23:19:14.401Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1716,6 +1716,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Asociación entre la concentración de flúor en la pasta dental utilizada por niños peruanos y el nivel educativo del jefe del hogar, 2024",
+          "handle": "20.500.12866/24947"
+        },
+        {
           "title": "Revisión sistemática de la evolución de los escáneres intraorales",
           "handle": "20.500.12866/24841"
         },
@@ -1730,10 +1734,6 @@
         {
           "title": "Caries dental, enfermedad periodontal y conductas de riesgo en adolescentes de una comunidad rural de Cajatambo, año 2025",
           "handle": "20.500.12866/24724"
-        },
-        {
-          "title": "Evaluación de una intervención en salud bucal en la población del Distrito de Ambo, Huánuco, Perú, 2021",
-          "handle": "20.500.12866/24611"
         }
       ]
     },
