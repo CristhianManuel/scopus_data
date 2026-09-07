@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T19:12:48.134Z",
+  "actualizado": "2026-09-07T22:03:24.757Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1208,6 +1208,10 @@
       "handle": "20.500.12866/18937",
       "tesis": [
         {
+          "title": "Dinámica de la resistencia a los antimicrobianos más utilizados en la avicultura, en aislados de Salmonella spp. y Escherichia coli de un laboratorio en Lima - Perú entre los años 2018 y 2024.",
+          "handle": "20.500.12866/24957"
+        },
+        {
           "title": "Eficacia protectiva e inmunogenicidad de una vacuna inactivada a base de cultivo celular contra la hepatitis A cuerpo de inclusión en pollos SPF",
           "handle": "20.500.12866/15152"
         },
@@ -1326,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Programa de orientación y consejería dirigido a un estudiante en riesgo de deserción académica de una universidad estatal en la región San Martín",
+          "handle": "20.500.12866/24956"
+        },
+        {
           "title": "Fortalecimiento de la inteligencia emocional y comunicación asertiva en los responsables de los Comités Distritales de Seguridad Ciudadana de una provincia del departamento de Cusco",
           "handle": "20.500.12866/24914"
         },
@@ -1340,10 +1348,6 @@
         {
           "title": "Implementación de entrevistas por competencias en procesos de selección para puestos entry level en una empresa del sector industrial",
           "handle": "20.500.12866/24718"
-        },
-        {
-          "title": "Propuesta de mejora del proceso de onboarding híbrido y su impacto en la reducción de la rotación de un equipo de atención al cliente en el año 2025",
-          "handle": "20.500.12866/24685"
         }
       ]
     },
@@ -1642,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Actitud del personal de enfermería frente a la aplicación de la lista de verificación de cirugía segura en un hospital docente de Lima Norte, 2026",
+          "handle": "20.500.12866/24955"
+        },
+        {
           "title": "Intervenciones no farmacológicas de enfermería en el manejo del dolor postoperatorio inmediato en pacientes en un Hospital Nacional de Lima, 2026",
           "handle": "20.500.12866/24949"
         },
@@ -1656,10 +1664,6 @@
         {
           "title": "Relación entre la percepción de la calidad del cuidado de enfermería y la satisfacción del paciente en un centro de hemodiálisis privado, Lima 2026",
           "handle": "20.500.12866/24936"
-        },
-        {
-          "title": "Conocimiento y adherencia de las enfermeras a las medidas del bundle de neumonía asociada a la ventilación mecánica en 3 unidades de cuidados intensivos de Lima Metropolitana - 2026",
-          "handle": "20.500.12866/24934"
         }
       ]
     },
