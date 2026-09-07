@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T15:14:31.414Z",
+  "actualizado": "2026-09-07T19:12:48.134Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -316,6 +316,10 @@
       "handle": "20.500.12866/18924",
       "tesis": [
         {
+          "title": "Muerte celular por piroptosis en tejido de cerebro de rata con neurocisticercosis",
+          "handle": "20.500.12866/24952"
+        },
+        {
           "title": "Moléculas del cisticerco de Taenia solium y su rol en la modulación de la respuesta inmune del huésped: revisión sistemática",
           "handle": "20.500.12866/19965"
         },
@@ -330,10 +334,6 @@
         {
           "title": "Detección de frecuencia de mutaciones en los genes 23S ARNr y penA que confieren resistencia a azitromicina y cefixime en Neisseria gonorrhoeae en muestras rectales de hombres que tienen sexo con hombres",
           "handle": "20.500.12866/17495"
-        },
-        {
-          "title": "“Detección de la liberación de endotoxinas bacterianas inducidas por la esterilización mediante autoclave bajo las condiciones recomendadas por el Ministerio de Salud- Perú”.",
-          "handle": "20.500.12866/17342"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Micobacterias no tuberculosas en mastitis granulomatosas: revisión de alcance",
+          "handle": "20.500.12866/24948"
+        },
+        {
           "title": "Criterios de selección para pacientes candidatas a citorreducción completa por cáncer de endometrio recurrente: una revisión exploratoria",
           "handle": "20.500.12866/24942"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Sobrevida general y del injerto de niños sometidos a un trasplante renal en el Hospital Cayetano Heredia",
           "handle": "20.500.12866/24930"
-        },
-        {
-          "title": "Patologías extra-auditivas relacionadas a la exposición a ruido ocupacional",
-          "handle": "20.500.12866/24915"
         }
       ]
     },
@@ -1642,6 +1642,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Intervenciones no farmacológicas de enfermería en el manejo del dolor postoperatorio inmediato en pacientes en un Hospital Nacional de Lima, 2026",
+          "handle": "20.500.12866/24949"
+        },
+        {
           "title": "Intervenciones que implementa el profesional de enfermería para prevenir complicaciones en la terapia trombolítica en pacientes con infarto agudo de miocardio, en un hospital nivel III, 2026",
           "handle": "20.500.12866/24944"
         },
@@ -1656,10 +1660,6 @@
         {
           "title": "Conocimiento y adherencia de las enfermeras a las medidas del bundle de neumonía asociada a la ventilación mecánica en 3 unidades de cuidados intensivos de Lima Metropolitana - 2026",
           "handle": "20.500.12866/24934"
-        },
-        {
-          "title": "Percepción del paciente sobre el cuidado enfermero según la teoría de Rose Marie Parse en la unidad de cuidados intensivos de un hospital nacional, 2023",
-          "handle": "20.500.12866/24933"
         }
       ]
     },
