@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-07T22:03:24.757Z",
+  "actualizado": "2026-09-08T00:13:26.978Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -548,6 +548,10 @@
       "handle": "20.500.12866/18975",
       "tesis": [
         {
+          "title": "Discursos en torno a la enseñanza y aprendizaje de la lectura poética en la escuela: una aproximación desde las voces de las y los estudiantes",
+          "handle": "20.500.12866/24958"
+        },
+        {
           "title": "Estrategias metacognitivas y producción de textos expositivos en estudiantes de cuarto grado de secundaria de una institución educativa de Fe y Alegría en Comas",
           "handle": "20.500.12866/24605"
         },
@@ -562,10 +566,6 @@
         {
           "title": "El uso del libro álbum como recurso pedagógico y su relación con el desarrollo de la comprensión lectora en el nivel primaria en América Latina",
           "handle": "20.500.12866/18105"
-        },
-        {
-          "title": "Alfabetización mediática en la educación básica en Latinoamérica",
-          "handle": "20.500.12866/18001"
         }
       ]
     },
