@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T20:06:37.407Z",
+  "actualizado": "2026-09-08T22:36:54.673Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Revisión sistemática sobre la problemática de la producción científica en el Perú; un análisis crítico, 2013 - 2023",
+          "handle": "20.500.12866/24971"
+        },
+        {
           "title": "First implementation of a Point -of -care ultrasound course in undergraduate medical students in Peru",
           "handle": "20.500.12866/24941"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Estrategias para el aprendizaje significativo en estudiantes de Segunda Especialidad de Enfermería en el cuidado del neurodesarrollo del recién nacido",
           "handle": "20.500.12866/24519"
-        },
-        {
-          "title": "La evaluación participativa a través de herramientas digitales en la asignatura probabilidad y estadística, carrera de ITI de una universidad extranjera",
-          "handle": "20.500.12866/19036"
         }
       ]
     },
@@ -868,6 +868,10 @@
       "handle": "20.500.12866/19020",
       "tesis": [
         {
+          "title": "Razones de negativa familiar a la solicitud de la donación de órganos o tejidos: un análisis de una base de datos de la ficha de entrevista familiar",
+          "handle": "20.500.12866/24969"
+        },
+        {
           "title": "Estudio exploratorio: exactitud diagnóstica según sensibilidad y especificidad entre los índices antropométricos (IMC, CC e ICT) y el análisis de bioimpedancia para determinar el sobrepeso u obesidad en mujeres adultas de San Juan de Lurigancho, Lima y Huancavelica – Perú",
           "handle": "20.500.12866/18118"
         },
@@ -882,10 +886,6 @@
         {
           "title": "Relación entre la percepción de haber sufrido violencia familiar y abandono del hogar en mujeres transgénero en Lima Metropolitana durante el 2020",
           "handle": "20.500.12866/16286"
-        },
-        {
-          "title": "Percepciones de la implementación del Modelo de Atención Integral en Salud basado en familia y comunidad en establecimientos de salud de Lima norte del MINSA, 2011 – 2020, desde la perspectiva de los prestadores",
-          "handle": "20.500.12866/16201"
         }
       ]
     },
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Reporte de caso clínico de linfangiosarcoma cutáneo en felino doméstico en Lima, Perú",
+          "handle": "20.500.12866/24970"
+        },
+        {
           "title": "Prevalencia de Campylobacter spp. en perros con dueño que asisten a una clínica veterinaria en Miraflores (Lima, Perú)",
           "handle": "20.500.12866/24882"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Prevalencia y caracterización antimicrobiana de cepas de Campylobacter jejuni y Campylobacter coli aisladas de carne de pollo comercializada en hipermercados de Lima Este",
           "handle": "20.500.12866/24828"
-        },
-        {
-          "title": "Relación entre la actividad diurna de la hembra de Ixodes ricinus (estadio adulto) en función de la temperatura y humedad en un dispositivo experimental en un ambiente semiabierto",
-          "handle": "20.500.12866/24811"
         }
       ]
     },
