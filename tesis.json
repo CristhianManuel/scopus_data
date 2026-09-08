@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T13:34:14.346Z",
+  "actualizado": "2026-09-08T17:27:21.810Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Eficacia de terapias tópicas con antimicóticos para el tratamiento del Acné Vulgaris. Una revisión sistemática",
+          "handle": "20.500.12866/24963"
+        },
+        {
           "title": "Micobacterias no tuberculosas en mastitis granulomatosas: revisión de alcance",
           "handle": "20.500.12866/24948"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Impacto de la ausencia de medidas de prevención laboral en el desarrollo de estrés de los trabajadores del sector agrícola",
           "handle": "20.500.12866/24937"
-        },
-        {
-          "title": "Sobrevida general y del injerto de niños sometidos a un trasplante renal en el Hospital Cayetano Heredia",
-          "handle": "20.500.12866/24930"
         }
       ]
     },
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Eficacia del mindfulness en la reducción de la ansiedad en niños y adolescentes: una revisión crítica internacional (2020–2025)",
+          "handle": "20.500.12866/24966"
+        },
+        {
           "title": "Programa de orientación y consejería dirigido a un estudiante en riesgo de deserción académica de una universidad estatal en la región San Martín",
           "handle": "20.500.12866/24956"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Uso problemático de internet y empatía en adolescentes de familias monoparentales y biparentales de 3º, 4º y 5º de secundaria de un colegio nacional de Chorrillos",
           "handle": "20.500.12866/24819"
-        },
-        {
-          "title": "Implementación de entrevistas por competencias en procesos de selección para puestos entry level en una empresa del sector industrial",
-          "handle": "20.500.12866/24718"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de la intervención educativa sobre conocimientos en prevención del cáncer de cuello uterino en mujeres de un programa de alimentación comunitaria, Villa El Salvador, 2025",
+          "handle": "20.500.12866/24965"
+        },
+        {
           "title": "Conocimientos y prácticas sobre primeros auxilios en docentes de una institución educativa estatal de San Juan Lurigancho, 2025",
           "handle": "20.500.12866/24940"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Efectividad de las intervenciones educativas de enfermería en el conocimiento sobre estilos de vida saludable en estudiantes de 1° y 2° de secundaria en una institución educativa-2025",
           "handle": "20.500.12866/24922"
-        },
-        {
-          "title": "Nivel de conocimiento y prácticas preventivas sobre anemia en gestantes que acuden a un centro de salud en Pachacamac, 2025",
-          "handle": "20.500.12866/24910"
         }
       ]
     },
@@ -1645,6 +1645,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Efectividad de la terapia de masaje infantil en el manejo del estrés de neonatos prematuros en una UCI neonatal, Lima – 2026",
+          "handle": "20.500.12866/24964"
+        },
         {
           "title": "Actitud del personal de enfermería frente a la aplicación de la lista de verificación de cirugía segura en un hospital docente de Lima Norte, 2026",
           "handle": "20.500.12866/24955"
@@ -1660,10 +1664,6 @@
         {
           "title": "Comunicación terapéutica enfermera - paciente en centro quirúrgico de un hospital nacional de Lima 2026",
           "handle": "20.500.12866/24939"
-        },
-        {
-          "title": "Relación entre la percepción de la calidad del cuidado de enfermería y la satisfacción del paciente en un centro de hemodiálisis privado, Lima 2026",
-          "handle": "20.500.12866/24936"
         }
       ]
     },
@@ -1746,6 +1746,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Explorar las experiencias, actitudes y conocimientos en estudiantes y docentes de posgrado de periodoncia e implantes en relación al cambio en la clasificación de enfermedades y condiciones periodontales y periimplantarias del 2018, en la Facultad de Estomatología de la Universidad Peruana Cayetano Heredia",
+          "handle": "20.500.12866/24967"
+        },
+        {
+          "title": "Características sociodemográficas e índice de higiene oral en niños con fisura labio-alveolo-palatina del programa Creciendo entre los años 2015 al 2023",
+          "handle": "20.500.12866/24962"
+        },
+        {
           "title": "Evaluación tomográfica de las características óseas de la zona retromolar mandibular en pacientes con diferentes patrones esqueléticos sagitales",
           "handle": "20.500.12866/24897"
         },
@@ -1756,14 +1764,6 @@
         {
           "title": "Relación de la prominencia de la sínfisis mandibular con la inclinación de los incisivos inferiores y el índice de Holdaway en pacientes con clase III esqueletal: estudio tomográfico",
           "handle": "20.500.12866/24867"
-        },
-        {
-          "title": "Rugosidad superficial en resinas compuestas  convencionales y Bulk Fill ante el precalentamiento - estudio in vitro",
-          "handle": "20.500.12866/24829"
-        },
-        {
-          "title": "Efecto de las bebidas funcionales en la estabilidad del color de las resinas compuestas: Convencional, Universal y Bulk Fill",
-          "handle": "20.500.12866/24822"
         }
       ]
     },
