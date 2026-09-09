@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T09:43:58.555Z",
+  "actualizado": "2026-09-09T13:58:37.667Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "La Terapia de Aceptación y Compromiso como intervención en la salud mental de pacientes oncológicos adultos: una revisión crítica de la literatura",
+          "handle": "20.500.12866/24973"
+        },
+        {
           "title": "Eficacia del mindfulness en la reducción de la ansiedad en niños y adolescentes: una revisión crítica internacional (2020–2025)",
           "handle": "20.500.12866/24966"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Autoeficacia académica y apoyo social percibido en adolescentes de una institución educativa estatal de Lima Metropolitana",
           "handle": "20.500.12866/24908"
-        },
-        {
-          "title": "Uso problemático de internet y empatía en adolescentes de familias monoparentales y biparentales de 3º, 4º y 5º de secundaria de un colegio nacional de Chorrillos",
-          "handle": "20.500.12866/24819"
         }
       ]
     },
@@ -1620,6 +1620,14 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Nivel de conocimientos y actitudes sobre primeros auxilios en los docentes de la Institución Educativa “Las 200 Millas”, 2025",
+          "handle": "20.500.12866/24975"
+        },
+        {
+          "title": "Factores socioculturales asociados al cumplimiento del esquema de vacunación en madres de niños menores de 5 años en la Microred de salud Turpo-Apurímac 2025",
+          "handle": "20.500.12866/24974"
+        },
+        {
           "title": "Efectividad de la intervención educativa sobre conocimientos en prevención del cáncer de cuello uterino en mujeres de un programa de alimentación comunitaria, Villa El Salvador, 2025",
           "handle": "20.500.12866/24965"
         },
@@ -1630,14 +1638,6 @@
         {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre prevención de violencia de género en la etapa de enamoramiento en adolescentes de una institución educativa, 2025",
           "handle": "20.500.12866/24935"
-        },
-        {
-          "title": "Características sociodemográficas, económicas y socioculturales de adultos que se automedican en el Centro de Salud “Aeropuerto”, Callao - 2025",
-          "handle": "20.500.12866/24926"
-        },
-        {
-          "title": "Efectividad de las intervenciones educativas de enfermería en el conocimiento sobre estilos de vida saludable en estudiantes de 1° y 2° de secundaria en una institución educativa-2025",
-          "handle": "20.500.12866/24922"
         }
       ]
     },
