@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T20:02:27.662Z",
+  "actualizado": "2026-09-09T22:28:33.873Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Programa de fortalecimiento socioemocional basado en inteligencia emocional y habilidades sociales en estudiantes del segundo de secundaria en Lima",
+          "handle": "20.500.12866/24980"
+        },
+        {
           "title": "La Terapia de Aceptación y Compromiso como intervención en la salud mental de pacientes oncológicos adultos: una revisión crítica de la literatura",
           "handle": "20.500.12866/24973"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Fortalecimiento de la inteligencia emocional y comunicación asertiva en los responsables de los Comités Distritales de Seguridad Ciudadana de una provincia del departamento de Cusco",
           "handle": "20.500.12866/24914"
-        },
-        {
-          "title": "Autoeficacia académica y apoyo social percibido en adolescentes de una institución educativa estatal de Lima Metropolitana",
-          "handle": "20.500.12866/24908"
         }
       ]
     },
