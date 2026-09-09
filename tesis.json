@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T13:58:37.667Z",
+  "actualizado": "2026-09-09T17:37:40.793Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Evaluación de efectores de citotoxicidad (Granzima B y Perforina) en células inmunes de pacientes con tuberculosis pulmonar activa sensible a tratamiento",
+          "handle": "20.500.12866/24976"
+        },
+        {
           "title": "Evaluación comparativa de 4 bioestimulantes comerciales a base de extractos de algas marinas en el proceso de aclimatación ex vitro de plántulas de arándano variedad Emerald",
           "handle": "20.500.12866/24932"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Conectando con la naturaleza: el impacto de las visitas guiadas educativas a la RNIPG- Punta San Juan en los conocimientos y percepciones de los residentes de Marcona",
           "handle": "20.500.12866/24785"
-        },
-        {
-          "title": "Evaluación de la inmunogenicidad celular de proteínas seleccionadas de Treponema pallidum mediante detección y cuantificación de IFN-γ en pacientes con sífilis en Lima, Perú",
-          "handle": "20.500.12866/24751"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de un programa educativo de enfermería en el conocimiento sobre primeros auxilios en docentes de primaria de una institución educativa, 2025",
+          "handle": "20.500.12866/24978"
+        },
+        {
           "title": "Nivel de conocimientos y actitudes sobre primeros auxilios en los docentes de la Institución Educativa “Las 200 Millas”, 2025",
           "handle": "20.500.12866/24975"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Conocimientos y prácticas sobre primeros auxilios en docentes de una institución educativa estatal de San Juan Lurigancho, 2025",
           "handle": "20.500.12866/24940"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre prevención de violencia de género en la etapa de enamoramiento en adolescentes de una institución educativa, 2025",
-          "handle": "20.500.12866/24935"
         }
       ]
     },
