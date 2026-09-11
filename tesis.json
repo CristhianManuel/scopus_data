@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T19:21:16.329Z",
+  "actualizado": "2026-09-11T21:48:52.453Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -290,6 +290,10 @@
       "handle": "20.500.12866/18917",
       "tesis": [
         {
+          "title": "Conectividad de poblaciones de Plasmodium vivax en las regiones de Amazonas y Loreto",
+          "handle": "20.500.12866/24989"
+        },
+        {
           "title": "Efecto de las partículas TiO2 conjugadas con el nanocuerpo anti-Fas2 en la viabilidad y peroxidación lipídica de parásitos adultos de Fasciola hepatica",
           "handle": "20.500.12866/19370"
         },
@@ -304,10 +308,6 @@
         {
           "title": "Identificación del perfil metabolómico de la dieta de mosquitos vectores Anopheles por la técnica HPLC-MS (cromatografía líquida de alta eficiencia acoplado a espectrometría de masas) en el departamento de Lima",
           "handle": "20.500.12866/18020"
-        },
-        {
-          "title": "Evaluación del límite de detección de heterorresistencia de Mycobacterium tuberculosis usando secuenciación nanopore con ADN genómico y amplicones a partir de mezclas bacterianas heterorresistentes en muestras de esputo negativo",
-          "handle": "20.500.12866/17996"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Criterios metodológicos aplicados en la gestión de riesgos disergonómicos",
+          "handle": "20.500.12866/24990"
+        },
+        {
           "title": "Eficacia de terapias tópicas con antimicóticos para el tratamiento del Acné Vulgaris. Una revisión sistemática",
           "handle": "20.500.12866/24963"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Gobernanza, calidad y toma de decisiones en el sistema de Exámenes Médicos Ocupacionales: análisis normativo, técnico y organizacional en contextos de riesgo.",
           "handle": "20.500.12866/24938"
-        },
-        {
-          "title": "Impacto de la ausencia de medidas de prevención laboral en el desarrollo de estrés de los trabajadores del sector agrícola",
-          "handle": "20.500.12866/24937"
         }
       ]
     },
@@ -1081,6 +1081,10 @@
       "clave": "medicina-doctorado",
       "handle": "20.500.12866/18693",
       "tesis": [
+        {
+          "title": "Efecto de la implementación de un nuevo plan de estudio en la adquisición temprana de la competencia: elaboración de la historia clínica en los estudiantes de medicina de una universidad privada",
+          "handle": "20.500.12866/24994"
+        },
         {
           "title": "Utilidad de los cuestionarios ASQ: SE-2 y ASQ-3 para la identificación de niños con riesgo de trastorno del espectro autista entre 18 a 54 meses, Lima - Perú",
           "handle": "20.500.12866/24681"
@@ -1096,10 +1100,6 @@
         {
           "title": "Evaluación de la presión arterial en el periodo inter-dialítico a través del monitoreo de la presión arterial durante 24 horas",
           "handle": "20.500.12866/18498"
-        },
-        {
-          "title": "Factores de riesgo potencialmente modificables de estancias hospitalarias prolongadas en servicios de medicina interna en un hospital de tercer nivel de atención del MINSA de Lima-Perú. Un problema de salud pública aún no resuelto.",
-          "handle": "20.500.12866/17674"
         }
       ]
     },
@@ -1646,6 +1646,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y autocuidado en el paciente en  hemodiálisis con hipertensión arterial en un centro  privado, Lima, 2026",
+          "handle": "20.500.12866/24996"
+        },
+        {
+          "title": "Factores ambientales y el nivel de estrés del neonato prematuro en la unidad de cuidados intensivos de un hospital de Huaraz, 2026",
+          "handle": "20.500.12866/24993"
+        },
+        {
           "title": "Valoración de la fragilidad y riesgo de caídas en adultos mayores hemodializados, Lima - 2026",
           "handle": "20.500.12866/24982"
         },
@@ -1656,14 +1664,6 @@
         {
           "title": "Actitud del personal de enfermería frente a la aplicación de la lista de verificación de cirugía segura en un hospital docente de Lima Norte, 2026",
           "handle": "20.500.12866/24955"
-        },
-        {
-          "title": "Intervenciones no farmacológicas de enfermería en el manejo del dolor postoperatorio inmediato en pacientes en un Hospital Nacional de Lima, 2026",
-          "handle": "20.500.12866/24949"
-        },
-        {
-          "title": "Intervenciones que implementa el profesional de enfermería para prevenir complicaciones en la terapia trombolítica en pacientes con infarto agudo de miocardio, en un hospital nivel III, 2026",
-          "handle": "20.500.12866/24944"
         }
       ]
     },
