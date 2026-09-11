@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T12:54:34.950Z",
+  "actualizado": "2026-09-11T16:51:00.275Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1646,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Valoración de la fragilidad y riesgo de caídas en adultos mayores hemodializados, Lima - 2026",
+          "handle": "20.500.12866/24982"
+        },
+        {
           "title": "Efectividad de la terapia de masaje infantil en el manejo del estrés de neonatos prematuros en una UCI neonatal, Lima – 2026",
           "handle": "20.500.12866/24964"
         },
@@ -1660,10 +1664,6 @@
         {
           "title": "Intervenciones que implementa el profesional de enfermería para prevenir complicaciones en la terapia trombolítica en pacientes con infarto agudo de miocardio, en un hospital nivel III, 2026",
           "handle": "20.500.12866/24944"
-        },
-        {
-          "title": "Comunicación terapéutica enfermera - paciente en centro quirúrgico de un hospital nacional de Lima 2026",
-          "handle": "20.500.12866/24939"
         }
       ]
     },
