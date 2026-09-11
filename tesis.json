@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T21:48:52.453Z",
+  "actualizado": "2026-09-11T23:35:13.809Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Planeamiento estratégico de la empresa de salud ocupacional Suma 2 Consultores",
+          "handle": "20.500.12866/24998"
+        },
+        {
           "title": "Plan estratégico de la Clínica San Juan de Dios de Arequipa",
           "handle": "20.500.12866/24984"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Planeamiento estratégico del establecimiento de salud privado -ACSA, Iquitos, Perú",
           "handle": "20.500.12866/24517"
-        },
-        {
-          "title": "Plan estratégico para el programa presupuestal 002: salud materno neonatal de la DIRESA JUNÍN",
-          "handle": "20.500.12866/19365"
         }
       ]
     },
