@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T16:51:00.275Z",
+  "actualizado": "2026-09-11T19:21:16.329Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Plan estratégico de la Clínica San Juan de Dios de Arequipa",
+          "handle": "20.500.12866/24984"
+        },
+        {
           "title": "Plan estratégico para el Programa de Atención Domiciliaria (PADOMI) del Seguro Social de Salud EsSalud – PADOMI",
           "handle": "20.500.12866/24716"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Plan estratégico para el programa presupuestal 002: salud materno neonatal de la DIRESA JUNÍN",
           "handle": "20.500.12866/19365"
-        },
-        {
-          "title": "Propuesta de mejora del proceso de atención de pacientes SIS en el tópico de medicina del servicio de emergencia de un hospital público año 2025",
-          "handle": "20.500.12866/18804"
         }
       ]
     },
