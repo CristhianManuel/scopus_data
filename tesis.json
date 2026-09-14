@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T10:16:18.929Z",
+  "actualizado": "2026-09-14T16:24:58.097Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Exploración morfométrica de la ecología de alimentación de Thalassocnus: Un perezoso marino que habitó el mar peruano hace 8 - 4.8 millones de años (Mioceno - Plioceno)",
+          "handle": "20.500.12866/25002"
+        },
+        {
           "title": "Evaluación de efectores de citotoxicidad (Granzima B y Perforina) en células inmunes de pacientes con tuberculosis pulmonar activa sensible a tratamiento",
           "handle": "20.500.12866/24976"
         },
@@ -278,10 +282,6 @@
         {
           "title": "“Análisis y sistematización de la producción científica y técnica sobre la Reserva Nacional Pampa Galeras Bárbara D’Achille, durante el periodo 2000–2025”",
           "handle": "20.500.12866/24827"
-        },
-        {
-          "title": "Conectando con la naturaleza: el impacto de las visitas guiadas educativas a la RNIPG- Punta San Juan en los conocimientos y percepciones de los residentes de Marcona",
-          "handle": "20.500.12866/24785"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento de prevención del cáncer de piel en estudiantes de quinto año de secundaria en la Institución Educativa \"Niño Jesús de Praga\" Callao, 2025",
+          "handle": "20.500.12866/25001"
+        },
+        {
           "title": "Efectividad de un programa educativo de enfermería en el conocimiento sobre primeros auxilios en docentes de primaria de una institución educativa, 2025",
           "handle": "20.500.12866/24978"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Efectividad de la intervención educativa sobre conocimientos en prevención del cáncer de cuello uterino en mujeres de un programa de alimentación comunitaria, Villa El Salvador, 2025",
           "handle": "20.500.12866/24965"
-        },
-        {
-          "title": "Conocimientos y prácticas sobre primeros auxilios en docentes de una institución educativa estatal de San Juan Lurigancho, 2025",
-          "handle": "20.500.12866/24940"
         }
       ]
     },
@@ -1645,6 +1645,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Cuidados de enfermería en la prevención de lesiones por presión en pacientes con ventilación mecánica invasiva del servicio de UCI – UCIN del Hospital de Essalud Ica 2026",
+          "handle": "20.500.12866/25004"
+        },
         {
           "title": "Nivel de conocimiento y autocuidado en el paciente en  hemodiálisis con hipertensión arterial en un centro  privado, Lima, 2026",
           "handle": "20.500.12866/24996"
@@ -1660,10 +1664,6 @@
         {
           "title": "Efectividad de la terapia de masaje infantil en el manejo del estrés de neonatos prematuros en una UCI neonatal, Lima – 2026",
           "handle": "20.500.12866/24964"
-        },
-        {
-          "title": "Actitud del personal de enfermería frente a la aplicación de la lista de verificación de cirugía segura en un hospital docente de Lima Norte, 2026",
-          "handle": "20.500.12866/24955"
         }
       ]
     },
