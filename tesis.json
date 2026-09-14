@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T20:23:39.396Z",
+  "actualizado": "2026-09-14T23:15:22.939Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Inteligencia artificial en la asignatura aplicaciones en Internet en estudiantes de un Instituto de Educación Superior Tecnológico Público de Huancavelica: propuesta de innovación",
+          "handle": "20.500.12866/25005"
+        },
+        {
           "title": "Revisión sistemática sobre la problemática de la producción científica en el Perú; un análisis crítico, 2013 - 2023",
           "handle": "20.500.12866/24971"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Relación entre Burnout académico y logros de aprendizaje en la Facultad de Ingeniería de Sistemas de una universidad pública de Lima, 2020",
           "handle": "20.500.12866/24884"
-        },
-        {
-          "title": "Estrategias para el aprendizaje significativo en estudiantes de Segunda Especialidad de Enfermería en el cuidado del neurodesarrollo del recién nacido",
-          "handle": "20.500.12866/24519"
         }
       ]
     },
@@ -1252,6 +1252,10 @@
       "handle": "20.500.12866/18939",
       "tesis": [
         {
+          "title": "Conocimiento de bioseguridad, actitudes y prácticas que mitigan riesgos sanitarios aplicadas por productores y diseño de una escala de riesgo en centros de producción de Tilapia (Oreochromis spp.) en la región San Martín",
+          "handle": "20.500.12866/25007"
+        },
+        {
           "title": "Revisión sistemática de Toxoplasma gondii en animales acuáticos destinados al consumo humano",
           "handle": "20.500.12866/17951"
         },
@@ -1266,10 +1270,6 @@
         {
           "title": "Perfil hematológico y condición de salud de las especies paiche (Arapaima gigas), paco (Piaractus brachypomus) y gamitana (Colossoma macropomum) cultivadas en la región Ucayali-Perú, 2023",
           "handle": "20.500.12866/15028"
-        },
-        {
-          "title": "Evaluación de la diversidad genética de Aeromonas salmonicida patógena aislada de la Sierra peruana mediante MLST",
-          "handle": "20.500.12866/15011"
         }
       ]
     },
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Adaptación cultural y validación psicométrica de la “Escala de Percepción de Racismo en Línea” en estudiantes de la Facultad de Estomatología de una universidad privada de Lima Metropolitana",
+          "handle": "20.500.12866/25008"
+        },
+        {
           "title": "Programa de fortalecimiento socioemocional basado en inteligencia emocional y habilidades sociales en estudiantes del segundo de secundaria en Lima",
           "handle": "20.500.12866/24980"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Programa de orientación y consejería dirigido a un estudiante en riesgo de deserción académica de una universidad estatal en la región San Martín",
           "handle": "20.500.12866/24956"
-        },
-        {
-          "title": "Fortalecimiento de la inteligencia emocional y comunicación asertiva en los responsables de los Comités Distritales de Seguridad Ciudadana de una provincia del departamento de Cusco",
-          "handle": "20.500.12866/24914"
         }
       ]
     },
@@ -1646,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Relación entre depresión posparto y la lactancia materna exclusiva en madres de neonatos prematuros en UCIN, Arequipa 2026",
+          "handle": "20.500.12866/25006"
+        },
+        {
           "title": "Cuidados de enfermería en la prevención de lesiones por presión en pacientes con ventilación mecánica invasiva del servicio de UCI – UCIN del Hospital de Essalud Ica 2026",
           "handle": "20.500.12866/25004"
         },
@@ -1660,10 +1664,6 @@
         {
           "title": "Valoración de la fragilidad y riesgo de caídas en adultos mayores hemodializados, Lima - 2026",
           "handle": "20.500.12866/24982"
-        },
-        {
-          "title": "Efectividad de la terapia de masaje infantil en el manejo del estrés de neonatos prematuros en una UCI neonatal, Lima – 2026",
-          "handle": "20.500.12866/24964"
         }
       ]
     },
