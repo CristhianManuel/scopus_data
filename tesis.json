@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T16:54:38.235Z",
+  "actualizado": "2026-09-15T19:57:49.825Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -894,6 +894,10 @@
       "handle": "20.500.12866/18909",
       "tesis": [
         {
+          "title": "Optimización del mapeo de superficies glaciares mediante un algoritmo de clasificación de píxeles permanentes y temporales en la subcuenca Quillcay, Ancash - Perú",
+          "handle": "20.500.12866/25018"
+        },
+        {
           "title": "Estimación de la calidad del agua superficial mediante el análisis multitemporal de la reflectancia en la Subcuenca del Río Negro",
           "handle": "20.500.12866/24627"
         },
@@ -908,10 +912,6 @@
         {
           "title": "Cambio climático y su influencia en las clasificaciones de las ecorregiones andinas: un análisis sistemático de vegetación y factores ambientales",
           "handle": "20.500.12866/18774"
-        },
-        {
-          "title": "Propuestas de tratamientos de fitoestabilización para reducir la formación de drenaje ácido de mina en el pasivo ambiental minero Mesapata, Recuay-Áncash",
-          "handle": "20.500.12866/18394"
         }
       ]
     },
