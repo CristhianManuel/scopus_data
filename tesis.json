@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T12:07:23.047Z",
+  "actualizado": "2026-09-15T16:54:38.235Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Planeamiento estratégico para un hospital del tercer nivel de atención de la región de La Libertad",
+          "handle": "20.500.12866/25012"
+        },
+        {
           "title": "Planeamiento estratégico de la empresa de salud ocupacional Suma 2 Consultores",
           "handle": "20.500.12866/24998"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Planeamiento estratégico para un Centro de Investigación Clínica (CRS)",
           "handle": "20.500.12866/24651"
-        },
-        {
-          "title": "Planeamiento estratégico del establecimiento de salud privado -ACSA, Iquitos, Perú",
-          "handle": "20.500.12866/24517"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Exposición ocupacional a factores de riesgo psicosocial",
+          "handle": "20.500.12866/25015"
+        },
+        {
           "title": "Criterios metodológicos aplicados en la gestión de riesgos disergonómicos",
           "handle": "20.500.12866/24990"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Criterios de selección para pacientes candidatas a citorreducción completa por cáncer de endometrio recurrente: una revisión exploratoria",
           "handle": "20.500.12866/24942"
-        },
-        {
-          "title": "Gobernanza, calidad y toma de decisiones en el sistema de Exámenes Médicos Ocupacionales: análisis normativo, técnico y organizacional en contextos de riesgo.",
-          "handle": "20.500.12866/24938"
         }
       ]
     },
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Revisión crítica de la literatura sobre el clima laboral y la satisfacción laboral en trabajadores de Latinoamérica",
+          "handle": "20.500.12866/25010"
+        },
+        {
           "title": "Adaptación cultural y validación psicométrica de la “Escala de Percepción de Racismo en Línea” en estudiantes de la Facultad de Estomatología de una universidad privada de Lima Metropolitana",
           "handle": "20.500.12866/25008"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Eficacia del mindfulness en la reducción de la ansiedad en niños y adolescentes: una revisión crítica internacional (2020–2025)",
           "handle": "20.500.12866/24966"
-        },
-        {
-          "title": "Programa de orientación y consejería dirigido a un estudiante en riesgo de deserción académica de una universidad estatal en la región San Martín",
-          "handle": "20.500.12866/24956"
         }
       ]
     },
@@ -1355,6 +1355,10 @@
       "clave": "psicologia-titulo-de-segunda-especialidad",
       "handle": "20.500.12866/18988",
       "tesis": [
+        {
+          "title": "Percepción de apoyo familiar de una usuaria con dependencia al alcohol del Centro de Salud Mental Comunitario San Isidro Labrador – Juliaca, 2025",
+          "handle": "20.500.12866/25014"
+        },
         {
           "title": "Estudio de caso en paciente mujer con problemas de consumo de alcohol que acude a CSMC San Alfonso de Paita 2024",
           "handle": "20.500.12866/24946"
@@ -1370,10 +1374,6 @@
         {
           "title": "Estudio de caso clínico de episodio depresivo moderado, consumo de alcohol y marihuana en una paciente de 43 años",
           "handle": "20.500.12866/18155"
-        },
-        {
-          "title": "Caso clínico: factores asociados a la adherencia al tratamiento en una gestante consumidora de benzodiacepina y alcohol que acude a emergencias de Hospital Regional Manuel Núñez Butrón de Puno",
-          "handle": "20.500.12866/17800"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención del cáncer de próstata en adultos de 45 a 65 años en un centro de salud de Lima, 2025",
+          "handle": "20.500.12866/25013"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento de prevención del cáncer de piel en estudiantes de quinto año de secundaria en la Institución Educativa \"Niño Jesús de Praga\" Callao, 2025",
           "handle": "20.500.12866/25001"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Factores socioculturales asociados al cumplimiento del esquema de vacunación en madres de niños menores de 5 años en la Microred de salud Turpo-Apurímac 2025",
           "handle": "20.500.12866/24974"
-        },
-        {
-          "title": "Efectividad de la intervención educativa sobre conocimientos en prevención del cáncer de cuello uterino en mujeres de un programa de alimentación comunitaria, Villa El Salvador, 2025",
-          "handle": "20.500.12866/24965"
         }
       ]
     },
