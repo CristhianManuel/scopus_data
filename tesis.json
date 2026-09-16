@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T14:57:36.517Z",
+  "actualizado": "2026-09-16T18:40:36.251Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Elaboración de un procedimiento y formato estandarizado para el registro observacional de bioensayos de toxicidad aguda (LC50) en peces",
+          "handle": "20.500.12866/25021"
+        },
+        {
           "title": "Exploración morfométrica de la ecología de alimentación de Thalassocnus: Un perezoso marino que habitó el mar peruano hace 8 - 4.8 millones de años (Mioceno - Plioceno)",
           "handle": "20.500.12866/25002"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Descripción de la Microbiota Intratumoral y su Asociación con la Respuesta al Tratamiento de Cáncer Colorrectal según Sexo: Un Análisis Secundario Exploratorio de Datos Metagenómicos",
           "handle": "20.500.12866/24858"
-        },
-        {
-          "title": "“Análisis y sistematización de la producción científica y técnica sobre la Reserva Nacional Pampa Galeras Bárbara D’Achille, durante el periodo 2000–2025”",
-          "handle": "20.500.12866/24827"
         }
       ]
     },
@@ -1134,6 +1134,10 @@
       "handle": "20.500.12866/18933",
       "tesis": [
         {
+          "title": "Evaluación, monitoreo y conservación de Lagothrix flavicauda en bosques montanos de Uchiza - Perú",
+          "handle": "20.500.12866/25020"
+        },
+        {
           "title": "Educación y empoderamiento local para la conservación de la pava aliblanca (Penelope albipennis) en el Refugio de Vida Silvestre Laquipampa",
           "handle": "20.500.12866/24701"
         },
@@ -1148,10 +1152,6 @@
         {
           "title": "Descripción de palatosquisis y queilosquisis en una camada de caninos de raza Bulldog Francés",
           "handle": "20.500.12866/17733"
-        },
-        {
-          "title": "Descripción de casos de afecciones toracolumbares en caninos con el empleo de ozonoterapia.",
-          "handle": "20.500.12866/16642"
         }
       ]
     },
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Apoyo social percibido y resiliencia en estudiantes becarios provenientes de provincia en una universidad privada de Lima Metropolitana",
+          "handle": "20.500.12866/25024"
+        },
+        {
           "title": "Revisión crítica de la literatura sobre el clima laboral y la satisfacción laboral en trabajadores de Latinoamérica",
           "handle": "20.500.12866/25010"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "La Terapia de Aceptación y Compromiso como intervención en la salud mental de pacientes oncológicos adultos: una revisión crítica de la literatura",
           "handle": "20.500.12866/24973"
-        },
-        {
-          "title": "Eficacia del mindfulness en la reducción de la ansiedad en niños y adolescentes: una revisión crítica internacional (2020–2025)",
-          "handle": "20.500.12866/24966"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Nivel de conocimiento sobre prevención de riesgos laborales del área de corte de fierro silicoso de la empresa Menautt Electric, Lima 2025",
+          "handle": "20.500.12866/25022"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención del cáncer de próstata en adultos de 45 a 65 años en un centro de salud de Lima, 2025",
           "handle": "20.500.12866/25013"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Nivel de conocimientos y actitudes sobre primeros auxilios en los docentes de la Institución Educativa “Las 200 Millas”, 2025",
           "handle": "20.500.12866/24975"
-        },
-        {
-          "title": "Factores socioculturales asociados al cumplimiento del esquema de vacunación en madres de niños menores de 5 años en la Microred de salud Turpo-Apurímac 2025",
-          "handle": "20.500.12866/24974"
         }
       ]
     },
