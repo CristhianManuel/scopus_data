@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T21:44:54.353Z",
+  "actualizado": "2026-09-17T02:29:24.934Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Modalidad de trabajo y el síndrome de burnout en trabajadores de una empresa de servicios privada en Lima Metropolitana",
+          "handle": "20.500.12866/25025"
+        },
+        {
           "title": "Apoyo social percibido y resiliencia en estudiantes becarios provenientes de provincia en una universidad privada de Lima Metropolitana",
           "handle": "20.500.12866/25024"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Programa de fortalecimiento socioemocional basado en inteligencia emocional y habilidades sociales en estudiantes del segundo de secundaria en Lima",
           "handle": "20.500.12866/24980"
-        },
-        {
-          "title": "La Terapia de Aceptación y Compromiso como intervención en la salud mental de pacientes oncológicos adultos: una revisión crítica de la literatura",
-          "handle": "20.500.12866/24973"
         }
       ]
     },
