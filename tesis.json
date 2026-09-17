@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T13:05:13.478Z",
+  "actualizado": "2026-09-17T17:37:53.610Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Gestión de los factores de riesgo disergonómicos en técnicos mecánicos",
+          "handle": "20.500.12866/25027"
+        },
+        {
           "title": "Exposición ocupacional a factores de riesgo psicosocial",
           "handle": "20.500.12866/25015"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Micobacterias no tuberculosas en mastitis granulomatosas: revisión de alcance",
           "handle": "20.500.12866/24948"
-        },
-        {
-          "title": "Criterios de selección para pacientes candidatas a citorreducción completa por cáncer de endometrio recurrente: una revisión exploratoria",
-          "handle": "20.500.12866/24942"
         }
       ]
     },
@@ -1746,6 +1746,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Conocimientos, actitudes y prácticas sobre caries de primera infancia en padres/cuidadores de niños de 3 a 5 años de una institución educativa inicial de Los Olivos",
+          "handle": "20.500.12866/25029"
+        },
+        {
           "title": "Explorar las experiencias, actitudes y conocimientos en estudiantes y docentes de posgrado de periodoncia e implantes en relación al cambio en la clasificación de enfermedades y condiciones periodontales y periimplantarias del 2018, en la Facultad de Estomatología de la Universidad Peruana Cayetano Heredia",
           "handle": "20.500.12866/24967"
         },
@@ -1760,10 +1764,6 @@
         {
           "title": "Validación de un instrumento para medir el conocimiento sobre atención estomatológica de pacientes con necesidades especiales en cirujanos dentistas",
           "handle": "20.500.12866/24881"
-        },
-        {
-          "title": "Relación de la prominencia de la sínfisis mandibular con la inclinación de los incisivos inferiores y el índice de Holdaway en pacientes con clase III esqueletal: estudio tomográfico",
-          "handle": "20.500.12866/24867"
         }
       ]
     },
