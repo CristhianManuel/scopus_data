@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T14:41:18.352Z",
+  "actualizado": "2026-09-18T17:55:02.364Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención de sobrepeso y obesidad infantil en madres de niños menores a 5 años en una institución educativa de la provincia del Callao, 2025",
+          "handle": "20.500.12866/25034"
+        },
+        {
           "title": "Nivel de conocimiento sobre prevención de riesgos laborales del área de corte de fierro silicoso de la empresa Menautt Electric, Lima 2025",
           "handle": "20.500.12866/25022"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Efectividad de un programa educativo de enfermería en el conocimiento sobre primeros auxilios en docentes de primaria de una institución educativa, 2025",
           "handle": "20.500.12866/24978"
-        },
-        {
-          "title": "Nivel de conocimientos y actitudes sobre primeros auxilios en los docentes de la Institución Educativa “Las 200 Millas”, 2025",
-          "handle": "20.500.12866/24975"
         }
       ]
     },
@@ -1772,6 +1772,10 @@
       "handle": "20.500.12866/18653",
       "tesis": [
         {
+          "title": "Calidad de vida en relación a la salud bucal en escolares de 11 a 12 años en un centro educativo estatal en el departamento de Huánuco 2025",
+          "handle": "20.500.12866/25035"
+        },
+        {
           "title": "Conocimientos y actitudes sobre inteligencia artificial en el diagnóstico y planificación del tratamiento de caries dental en estudiantes de Odontología: validación y aplicación de un cuestionario",
           "handle": "20.500.12866/24898"
         },
@@ -1786,10 +1790,6 @@
         {
           "title": "Impacto de la migración en calidad de vida relacionada con salud oral en adolescentes del cantón Cañar-Ecuador",
           "handle": "20.500.12866/18519"
-        },
-        {
-          "title": "Validación de un cuestionario como herramienta para medir conocimientos de bioseguridad en odontología",
-          "handle": "20.500.12866/18097"
         }
       ]
     },
