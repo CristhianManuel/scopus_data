@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T10:50:58.848Z",
+  "actualizado": "2026-09-18T14:41:18.352Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "“Evaluación del efecto del antígeno de cisticerco de Taenia solium en la polarización de la línea celular de macrófagos Raw 264.7”",
+          "handle": "20.500.12866/25033"
+        },
+        {
           "title": "Elaboración de un procedimiento y formato estandarizado para el registro observacional de bioensayos de toxicidad aguda (LC50) en peces",
           "handle": "20.500.12866/25021"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Evaluación comparativa de 4 bioestimulantes comerciales a base de extractos de algas marinas en el proceso de aclimatación ex vitro de plántulas de arándano variedad Emerald",
           "handle": "20.500.12866/24932"
-        },
-        {
-          "title": "Descripción de la Microbiota Intratumoral y su Asociación con la Respuesta al Tratamiento de Cáncer Colorrectal según Sexo: Un Análisis Secundario Exploratorio de Datos Metagenómicos",
-          "handle": "20.500.12866/24858"
         }
       ]
     },
