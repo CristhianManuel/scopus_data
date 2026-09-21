@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T19:23:59.190Z",
+  "actualizado": "2026-09-21T22:41:57.140Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Adherencia al tratamiento y factores relacionados en adultos con diabetes mellitus tipo 2 en un hospital público de Lima-2025.",
+          "handle": "20.500.12866/25040"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención de sobrepeso y obesidad infantil en madres de niños menores a 5 años en una institución educativa de la provincia del Callao, 2025",
           "handle": "20.500.12866/25034"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento de prevención del cáncer de piel en estudiantes de quinto año de secundaria en la Institución Educativa \"Niño Jesús de Praga\" Callao, 2025",
           "handle": "20.500.12866/25001"
-        },
-        {
-          "title": "Efectividad de un programa educativo de enfermería en el conocimiento sobre primeros auxilios en docentes de primaria de una institución educativa, 2025",
-          "handle": "20.500.12866/24978"
         }
       ]
     },
