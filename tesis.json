@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T14:08:23.907Z",
+  "actualizado": "2026-09-21T19:23:59.190Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Factores asociados a la sobrevida de niños diagnosticados con leucemia linfoblástica aguda en el Instituto Nacional de Salud del Niño - San Borja.",
+          "handle": "20.500.12866/25038"
+        },
+        {
           "title": "“Evaluación del efecto del antígeno de cisticerco de Taenia solium en la polarización de la línea celular de macrófagos Raw 264.7”",
           "handle": "20.500.12866/25033"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Evaluación de efectores de citotoxicidad (Granzima B y Perforina) en células inmunes de pacientes con tuberculosis pulmonar activa sensible a tratamiento",
           "handle": "20.500.12866/24976"
-        },
-        {
-          "title": "Evaluación comparativa de 4 bioestimulantes comerciales a base de extractos de algas marinas en el proceso de aclimatación ex vitro de plántulas de arándano variedad Emerald",
-          "handle": "20.500.12866/24932"
         }
       ]
     },
@@ -714,6 +714,10 @@
       "handle": "20.500.12866/18965",
       "tesis": [
         {
+          "title": "¿Se practica el diálogo de saberes en una I.E. EIB de la provincia de Cusco,región Cusco?",
+          "handle": "20.500.12866/25037"
+        },
+        {
           "title": "Tradiciones orales para fortalecer la identidad comunitaria de los estudiantes del sexto grado en una institución educativa primaria de Ayacucho",
           "handle": "20.500.12866/18471"
         },
@@ -728,10 +732,6 @@
         {
           "title": "El poder de las fábulas andinas en la enseñanza de valores en una escuela EIB en la región de Cusco",
           "handle": "20.500.12866/18413"
-        },
-        {
-          "title": "Estrategias para la comprensión lectora en castellano como segunda lengua en el quinto grado de una institución educativa EIB de Cusco",
-          "handle": "20.500.12866/18376"
         }
       ]
     },
