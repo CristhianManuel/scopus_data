@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T15:44:59.326Z",
+  "actualizado": "2026-09-22T19:16:39.276Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Impacto de los dispositivos móviles sobre los trastornos musculoesqueléticos en los usuarios",
+          "handle": "20.500.12866/25044"
+        },
+        {
           "title": "Gestión de los factores de riesgo disergonómicos en técnicos mecánicos",
           "handle": "20.500.12866/25027"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Eficacia de terapias tópicas con antimicóticos para el tratamiento del Acné Vulgaris. Una revisión sistemática",
           "handle": "20.500.12866/24963"
-        },
-        {
-          "title": "Micobacterias no tuberculosas en mastitis granulomatosas: revisión de alcance",
-          "handle": "20.500.12866/24948"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa de enfermería en el nivel de conocimiento sobre educación sexual en estudiantes de nivel secundario en una institución educativa 2025",
+          "handle": "20.500.12866/25045"
+        },
+        {
           "title": "Adherencia al tratamiento y factores relacionados en adultos con diabetes mellitus tipo 2 en un hospital público de Lima-2025.",
           "handle": "20.500.12866/25040"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención del cáncer de próstata en adultos de 45 a 65 años en un centro de salud de Lima, 2025",
           "handle": "20.500.12866/25013"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el nivel de conocimiento de prevención del cáncer de piel en estudiantes de quinto año de secundaria en la Institución Educativa \"Niño Jesús de Praga\" Callao, 2025",
-          "handle": "20.500.12866/25001"
         }
       ]
     },
