@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T19:16:39.276Z",
+  "actualizado": "2026-09-22T22:16:19.269Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -352,6 +352,10 @@
       "handle": "20.500.12866/18913",
       "tesis": [
         {
+          "title": "Metabolismo de los fructooligosacáridos en la maduración de las raíces de yacón [Smallanthus sonchifolius (Poeppig & Endlicher) H. Robinson]. Un enfoque multidisciplinario.",
+          "handle": "20.500.12866/25046"
+        },
+        {
           "title": "Micrornas circulantes en saliva y orina como potenciales biomarcadores de enfermedad mínima residual en leucemia linfoblástica aguda pediátrica",
           "handle": "20.500.12866/16688"
         },
@@ -366,10 +370,6 @@
         {
           "title": "Relaciones filogenéticas a nivel molecular de especies del género Macrobrachium y estructura poblacional de M. inca y M. gallus de los ríos del Pacífico peruano",
           "handle": "20.500.12866/8632"
-        },
-        {
-          "title": "Expresión y evaluación de las proteínas: Reticulocyte-binding Homologue-2B (RH2B), Erythrocyte Binding Antigen 175 (EBA175) y Merozoite Surface Protein 10 (MSP10) de Plasmodium falciparum como marcadores serológicos para malaria en la Región Amazónica Peruana",
-          "handle": "20.500.12866/7050"
         }
       ]
     },
