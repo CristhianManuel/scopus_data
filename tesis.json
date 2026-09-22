@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T11:43:48.371Z",
+  "actualizado": "2026-09-22T15:44:59.326Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "El laboratorio escolar como espacio para el desarrollo de experiencias de indagación científica en el Programa de la Escuela Primaria del Bachillerato Internacional en un colegio privado de Lima.",
+          "handle": "20.500.12866/25042"
+        },
+        {
           "title": "Factores asociados a la sobrevida de niños diagnosticados con leucemia linfoblástica aguda en el Instituto Nacional de Salud del Niño - San Borja.",
           "handle": "20.500.12866/25038"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Exploración morfométrica de la ecología de alimentación de Thalassocnus: Un perezoso marino que habitó el mar peruano hace 8 - 4.8 millones de años (Mioceno - Plioceno)",
           "handle": "20.500.12866/25002"
-        },
-        {
-          "title": "Evaluación de efectores de citotoxicidad (Granzima B y Perforina) en células inmunes de pacientes con tuberculosis pulmonar activa sensible a tratamiento",
-          "handle": "20.500.12866/24976"
         }
       ]
     },
@@ -1746,6 +1746,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo 2015 al 2023",
+          "handle": "20.500.12866/25041"
+        },
+        {
           "title": "Conocimientos, actitudes y prácticas sobre caries de primera infancia en padres/cuidadores de niños de 3 a 5 años de una institución educativa inicial de Los Olivos",
           "handle": "20.500.12866/25029"
         },
@@ -1760,10 +1764,6 @@
         {
           "title": "Evaluación tomográfica de las características óseas de la zona retromolar mandibular en pacientes con diferentes patrones esqueléticos sagitales",
           "handle": "20.500.12866/24897"
-        },
-        {
-          "title": "Validación de un instrumento para medir el conocimiento sobre atención estomatológica de pacientes con necesidades especiales en cirujanos dentistas",
-          "handle": "20.500.12866/24881"
         }
       ]
     },
