@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T18:42:44.916Z",
+  "actualizado": "2026-09-23T21:49:43.724Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1182,6 +1182,10 @@
       "handle": "20.500.12866/18936",
       "tesis": [
         {
+          "title": "Gestión del agua entre pobladores de la región  costa del Perú según la Encuesta Nacional de  Programas Presupuestales - ENAPRES 2023",
+          "handle": "20.500.12866/25054"
+        },
+        {
           "title": "Resistencia antimicrobiana de enterobacterales aislados de animales de producción, animales de compañía y efluentes en centros de producción a mediana y pequeña escala en la región de Lima",
           "handle": "20.500.12866/18079"
         },
@@ -1196,10 +1200,6 @@
         {
           "title": "Características epidemiológicas de pacientes con recurrencia por enfermedad hidatídica en el Hospital Nacional Dos de Mayo, 2003-2022",
           "handle": "20.500.12866/18000"
-        },
-        {
-          "title": "Comportamiento temporal-espacial de los brotes de peste porcina clásica registrados en el Perú en el periodo 2014 – 2023.",
-          "handle": "20.500.12866/17943"
         }
       ]
     },
@@ -1304,6 +1304,10 @@
       "handle": "20.500.12866/18904",
       "tesis": [
         {
+          "title": "La preparación para la lactancia materna durante el control prenatal influye en la asociación entre la duración de la lactancia y la depresión posparto, ENDES 2023",
+          "handle": "20.500.12866/25055"
+        },
+        {
           "title": "Propuesta de estandarización de la planificación nutricional basada en la composición corporal en futbolistas profesionales.",
           "handle": "20.500.12866/24913"
         },
@@ -1318,10 +1322,6 @@
         {
           "title": "Evaluación del entorno alimentario de la Universidad Peruana Cayetano Heredia",
           "handle": "20.500.12866/18542"
-        },
-        {
-          "title": "Capacidad antioxidante y peroxidación lipídica en pasta de ajonjolí “Tahini”",
-          "handle": "20.500.12866/18393"
         }
       ]
     },
