@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T14:51:10.920Z",
+  "actualizado": "2026-09-23T18:42:44.916Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -930,6 +930,10 @@
       "handle": "20.500.12866/18907",
       "tesis": [
         {
+          "title": "Evaluación de una librería de filtros digitales para el procesamiento de bioseñales en Arduino Due",
+          "handle": "20.500.12866/25050"
+        },
+        {
           "title": "Desarrollo de una aplicación web para el registro y consulta de eventos de mantenimiento de equipos médicos en la Clínica Médica Cayetano Heredia (CMCH)",
           "handle": "20.500.12866/24796"
         },
@@ -944,10 +948,6 @@
         {
           "title": "Modelo de clasificación de desnutrición aguda para niños de 6 a 59 meses a partir de variables climáticas en Perú",
           "handle": "20.500.12866/17273"
-        },
-        {
-          "title": "Desarrollo de un protocolo de pruebas (PMS) para Pulmochip: un dispositivo médico que determina el factor de protección efectivo de respiradores utilizados en la minería",
-          "handle": "20.500.12866/16549"
         }
       ]
     },
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Efectividad de Saponinas (1 - 5%) sobre el desempeño productivo y control de una coccidiosis inducida en pollos de engorde",
+          "handle": "20.500.12866/25051"
+        },
+        {
           "title": "Reporte de caso clínico de linfangiosarcoma cutáneo en felino doméstico en Lima, Perú",
           "handle": "20.500.12866/24970"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Comparación de protocolos de conservación de muestras para la obtención de ADN de Sarcocystis aucheniae: Análisis de cantidad y pureza",
           "handle": "20.500.12866/24877"
-        },
-        {
-          "title": "Prevalencia y caracterización antimicrobiana de cepas de Campylobacter jejuni y Campylobacter coli aisladas de carne de pollo comercializada en hipermercados de Lima Este",
-          "handle": "20.500.12866/24828"
         }
       ]
     },
@@ -1876,6 +1876,10 @@
       "handle": "20.500.12866/18650",
       "tesis": [
         {
+          "title": "Percepción estética de la sonrisa según región geográfica en cirujanos dentistas y población general del Perú: un análisis comparativo",
+          "handle": "20.500.12866/25053"
+        },
+        {
           "title": "Características clínicas relevantes para el diagnóstico de una desarmonía oclusal y oclusión traumática. Una revisión sistemática",
           "handle": "20.500.12866/24712"
         },
@@ -1890,10 +1894,6 @@
         {
           "title": "Incorporación de nanohidroxiapatita obtenida de la cáscara de huevo en geles de peróxido de hidrógeno para la remineralización del esmalte durante el blanqueamiento",
           "handle": "20.500.12866/17601"
-        },
-        {
-          "title": "“Evaluación de una pasta dental experimental a base de quitosano y nano hidroxiapatita para la remineralización del esmalte dental. Estudio in vitro”",
-          "handle": "20.500.12866/16830"
         }
       ]
     }
