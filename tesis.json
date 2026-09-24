@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T14:23:33.151Z",
+  "actualizado": "2026-09-24T18:31:10.891Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -868,6 +868,14 @@
       "handle": "20.500.12866/19020",
       "tesis": [
         {
+          "title": "Caracterización de los ingresos por accidente de tránsito en el hospital de emergencias “José Casimiro Ulloa” 2017 - 2024",
+          "handle": "20.500.12866/25057"
+        },
+        {
+          "title": "Asociación entre los derrames de petróleo y los trastornos de salud mental: una revisión de alcance",
+          "handle": "20.500.12866/25056"
+        },
+        {
           "title": "Razones de negativa familiar a la solicitud de la donación de órganos o tejidos: un análisis de una base de datos de la ficha de entrevista familiar",
           "handle": "20.500.12866/24969"
         },
@@ -878,14 +886,6 @@
         {
           "title": "Más allá de las cifras: trayectorias de las jóvenes universitarias en el acceso a servicios de salud mental",
           "handle": "20.500.12866/17330"
-        },
-        {
-          "title": "Experiencias en el SERUMS de los profesionales de enfermería en el departamento de Huánuco (2019-2020)",
-          "handle": "20.500.12866/17254"
-        },
-        {
-          "title": "Relación entre la percepción de haber sufrido violencia familiar y abandono del hogar en mujeres transgénero en Lima Metropolitana durante el 2020",
-          "handle": "20.500.12866/16286"
         }
       ]
     },
