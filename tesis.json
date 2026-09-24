@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T18:31:10.891Z",
+  "actualizado": "2026-09-24T21:44:45.116Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -84,6 +84,10 @@
       "handle": "20.500.12866/19009",
       "tesis": [
         {
+          "title": "Variabilidad en la práctica clínica en la atención a pacientes ambulatorios con diagnóstico de diabetes mellitus no insulinodependiente en el Hospital Cayetano Heredia en el periodo 2016-2019",
+          "handle": "20.500.12866/25060"
+        },
+        {
           "title": "Plan de negocio “Hello Old Age”",
           "handle": "20.500.12866/24729"
         },
@@ -98,10 +102,6 @@
         {
           "title": "Análisis sobre la inversión en desarrollo de competencias en la población en el caso de anemia en los años 2015-2020 en la región Ancash",
           "handle": "20.500.12866/18336"
-        },
-        {
-          "title": "Análisis de la disponibilidad de citotóxicos y medicamentos adyuvantes esenciales en el Instituto Nacional de Enfermedades Neoplásicas de Lima (2017-2024)",
-          "handle": "20.500.12866/17922"
         }
       ]
     },
@@ -548,6 +548,10 @@
       "handle": "20.500.12866/18975",
       "tesis": [
         {
+          "title": "Propuesta de innovación Plan Institucional LEO para fortalecer la competencia lectora de estudiantes del nivel primaria",
+          "handle": "20.500.12866/25063"
+        },
+        {
           "title": "Discursos en torno a la enseñanza y aprendizaje de la lectura poética en la escuela: una aproximación desde las voces de las y los estudiantes",
           "handle": "20.500.12866/24958"
         },
@@ -562,10 +566,6 @@
         {
           "title": "Propuesta de mediación lectora carmelibros para fortalecer el pensamiento crítico de estudiantes de secundaria en una institución educativa",
           "handle": "20.500.12866/18791"
-        },
-        {
-          "title": "El uso del libro álbum como recurso pedagógico y su relación con el desarrollo de la comprensión lectora en el nivel primaria en América Latina",
-          "handle": "20.500.12866/18105"
         }
       ]
     },
@@ -722,16 +722,16 @@
           "handle": "20.500.12866/18471"
         },
         {
+          "title": "Uso oral del quechua en una institución educativa primaria EIB del distrito de Sarhua - Ayacucho",
+          "handle": "20.500.12866/18450"
+        },
+        {
           "title": "Tradición oral para fortalecer la escritura creativa en lengua originaria en el sexto grado, en una I.E. de Victor Fajardo",
           "handle": "20.500.12866/18444"
         },
         {
           "title": "El conocimiento de plantas medicinales en estudiantes del tercer grado de I.E. Primaria EIB en Victor Fajardo",
           "handle": "20.500.12866/18429"
-        },
-        {
-          "title": "El poder de las fábulas andinas en la enseñanza de valores en una escuela EIB en la región de Cusco",
-          "handle": "20.500.12866/18413"
         }
       ]
     },
@@ -1004,6 +1004,10 @@
       "handle": "20.500.12866/18813",
       "tesis": [
         {
+          "title": "Aceptabilidad de la terapia directamente observada por video en personas afectadas por tuberculosis pulmonar en Lima Metropolitana",
+          "handle": "20.500.12866/25059"
+        },
+        {
           "title": "Conocimiento y percepción sobre el enfoque actual de la obesidad en estudiantes de medicina de la Universidad Peruana Cayetano Heredia en el año 2026",
           "handle": "20.500.12866/24725"
         },
@@ -1018,10 +1022,6 @@
         {
           "title": "Resultados clínicos de aumentación y reconstrucción capsular superior con bíceps braquial en rotura masiva de manguito rotador",
           "handle": "20.500.12866/24579"
-        },
-        {
-          "title": "Colonización nasofaríngea por N. meningitidis en trabajadores de salud asintomáticos de la unidad pediátrica del Hospital Cayetano Heredia",
-          "handle": "20.500.12866/19382"
         }
       ]
     },
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Reporte de una serie de casos: manejo terapéutico de pacientes caninos con infecciones dermatológicas por Staphylococcus spp. con multirresistencia y resistencia extendida antibiótica.",
+          "handle": "20.500.12866/25058"
+        },
+        {
           "title": "Efectividad de Saponinas (1 - 5%) sobre el desempeño productivo y control de una coccidiosis inducida en pollos de engorde",
           "handle": "20.500.12866/25051"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Características de las intervenciones quirúrgicas ortopédicas en animales de compañía realizadas en el Centro Veterinario Docente Cayetano durante el periodo Enero 2020 a Julio 2025",
           "handle": "20.500.12866/24878"
-        },
-        {
-          "title": "Comparación de protocolos de conservación de muestras para la obtención de ADN de Sarcocystis aucheniae: Análisis de cantidad y pureza",
-          "handle": "20.500.12866/24877"
         }
       ]
     },
@@ -1330,6 +1330,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Ansiedad y depresión en estudiantes universitarios de Latinoamérica: una revisión crítica de la literatura del 2020 al 2025",
+          "handle": "20.500.12866/25065"
+        },
+        {
           "title": "Modalidad de trabajo y el síndrome de burnout en trabajadores de una empresa de servicios privada en Lima Metropolitana",
           "handle": "20.500.12866/25025"
         },
@@ -1344,10 +1348,6 @@
         {
           "title": "Adaptación cultural y validación psicométrica de la “Escala de Percepción de Racismo en Línea” en estudiantes de la Facultad de Estomatología de una universidad privada de Lima Metropolitana",
           "handle": "20.500.12866/25008"
-        },
-        {
-          "title": "Programa de fortalecimiento socioemocional basado en inteligencia emocional y habilidades sociales en estudiantes del segundo de secundaria en Lima",
-          "handle": "20.500.12866/24980"
         }
       ]
     },
@@ -1400,6 +1400,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "La inteligencia emocional y la estrategia de afrontamiento de los estudiantes de dos institutos de educación superior de la provincia de Contumazá- Cajamarca en Post Pandemia el COVID-19.",
+          "handle": "20.500.12866/25066"
+        },
+        {
           "title": "Habilidades sociales y ansiedad estado rasgo en estudiantes de secundaria de un colegio de bachillerato internacional de la ciudad de Cusco, 2024",
           "handle": "20.500.12866/24895"
         },
@@ -1414,10 +1418,6 @@
         {
           "title": "Relación entre depresión y deterioro cognitivo en adultos mayores de Latinoamérica en los últimos diez años: una revisión crítica",
           "handle": "20.500.12866/19561"
-        },
-        {
-          "title": "El consumo de videojuegos con contenido violento y su relación con la violencia escolar en la población infanto-adolescente: una revisión de la literatura",
-          "handle": "20.500.12866/19369"
         }
       ]
     },
@@ -1646,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Relación entre las medidas de bioseguridad y la seguridad quirúrgica realizado por las enfermeras del centro quirúrgico de Cerro de Pasco, 2026",
+          "handle": "20.500.12866/25061"
+        },
+        {
           "title": "Relación entre depresión posparto y la lactancia materna exclusiva en madres de neonatos prematuros en UCIN, Arequipa 2026",
           "handle": "20.500.12866/25006"
         },
@@ -1660,10 +1664,6 @@
         {
           "title": "Factores ambientales y el nivel de estrés del neonato prematuro en la unidad de cuidados intensivos de un hospital de Huaraz, 2026",
           "handle": "20.500.12866/24993"
-        },
-        {
-          "title": "Valoración de la fragilidad y riesgo de caídas en adultos mayores hemodializados, Lima - 2026",
-          "handle": "20.500.12866/24982"
         }
       ]
     },
@@ -1772,6 +1772,10 @@
       "handle": "20.500.12866/18653",
       "tesis": [
         {
+          "title": "Experiencia del paciente y su asociación con la fidelización en un Centro Dental Docente, 2026",
+          "handle": "20.500.12866/25067"
+        },
+        {
           "title": "Calidad de vida en relación a la salud bucal en escolares de 11 a 12 años en un centro educativo estatal en el departamento de Huánuco 2025",
           "handle": "20.500.12866/25035"
         },
@@ -1786,10 +1790,6 @@
         {
           "title": "Evaluación de la microdureza superficial y color de una resina para impresión 3D de larga duración con aditivo de óxido de grafeno",
           "handle": "20.500.12866/24776"
-        },
-        {
-          "title": "Impacto de la migración en calidad de vida relacionada con salud oral en adolescentes del cantón Cañar-Ecuador",
-          "handle": "20.500.12866/18519"
         }
       ]
     },
