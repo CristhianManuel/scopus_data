@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T14:49:17.210Z",
+  "actualizado": "2026-09-25T18:58:43.491Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -714,7 +714,7 @@
       "handle": "20.500.12866/18965",
       "tesis": [
         {
-          "title": "¿Se practica el diálogo de saberes en una I.E. EIB de la provincia de Cusco,región Cusco?",
+          "title": "¿Se practica el diálogo de saberes en una I.E. EIB de la provincia de Cusco, región Cusco?",
           "handle": "20.500.12866/25037"
         },
         {
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Aplicación del enfoque Quality by Design (QbD) en la reformulación de un producto desenredante bifásico capilar para mejorar la estabilidad de las fases",
+          "handle": "20.500.12866/25071"
+        },
+        {
           "title": "Implementación de un área de almacenamiento para el cumplimiento de las Buenas Prácticas de Almacenamiento (BPA) de productos farmacéuticos y dispositivos médicos termo sensibles",
           "handle": "20.500.12866/24928"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Elaboración de un procedimiento para la validación de procesos de farmacovigilancia, en una droguería peruana",
           "handle": "20.500.12866/24909"
-        },
-        {
-          "title": "“Diseño de una metodología para la calificación del personal de acondicionado de productos farmacéuticos en concordancia con la normativa de Buenas Prácticas de Manufactura de DIGEMID”",
-          "handle": "20.500.12866/24830"
         }
       ]
     },
