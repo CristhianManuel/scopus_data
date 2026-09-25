@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T18:58:43.491Z",
+  "actualizado": "2026-09-25T22:05:45.912Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -316,6 +316,10 @@
       "handle": "20.500.12866/18924",
       "tesis": [
         {
+          "title": "Análisis transcriptómico en el modelo murino de neurocisticercosis con tratamiento antihelmíntico para la búsqueda de genes implicados en la neuroinflamación",
+          "handle": "20.500.12866/25072"
+        },
+        {
           "title": "Muerte celular por piroptosis en tejido de cerebro de rata con neurocisticercosis",
           "handle": "20.500.12866/24952"
         },
@@ -330,10 +334,6 @@
         {
           "title": "Evaluación de daño en el transporte axonal en un modelo animal de neurocisticercosis",
           "handle": "20.500.12866/17923"
-        },
-        {
-          "title": "Detección de frecuencia de mutaciones en los genes 23S ARNr y penA que confieren resistencia a azitromicina y cefixime en Neisseria gonorrhoeae en muestras rectales de hombres que tienen sexo con hombres",
-          "handle": "20.500.12866/17495"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Características clínico cito-histopatológicas de nódulos tiroideos biopsiados bajo guía ecográfica en Lima-Perú",
+          "handle": "20.500.12866/25075"
+        },
+        {
           "title": "Estrés postraumático en personal de atención prehospitalaria",
           "handle": "20.500.12866/25047"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Exposición ocupacional a factores de riesgo psicosocial",
           "handle": "20.500.12866/25015"
-        },
-        {
-          "title": "Criterios metodológicos aplicados en la gestión de riesgos disergonómicos",
-          "handle": "20.500.12866/24990"
         }
       ]
     },
@@ -1620,6 +1620,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Factores relacionados con la adherencia a la suplementación de micronutrientes en cuidadores primarios de niños de 6 a 35 meses en un centro de salud de Lima, 2025",
+          "handle": "20.500.12866/25074"
+        },
+        {
           "title": "Efectividad de una intervención educativa de enfermería en el nivel de conocimiento sobre educación sexual en estudiantes de nivel secundario en una institución educativa 2025",
           "handle": "20.500.12866/25045"
         },
@@ -1634,10 +1638,6 @@
         {
           "title": "Nivel de conocimiento sobre prevención de riesgos laborales del área de corte de fierro silicoso de la empresa Menautt Electric, Lima 2025",
           "handle": "20.500.12866/25022"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención del cáncer de próstata en adultos de 45 a 65 años en un centro de salud de Lima, 2025",
-          "handle": "20.500.12866/25013"
         }
       ]
     },
