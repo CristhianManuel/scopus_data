@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T09:51:36.608Z",
+  "actualizado": "2026-09-25T14:49:17.210Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1720,6 +1720,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Asociación entre la práctica de videojuegos y la destreza manual de estudiantes de odontología empleando simulación de realidad virtual háptica",
+          "handle": "20.500.12866/25069"
+        },
+        {
           "title": "Asociación entre la concentración de flúor en la pasta dental utilizada por niños peruanos y el nivel educativo del jefe del hogar, 2024",
           "handle": "20.500.12866/24947"
         },
@@ -1734,10 +1738,6 @@
         {
           "title": "Prevalencia de compuestos volátiles sulfurados de la halitosis en pacientes edéntulos totales de la Clínica Dental Docente Cayetano Heredia durante el 2025",
           "handle": "20.500.12866/24777"
-        },
-        {
-          "title": "Caries dental, enfermedad periodontal y conductas de riesgo en adolescentes de una comunidad rural de Cajatambo, año 2025",
-          "handle": "20.500.12866/24724"
         }
       ]
     },
