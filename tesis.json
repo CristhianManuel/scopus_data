@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T21:44:45.116Z",
+  "actualizado": "2026-09-25T00:03:44.819Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1400,6 +1400,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "Bilingüismo como factor protector de las funciones ejecutivas en niños con trastorno del espectro autista: una revisión crítica",
+          "handle": "20.500.12866/25068"
+        },
+        {
           "title": "La inteligencia emocional y la estrategia de afrontamiento de los estudiantes de dos institutos de educación superior de la provincia de Contumazá- Cajamarca en Post Pandemia el COVID-19.",
           "handle": "20.500.12866/25066"
         },
@@ -1414,10 +1418,6 @@
         {
           "title": "Inteligencia emocional, un factor relacionado con los trastornos de ansiedad en estudiantes universitarios: revisión de literatura",
           "handle": "20.500.12866/24595"
-        },
-        {
-          "title": "Relación entre depresión y deterioro cognitivo en adultos mayores de Latinoamérica en los últimos diez años: una revisión crítica",
-          "handle": "20.500.12866/19561"
         }
       ]
     },
