@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T07:33:24.775Z",
+  "actualizado": "2026-09-28T15:53:20.728Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1746,6 +1746,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Estabilidad de color de resinas universales expuestas a bebidas funcionales",
+          "handle": "20.500.12866/25078"
+        },
+        {
           "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo 2015 al 2023",
           "handle": "20.500.12866/25041"
         },
@@ -1760,10 +1764,6 @@
         {
           "title": "Características sociodemográficas e índice de higiene oral en niños con fisura labio-alveolo-palatina del programa Creciendo entre los años 2015 al 2023",
           "handle": "20.500.12866/24962"
-        },
-        {
-          "title": "Evaluación tomográfica de las características óseas de la zona retromolar mandibular en pacientes con diferentes patrones esqueléticos sagitales",
-          "handle": "20.500.12866/24897"
         }
       ]
     },
