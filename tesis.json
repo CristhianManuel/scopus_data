@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T15:53:20.728Z",
+  "actualizado": "2026-09-28T21:28:07.406Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Formulación del Plan Estratégico de la Unidad de Servicios CicloMin-S&C: Aprendizajes Profesionales en Gestión Estratégica de Servicios Universitarios para la Rehabilitación Ambiental y Minería Responsable",
+          "handle": "20.500.12866/25080"
+        },
+        {
           "title": "El laboratorio escolar como espacio para el desarrollo de experiencias de indagación científica en el Programa de la Escuela Primaria del Bachillerato Internacional en un colegio privado de Lima.",
           "handle": "20.500.12866/25042"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Elaboración de un procedimiento y formato estandarizado para el registro observacional de bioensayos de toxicidad aguda (LC50) en peces",
           "handle": "20.500.12866/25021"
-        },
-        {
-          "title": "Exploración morfométrica de la ecología de alimentación de Thalassocnus: Un perezoso marino que habitó el mar peruano hace 8 - 4.8 millones de años (Mioceno - Plioceno)",
-          "handle": "20.500.12866/25002"
         }
       ]
     },
