@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T13:38:37.071Z",
+  "actualizado": "2026-09-29T18:52:39.240Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
+          "handle": "20.500.12866/25081"
+        },
+        {
           "title": "Formulación del Plan Estratégico de la Unidad de Servicios CicloMin-S&C: Aprendizajes Profesionales en Gestión Estratégica de Servicios Universitarios para la Rehabilitación Ambiental y Minería Responsable",
           "handle": "20.500.12866/25080"
         },
@@ -278,10 +282,6 @@
         {
           "title": "“Evaluación del efecto del antígeno de cisticerco de Taenia solium en la polarización de la línea celular de macrófagos Raw 264.7”",
           "handle": "20.500.12866/25033"
-        },
-        {
-          "title": "Elaboración de un procedimiento y formato estandarizado para el registro observacional de bioensayos de toxicidad aguda (LC50) en peces",
-          "handle": "20.500.12866/25021"
         }
       ]
     },
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
+          "handle": "20.500.12866/25081"
+        },
+        {
           "title": "Aplicación del enfoque Quality by Design (QbD) en la reformulación de un producto desenredante bifásico capilar para mejorar la estabilidad de las fases",
           "handle": "20.500.12866/25071"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Propuesta de Guía de Validación y Recopilación de Información para la notificación de sospechas de reacciones adversas a medicamentos u otros productos farmacéuticos por los TRS y/o TCRS",
           "handle": "20.500.12866/24920"
-        },
-        {
-          "title": "Elaboración de un procedimiento para la validación de procesos de farmacovigilancia, en una droguería peruana",
-          "handle": "20.500.12866/24909"
         }
       ]
     },
