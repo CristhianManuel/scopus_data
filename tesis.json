@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T14:06:09.716Z",
+  "actualizado": "2026-09-30T19:13:11.392Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -828,6 +828,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Desarrollo de una herramienta orientada a optimizar la atención farmacéutica en pacientes ambulatorios de una farmacia magistral con preparados a base de cannabidiol (CBD) y tetrahidrocannabinol (THC)",
+          "handle": "20.500.12866/25085"
+        },
+        {
           "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
           "handle": "20.500.12866/25081"
         },
@@ -842,10 +846,6 @@
         {
           "title": "Evaluación y mejora del Procedimiento Operativo Estándar (POE) del reporte de precios frente a la no conformidad detectada por la Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) en una droguería de Lima",
           "handle": "20.500.12866/24921"
-        },
-        {
-          "title": "Propuesta de Guía de Validación y Recopilación de Información para la notificación de sospechas de reacciones adversas a medicamentos u otros productos farmacéuticos por los TRS y/o TCRS",
-          "handle": "20.500.12866/24920"
         }
       ]
     },
