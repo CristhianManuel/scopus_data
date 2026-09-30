@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T19:13:11.392Z",
+  "actualizado": "2026-09-30T23:01:38.170Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1134,6 +1134,10 @@
       "handle": "20.500.12866/18933",
       "tesis": [
         {
+          "title": "Elaboración y socialización para la implementación a nivel nacional de un protocolo estandarizado para el manejo en cautividad del cóndor andino (Vultur gryphus) en centros de cría del Perú.",
+          "handle": "20.500.12866/25088"
+        },
+        {
           "title": "Evaluación, monitoreo y conservación de Lagothrix flavicauda en bosques montanos de Uchiza - Perú",
           "handle": "20.500.12866/25020"
         },
@@ -1148,10 +1152,6 @@
         {
           "title": "Miocardiopatía dilatada crónica en un mono araña (Ateles chamek) en cautiverio: reporte de caso clínico con hallazgos clínico-patológicos",
           "handle": "20.500.12866/18083"
-        },
-        {
-          "title": "Descripción de palatosquisis y queilosquisis en una camada de caninos de raza Bulldog Francés",
-          "handle": "20.500.12866/17733"
         }
       ]
     },
@@ -1646,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Comunicación efectiva y satisfacción del paciente en el servicio de emergencia de un hospital público de nivel II Ayacucho, 2026",
+          "handle": "20.500.12866/25087"
+        },
+        {
           "title": "Relación entre las medidas de bioseguridad y la seguridad quirúrgica realizado por las enfermeras del centro quirúrgico de Cerro de Pasco, 2026",
           "handle": "20.500.12866/25061"
         },
@@ -1660,10 +1664,6 @@
         {
           "title": "Nivel de conocimiento y autocuidado en el paciente en  hemodiálisis con hipertensión arterial en un centro  privado, Lima, 2026",
           "handle": "20.500.12866/24996"
-        },
-        {
-          "title": "Factores ambientales y el nivel de estrés del neonato prematuro en la unidad de cuidados intensivos de un hospital de Huaraz, 2026",
-          "handle": "20.500.12866/24993"
         }
       ]
     },
