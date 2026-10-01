@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T08:45:58.798Z",
+  "actualizado": "2026-10-01T15:43:46.193Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1108,6 +1108,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Caracterización del genoma completo de aislados de Campylobacter spp. obtenidos de aves de postura y carne en Lima, Perú",
+          "handle": "20.500.12866/25089"
+        },
+        {
           "title": "Reporte de una serie de casos: manejo terapéutico de pacientes caninos con infecciones dermatológicas por Staphylococcus spp. con multirresistencia y resistencia extendida antibiótica.",
           "handle": "20.500.12866/25058"
         },
@@ -1122,10 +1126,6 @@
         {
           "title": "Prevalencia de Campylobacter spp. en perros con dueño que asisten a una clínica veterinaria en Miraflores (Lima, Perú)",
           "handle": "20.500.12866/24882"
-        },
-        {
-          "title": "Características de las intervenciones quirúrgicas ortopédicas en animales de compañía realizadas en el Centro Veterinario Docente Cayetano durante el periodo Enero 2020 a Julio 2025",
-          "handle": "20.500.12866/24878"
         }
       ]
     },
@@ -1646,24 +1646,24 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Nivel de exposición a agentes químicos del personal quirúrgico que labora en un Hospital de Ayacucho, 2026",
+          "handle": "20.500.12866/25092"
+        },
+        {
+          "title": "Validación de una guía de cuidados de enfermería para la prevención de extubación no programada en pacientes en ventilación mecánica en la Unidad de Cuidados Intensivos de un Hospital de Huancavelica, 2026",
+          "handle": "20.500.12866/25091"
+        },
+        {
+          "title": "Tiempo de espera preoperatorio y estado de ánimo del paciente ambulatorio atendido en el Centro Quirúrgico de Oftalmología de un hospital nacional, 2026",
+          "handle": "20.500.12866/25090"
+        },
+        {
           "title": "Comunicación efectiva y satisfacción del paciente en el servicio de emergencia de un hospital público de nivel II Ayacucho, 2026",
           "handle": "20.500.12866/25087"
         },
         {
           "title": "Relación entre las medidas de bioseguridad y la seguridad quirúrgica realizado por las enfermeras del centro quirúrgico de Cerro de Pasco, 2026",
           "handle": "20.500.12866/25061"
-        },
-        {
-          "title": "Relación entre depresión posparto y la lactancia materna exclusiva en madres de neonatos prematuros en UCIN, Arequipa 2026",
-          "handle": "20.500.12866/25006"
-        },
-        {
-          "title": "Cuidados de enfermería en la prevención de lesiones por presión en pacientes con ventilación mecánica invasiva del servicio de UCI – UCIN del Hospital de Essalud Ica 2026",
-          "handle": "20.500.12866/25004"
-        },
-        {
-          "title": "Nivel de conocimiento y autocuidado en el paciente en  hemodiálisis con hipertensión arterial en un centro  privado, Lima, 2026",
-          "handle": "20.500.12866/24996"
         }
       ]
     },
