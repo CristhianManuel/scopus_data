@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T16:43:36.706Z",
+  "actualizado": "2026-10-02T21:01:21.401Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -290,6 +290,10 @@
       "handle": "20.500.12866/18917",
       "tesis": [
         {
+          "title": "Proteínas del estadío larval de Taenia solium inducen daño neuronal y activan la vía MAPK",
+          "handle": "20.500.12866/25095"
+        },
+        {
           "title": "Conectividad de poblaciones de Plasmodium vivax en las regiones de Amazonas y Loreto",
           "handle": "20.500.12866/24989"
         },
@@ -304,10 +308,6 @@
         {
           "title": "Caracterización genética de Plasmodium falciparum en 9 distritos de la región de Loreto, Perú (2009-2020)",
           "handle": "20.500.12866/18477"
-        },
-        {
-          "title": "Identificación del perfil metabolómico de la dieta de mosquitos vectores Anopheles por la técnica HPLC-MS (cromatografía líquida de alta eficiencia acoplado a espectrometría de masas) en el departamento de Lima",
-          "handle": "20.500.12866/18020"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Mesotelioma ocupacional: agentes y factores de riesgo, diagnóstico, pronóstico y medidas de prevención",
+          "handle": "20.500.12866/25099"
+        },
+        {
           "title": "Características clínico cito-histopatológicas de nódulos tiroideos biopsiados bajo guía ecográfica en Lima-Perú",
           "handle": "20.500.12866/25075"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Gestión de los factores de riesgo disergonómicos en técnicos mecánicos",
           "handle": "20.500.12866/25027"
-        },
-        {
-          "title": "Exposición ocupacional a factores de riesgo psicosocial",
-          "handle": "20.500.12866/25015"
         }
       ]
     },
@@ -1646,6 +1646,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Cumplimiento del checklist durante el transporte intrahospitalario por el profesional de enfermería en pacientes con ventilación mecánica de la UCI, Lima 2026",
+          "handle": "20.500.12866/25098"
+        },
+        {
+          "title": "Conocimiento y aplicación de las medidas de bioseguridad por parte del profesional de enfermería en el servicio del centro quirúrgico de un hospital nacional 2026",
+          "handle": "20.500.12866/25096"
+        },
+        {
           "title": "Nivel de exposición a agentes químicos del personal quirúrgico que labora en un Hospital de Ayacucho, 2026",
           "handle": "20.500.12866/25092"
         },
@@ -1656,14 +1664,6 @@
         {
           "title": "Tiempo de espera preoperatorio y estado de ánimo del paciente ambulatorio atendido en el Centro Quirúrgico de Oftalmología de un hospital nacional, 2026",
           "handle": "20.500.12866/25090"
-        },
-        {
-          "title": "Comunicación efectiva y satisfacción del paciente en el servicio de emergencia de un hospital público de nivel II Ayacucho, 2026",
-          "handle": "20.500.12866/25087"
-        },
-        {
-          "title": "Relación entre las medidas de bioseguridad y la seguridad quirúrgica realizado por las enfermeras del centro quirúrgico de Cerro de Pasco, 2026",
-          "handle": "20.500.12866/25061"
         }
       ]
     },
