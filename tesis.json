@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T21:01:21.401Z",
+  "actualizado": "2026-10-03T00:24:20.909Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -930,6 +930,10 @@
       "handle": "20.500.12866/18907",
       "tesis": [
         {
+          "title": "Desarrollo de una API para la interoperabilidad de prototipos de dispositivos médicos estudiantiles con una historia clínica electrónica libre",
+          "handle": "20.500.12866/25101"
+        },
+        {
           "title": "Evaluación de una librería de filtros digitales para el procesamiento de bioseñales en Arduino Due",
           "handle": "20.500.12866/25050"
         },
@@ -944,10 +948,6 @@
         {
           "title": "Diseño de un estimulador acústico de rango audible para la evaluación de su efecto en la formación de biofilms en cultivos de Pseudomonas aeruginosa",
           "handle": "20.500.12866/17371"
-        },
-        {
-          "title": "Modelo de clasificación de desnutrición aguda para niños de 6 a 59 meses a partir de variables climáticas en Perú",
-          "handle": "20.500.12866/17273"
         }
       ]
     },
