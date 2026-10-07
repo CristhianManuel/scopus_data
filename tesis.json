@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T12:05:06.684Z",
+  "actualizado": "2026-10-07T18:53:48.306Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -290,6 +290,10 @@
       "handle": "20.500.12866/18917",
       "tesis": [
         {
+          "title": "Amplificaciones seriadas a través de reacciones isotérmicas con Recombinasa Polimerasa y evaluación de la hipótesis de la presión mutacional termodinámica en condiciones mesófilas sin presión de selección",
+          "handle": "20.500.12866/25110"
+        },
+        {
           "title": "Proteínas del estadío larval de Taenia solium inducen daño neuronal y activan la vía MAPK",
           "handle": "20.500.12866/25095"
         },
@@ -304,10 +308,6 @@
         {
           "title": "Citoadherencia en eritrocitos infectados con cepas de Plasmodium falciparum nativas de la Amazonía peruana portadoras de diversos genotipos hrp2/hrp3",
           "handle": "20.500.12866/18521"
-        },
-        {
-          "title": "Caracterización genética de Plasmodium falciparum en 9 distritos de la región de Loreto, Perú (2009-2020)",
-          "handle": "20.500.12866/18477"
         }
       ]
     },
@@ -1440,6 +1440,10 @@
       "handle": "20.500.12866/18906",
       "tesis": [
         {
+          "title": "Remoción del colorante azoico tartrazina (E-102) mediante el uso de Fe3O4@NH2-MIL-101(Fe) en muestras acuosas",
+          "handle": "20.500.12866/25108"
+        },
+        {
           "title": "Síntesis y sinterización de nanopartículas de hidroxiapatita obtenidas a partir de residuos de argopecten purpuratus aplicadas al proceso de adsorción de arsénico en la remediación ambiental",
           "handle": "20.500.12866/24800"
         },
@@ -1454,10 +1458,6 @@
         {
           "title": "Influencia de las fragancias en los parámetros viscosidad y pH en la estabilidad de jabones líquidos producidos en un laboratorio cosmético-farmacéutico",
           "handle": "20.500.12866/17785"
-        },
-        {
-          "title": "Implementación de mejoras para obtener la certificación de Buenas Prácticas de Manufactura en la fabricación de desinfectantes en una empresa pecuaria en Lima",
-          "handle": "20.500.12866/17760"
         }
       ]
     },
@@ -1646,6 +1646,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Cuidado enfermero en la prevención de neumonía asociadas a ventilación mecánica en pacientes pediátricos en una Unidad Intensiva de EsSalud. Lima - 2026",
+          "handle": "20.500.12866/25106"
+        },
+        {
           "title": "Cumplimiento del checklist durante el transporte intrahospitalario por el profesional de enfermería en pacientes con ventilación mecánica de la UCI, Lima 2026",
           "handle": "20.500.12866/25098"
         },
@@ -1660,10 +1664,6 @@
         {
           "title": "Validación de una guía de cuidados de enfermería para la prevención de extubación no programada en pacientes en ventilación mecánica en la Unidad de Cuidados Intensivos de un Hospital de Huancavelica, 2026",
           "handle": "20.500.12866/25091"
-        },
-        {
-          "title": "Tiempo de espera preoperatorio y estado de ánimo del paciente ambulatorio atendido en el Centro Quirúrgico de Oftalmología de un hospital nacional, 2026",
-          "handle": "20.500.12866/25090"
         }
       ]
     },
