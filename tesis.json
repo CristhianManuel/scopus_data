@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T20:33:01.168Z",
+  "actualizado": "2026-10-07T00:03:36.227Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1056,6 +1056,14 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Mortalidad y severidad comparativa de los pacientes con hemorragia digestiva alta en la etapa pre pandémica versus la etapa pandémica por SARS-CoV-2 en un hospital nivel III-2 en Lima Perú: cohorte retrospectiva",
+          "handle": "20.500.12866/25105"
+        },
+        {
+          "title": "Morbilidad por enfermedad respiratoria y calidad de aire ambiental en Lima Metropolitana.",
+          "handle": "20.500.12866/25103"
+        },
+        {
           "title": "Mesotelioma ocupacional: agentes y factores de riesgo, diagnóstico, pronóstico y medidas de prevención",
           "handle": "20.500.12866/25099"
         },
@@ -1066,14 +1074,6 @@
         {
           "title": "Estrés postraumático en personal de atención prehospitalaria",
           "handle": "20.500.12866/25047"
-        },
-        {
-          "title": "Impacto de los dispositivos móviles sobre los trastornos musculoesqueléticos en los usuarios",
-          "handle": "20.500.12866/25044"
-        },
-        {
-          "title": "Gestión de los factores de riesgo disergonómicos en técnicos mecánicos",
-          "handle": "20.500.12866/25027"
         }
       ]
     },
@@ -1304,6 +1304,10 @@
       "handle": "20.500.12866/18904",
       "tesis": [
         {
+          "title": "Suplementación con el extracto hidroalcohólico de maca negra (Lepidium meyenii) y evaluación de los cambios en marcadores bioquímicos metabólicos asociados al desarrollo de Diabetes mellitus tipo 2 (DM2) en un modelo de ratas machos Rattus norvegicus inducidos a sobrecarga de hierro",
+          "handle": "20.500.12866/25104"
+        },
+        {
           "title": "La preparación para la lactancia materna durante el control prenatal influye en la asociación entre la duración de la lactancia y la depresión posparto, ENDES 2023",
           "handle": "20.500.12866/25055"
         },
@@ -1318,10 +1322,6 @@
         {
           "title": "The seasonality of nutrition status in Shawi Indigenous children in the Peruvian Amazon",
           "handle": "20.500.12866/24668"
-        },
-        {
-          "title": "Evaluación del entorno alimentario de la Universidad Peruana Cayetano Heredia",
-          "handle": "20.500.12866/18542"
         }
       ]
     },
