@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T19:50:19.765Z",
+  "actualizado": "2026-10-09T23:38:11.876Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Plan estratégico de la empresa Sueño Salud",
+          "handle": "20.500.12866/25121"
+        },
+        {
           "title": "Planeamiento estratégico para un hospital del tercer nivel de atención de la región de La Libertad",
           "handle": "20.500.12866/25012"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Plan estratégico para el Programa de Atención Domiciliaria (PADOMI) del Seguro Social de Salud EsSalud – PADOMI",
           "handle": "20.500.12866/24716"
-        },
-        {
-          "title": "Planeamiento estratégico para un Centro de Investigación Clínica (CRS)",
-          "handle": "20.500.12866/24651"
         }
       ]
     },
@@ -1056,6 +1056,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Gestión ocupacional y rehabilitación de los trastornos musculoesqueléticos laborales",
+          "handle": "20.500.12866/25120"
+        },
+        {
           "title": "Mortalidad y severidad comparativa de los pacientes con hemorragia digestiva alta en la etapa pre pandémica versus la etapa pandémica por SARS-CoV-2 en un hospital nivel III-2 en Lima Perú: cohorte retrospectiva",
           "handle": "20.500.12866/25105"
         },
@@ -1070,10 +1074,6 @@
         {
           "title": "Características clínico cito-histopatológicas de nódulos tiroideos biopsiados bajo guía ecográfica en Lima-Perú",
           "handle": "20.500.12866/25075"
-        },
-        {
-          "title": "Estrés postraumático en personal de atención prehospitalaria",
-          "handle": "20.500.12866/25047"
         }
       ]
     },
@@ -1304,6 +1304,10 @@
       "handle": "20.500.12866/18904",
       "tesis": [
         {
+          "title": "Programa formativo para la prevención de la anemia infantil en comunidades rurales de los andes peruanos: experiencia profesional como nutricionista en un proyecto de salud.",
+          "handle": "20.500.12866/25122"
+        },
+        {
           "title": "Suplementación con el extracto hidroalcohólico de maca negra (Lepidium meyenii) y evaluación de los cambios en marcadores bioquímicos metabólicos asociados al desarrollo de Diabetes mellitus tipo 2 (DM2) en un modelo de ratas machos Rattus norvegicus inducidos a sobrecarga de hierro",
           "handle": "20.500.12866/25104"
         },
@@ -1318,10 +1322,6 @@
         {
           "title": "Interpretación médico nutricional como herramienta para clarificar mensajes nutricionales en población migrante en Estados Unidos",
           "handle": "20.500.12866/24894"
-        },
-        {
-          "title": "The seasonality of nutrition status in Shawi Indigenous children in the Peruvian Amazon",
-          "handle": "20.500.12866/24668"
         }
       ]
     },
@@ -1356,6 +1356,10 @@
       "handle": "20.500.12866/18988",
       "tesis": [
         {
+          "title": "Violencia intrafamiliar y bienestar psicológico en mujeres en situación de riesgo de consumo de alcohol del Programa Juntos, Lampa-2024",
+          "handle": "20.500.12866/25118"
+        },
+        {
           "title": "Percepción de apoyo familiar de una usuaria con dependencia al alcohol del Centro de Salud Mental Comunitario San Isidro Labrador – Juliaca, 2025",
           "handle": "20.500.12866/25014"
         },
@@ -1370,10 +1374,6 @@
         {
           "title": "Estudio de caso: abuso y dependencia de benzodiazepinas en una mujer con adicción del centro de salud mental comunitario Sechura Piura",
           "handle": "20.500.12866/18163"
-        },
-        {
-          "title": "Estudio de caso clínico de episodio depresivo moderado, consumo de alcohol y marihuana en una paciente de 43 años",
-          "handle": "20.500.12866/18155"
         }
       ]
     },
@@ -1646,6 +1646,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Aplicación de la lista de verificación quirúrgica y su relación con la seguridad del paciente en sala de operaciones de un hospital de Ayacucho, 2026.",
+          "handle": "20.500.12866/25123"
+        },
+        {
+          "title": "Relación entre la contención mecánica y el retiro no planificado de dispositivos invasivos en pacientes pediátricos en una unidad intensiva de un hospital nacional - Lima 2026",
+          "handle": "20.500.12866/25119"
+        },
+        {
           "title": "Cuidado enfermero en la prevención de neumonía asociadas a ventilación mecánica en pacientes pediátricos en una Unidad Intensiva de EsSalud. Lima - 2026",
           "handle": "20.500.12866/25106"
         },
@@ -1656,14 +1664,6 @@
         {
           "title": "Conocimiento y aplicación de las medidas de bioseguridad por parte del profesional de enfermería en el servicio del centro quirúrgico de un hospital nacional 2026",
           "handle": "20.500.12866/25096"
-        },
-        {
-          "title": "Nivel de exposición a agentes químicos del personal quirúrgico que labora en un Hospital de Ayacucho, 2026",
-          "handle": "20.500.12866/25092"
-        },
-        {
-          "title": "Validación de una guía de cuidados de enfermería para la prevención de extubación no programada en pacientes en ventilación mecánica en la Unidad de Cuidados Intensivos de un Hospital de Huancavelica, 2026",
-          "handle": "20.500.12866/25091"
         }
       ]
     },
@@ -1746,6 +1746,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Relación entre la inclinación del incisivo inferior y las características morfológicas de la sínfisis mandibular en tomografías de pacientes con relación esquelética clase I y diferentes patrones faciales verticales",
+          "handle": "20.500.12866/25116"
+        },
+        {
           "title": "Estabilidad de color de resinas universales expuestas a bebidas funcionales",
           "handle": "20.500.12866/25078"
         },
@@ -1760,10 +1764,6 @@
         {
           "title": "Explorar las experiencias, actitudes y conocimientos en estudiantes y docentes de posgrado de periodoncia e implantes en relación al cambio en la clasificación de enfermedades y condiciones periodontales y periimplantarias del 2018, en la Facultad de Estomatología de la Universidad Peruana Cayetano Heredia",
           "handle": "20.500.12866/24967"
-        },
-        {
-          "title": "Características sociodemográficas e índice de higiene oral en niños con fisura labio-alveolo-palatina del programa Creciendo entre los años 2015 al 2023",
-          "handle": "20.500.12866/24962"
         }
       ]
     },
