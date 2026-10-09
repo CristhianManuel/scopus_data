@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T14:44:06.381Z",
+  "actualizado": "2026-10-09T19:50:19.765Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -522,6 +522,10 @@
       "handle": "20.500.12866/18974",
       "tesis": [
         {
+          "title": "Propuesta de programa para el desarrollo de emprendimientos de los estudiantes de SENATI La Libertad",
+          "handle": "20.500.12866/25113"
+        },
+        {
           "title": "Situación de la producción académica de la relación entre los estilos de aprendizaje y rendimiento académico de los estudiantes de las universidades púbicas y privadas en el Perú, período 2015-2022",
           "handle": "20.500.12866/24903"
         },
@@ -536,10 +540,6 @@
         {
           "title": "Fabricación y elaboración de guía de uso didáctico de un probador de culata de motor de combustión interna en el módulo reparación de motores en Senati Independencia, 2025",
           "handle": "20.500.12866/24677"
-        },
-        {
-          "title": "Propuesta de una estrategia didáctica basada en el uso de podcasts para fortalecer el aprendizaje en el curso teórico de Ingeniería de Software y Metodologías Ágiles en SENATI Trujillo 2025",
-          "handle": "20.500.12866/24669"
         }
       ]
     },
@@ -600,6 +600,10 @@
       "handle": "20.500.12866/18977",
       "tesis": [
         {
+          "title": "Propuesta de gestión escolar para fortalecer la práctica docente en atención a la diversidad e inclusión en una institución educativa inicial del distrito de Magdalena",
+          "handle": "20.500.12866/25112"
+        },
+        {
           "title": "Propuesta de gestión directiva para fortalecer el trabajo colaborativo a través de pasantías docentes en una institución educativa de Breña",
           "handle": "20.500.12866/25048"
         },
@@ -614,10 +618,6 @@
         {
           "title": "Propuesta de gestión basada en Comunidades de Aprendizaje Profesional orientada al desempeño docente de un Centro de Educación Básica Alternativa",
           "handle": "20.500.12866/24625"
-        },
-        {
-          "title": "Propuesta de gestión de Grupos de Interaprendizaje en evaluación formativa con enfoque reflexivo docente en una escuela primaria de Lima",
-          "handle": "20.500.12866/19773"
         }
       ]
     },
