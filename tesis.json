@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-13T11:36:56.737Z",
+  "actualizado": "2026-10-13T18:31:02.147Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Sistematización de la implementación de estrategias didácticas orientadas a promover la participación y la percepción positiva del aprendizaje científico en estudiantes de educación secundaria de una institución educativa privada de Lima",
+          "handle": "20.500.12866/25133"
+        },
+        {
           "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
           "handle": "20.500.12866/25081"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Factores asociados a la sobrevida de niños diagnosticados con leucemia linfoblástica aguda en el Instituto Nacional de Salud del Niño - San Borja.",
           "handle": "20.500.12866/25038"
-        },
-        {
-          "title": "“Evaluación del efecto del antígeno de cisticerco de Taenia solium en la polarización de la línea celular de macrófagos Raw 264.7”",
-          "handle": "20.500.12866/25033"
         }
       ]
     },
@@ -739,6 +739,10 @@
       "clave": "educacion-intercultural-bilingue-maestria-en-educacion-intercultural-bilingue-con-mencion-en-gestion-e-innovacion",
       "handle": "20.500.12866/18978",
       "tesis": [
+        {
+          "title": "Estudio de caso sobre la inserción laboral de los becarios graduados en 2018 - 2019 de la carrera de EIB de dos universidades privadas de Lima",
+          "handle": "20.500.12866/25135"
+        },
         {
           "title": "Programa de fortalecimiento en evaluación y retroalimentación para docentes de universidades de arte y folklore de Lima",
           "handle": "20.500.12866/19565"
@@ -1330,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "La asociación de la tenencia de mascotas y distintos indicadores de salud mental en adultos: una revisión crítica de literatura",
+          "handle": "20.500.12866/25137"
+        },
+        {
           "title": "Ansiedad y depresión en estudiantes universitarios de Latinoamérica: una revisión crítica de la literatura del 2020 al 2025",
           "handle": "20.500.12866/25065"
         },
@@ -1344,10 +1352,6 @@
         {
           "title": "Revisión crítica de la literatura sobre el clima laboral y la satisfacción laboral en trabajadores de Latinoamérica",
           "handle": "20.500.12866/25010"
-        },
-        {
-          "title": "Adaptación cultural y validación psicométrica de la “Escala de Percepción de Racismo en Línea” en estudiantes de la Facultad de Estomatología de una universidad privada de Lima Metropolitana",
-          "handle": "20.500.12866/25008"
         }
       ]
     },
@@ -1400,6 +1404,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "Ansiedad generalizada, impulsividad e ira en personal de salud de dos centros de salud, La Libertad, Perú, 2026",
+          "handle": "20.500.12866/25134"
+        },
+        {
           "title": "Bilingüismo como factor protector de las funciones ejecutivas en niños con trastorno del espectro autista: una revisión crítica",
           "handle": "20.500.12866/25068"
         },
@@ -1414,10 +1422,6 @@
         {
           "title": "Suicidio, factores de riesgo y propuestas de intervención para prevenir el suicidio en América Latina: una revisión crítica",
           "handle": "20.500.12866/24667"
-        },
-        {
-          "title": "Inteligencia emocional, un factor relacionado con los trastornos de ansiedad en estudiantes universitarios: revisión de literatura",
-          "handle": "20.500.12866/24595"
         }
       ]
     },
@@ -1620,6 +1624,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Factores sociodemográficos asociados al nivel de sobrecarga del cuidador primario de pacientes oncológicos en cuidados paliativos, en un hospital del MINSA, 2025",
+          "handle": "20.500.12866/25138"
+        },
+        {
           "title": "Efecto de una intervención educativa de enfermería en el nivel de conocimiento sobre la prevención de infección por VPH en escolares de 3ero a 5to de secundaria en un colegio nacional en Lima-2025",
           "handle": "20.500.12866/25127"
         },
@@ -1632,12 +1640,8 @@
           "handle": "20.500.12866/25045"
         },
         {
-          "title": "Adherencia al tratamiento y factores relacionados en adultos con diabetes mellitus tipo 2 en un hospital público de Lima-2025.",
+          "title": "Adherencia al tratamiento y factores relacionados en adultos con diabetes mellitus tipo 2 en un hospital público de Lima-2025",
           "handle": "20.500.12866/25040"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre la prevención de sobrepeso y obesidad infantil en madres de niños menores a 5 años en una institución educativa de la provincia del Callao, 2025",
-          "handle": "20.500.12866/25034"
         }
       ]
     },
@@ -1645,6 +1649,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Cuidados de enfermería y manejo inicial del paciente politraumatizado en un servicio de emergencia de Barranca Lima - 2026",
+          "handle": "20.500.12866/25136"
+        },
         {
           "title": "Relación entre factores estresores laborales y el nivel de cumplimiento de la lista de verificación de seguridad quirúrgica en enfermeras de centro quirúrgico de un hospital de Lima, 2026",
           "handle": "20.500.12866/25128"
@@ -1660,10 +1668,6 @@
         {
           "title": "Cuidado enfermero en la prevención de neumonía asociadas a ventilación mecánica en pacientes pediátricos en una Unidad Intensiva de EsSalud. Lima - 2026",
           "handle": "20.500.12866/25106"
-        },
-        {
-          "title": "Cumplimiento del checklist durante el transporte intrahospitalario por el profesional de enfermería en pacientes con ventilación mecánica de la UCI, Lima 2026",
-          "handle": "20.500.12866/25098"
         }
       ]
     },
