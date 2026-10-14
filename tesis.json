@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T12:29:50.449Z",
+  "actualizado": "2026-10-14T17:31:30.017Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1112,6 +1112,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Disponibilidad de servicios básicos en zonas endémicas a cisticercosis porcina según la Encuesta Nacional de Programas Presupuestales 2023",
+          "handle": "20.500.12866/25143"
+        },
+        {
           "title": "Caracterización del genoma completo de aislados de Campylobacter spp. obtenidos de aves de postura y carne en Lima, Perú",
           "handle": "20.500.12866/25089"
         },
@@ -1126,10 +1130,6 @@
         {
           "title": "Reporte de caso clínico de linfangiosarcoma cutáneo en felino doméstico en Lima, Perú",
           "handle": "20.500.12866/24970"
-        },
-        {
-          "title": "Prevalencia de Campylobacter spp. en perros con dueño que asisten a una clínica veterinaria en Miraflores (Lima, Perú)",
-          "handle": "20.500.12866/24882"
         }
       ]
     },
@@ -1510,6 +1510,10 @@
       "handle": "20.500.12866/18756",
       "tesis": [
         {
+          "title": "Estrategias para la reducción de artefactos metálicos orientadas a mejorar la calidad de imagen en tomografía computarizada de cerebro, macizo facial y cuello en instituciones de mediano y alto nivel resolutivo: una revisión de alcance",
+          "handle": "20.500.12866/25144"
+        },
+        {
           "title": "Utilidad de la inteligencia artificial en la reconstrucción de imágenes en angiografía coronaria por tomografía computarizada en la mejora de la calidad de imagen y reducción de dosis: una revisión de alcance",
           "handle": "20.500.12866/24931"
         },
@@ -1524,10 +1528,6 @@
         {
           "title": "Estrategias de optimización de la sincronización del bolo y reducción del volumen de contraste en angio-TC de miembros inferiores para la evaluación de la arteriopatía periférica: una revisión de alcance",
           "handle": "20.500.12866/24676"
-        },
-        {
-          "title": "Precisión diagnóstica de la mamografía contrastada en comparación con la resonancia magnética en mujeres con mamas densas para el diagnóstico de cáncer de mama: una revisión de alcance",
-          "handle": "20.500.12866/24648"
         }
       ]
     },
