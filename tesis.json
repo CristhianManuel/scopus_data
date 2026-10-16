@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T21:42:47.760Z",
+  "actualizado": "2026-10-16T23:55:08.997Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Recursos Educativos Digitales Abiertos (REDA) y el desarrollo de competencias comunicativas del idioma inglés en estudiantes de una universidad pública de Cañete, 2023",
+          "handle": "20.500.12866/25156"
+        },
+        {
           "title": "Inteligencia artificial en la asignatura aplicaciones en Internet en estudiantes de un Instituto de Educación Superior Tecnológico Público de Huancavelica: propuesta de innovación",
           "handle": "20.500.12866/25005"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Influencia del aula invertida en los resultados de aprendizaje de los estudiantes de la Cátedra de Parasitología para Farmacéuticos en una Universidad de Iquitos",
           "handle": "20.500.12866/24919"
-        },
-        {
-          "title": "Relación entre Burnout académico y logros de aprendizaje en la Facultad de Ingeniería de Sistemas de una universidad pública de Lima, 2020",
-          "handle": "20.500.12866/24884"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Comparación del acceso radial distal con el acceso radial convencional en procedimientos de coronariografía e intervención coronaria percutánea: meta análisis",
+          "handle": "20.500.12866/25155"
+        },
+        {
           "title": "Características clínicas, exámenes de laboratorio e imágenes de pacientes diagnosticados con diabetes insípida central secundaria a xantoma diseminado: revisión exploratoria de la evidencia cualitativa y cuantitativa",
           "handle": "20.500.12866/25131"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Morbilidad por enfermedad respiratoria y calidad de aire ambiental en Lima Metropolitana.",
           "handle": "20.500.12866/25103"
-        },
-        {
-          "title": "Mesotelioma ocupacional: agentes y factores de riesgo, diagnóstico, pronóstico y medidas de prevención",
-          "handle": "20.500.12866/25099"
         }
       ]
     },
