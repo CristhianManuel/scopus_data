@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T14:35:27.127Z",
+  "actualizado": "2026-10-19T20:10:17.762Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Dinámica esencial y canalización estructural inducida en las variantes de SARS-CoV-2",
+          "handle": "20.500.12866/25163"
+        },
+        {
           "title": "Sistematización de la implementación de estrategias didácticas orientadas a promover la participación y la percepción positiva del aprendizaje científico en estudiantes de educación secundaria de una institución educativa privada de Lima",
           "handle": "20.500.12866/25133"
         },
@@ -278,10 +282,6 @@
         {
           "title": "El laboratorio escolar como espacio para el desarrollo de experiencias de indagación científica en el Programa de la Escuela Primaria del Bachillerato Internacional en un colegio privado de Lima.",
           "handle": "20.500.12866/25042"
-        },
-        {
-          "title": "Factores asociados a la sobrevida de niños diagnosticados con leucemia linfoblástica aguda en el Instituto Nacional de Salud del Niño - San Borja.",
-          "handle": "20.500.12866/25038"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Prevención de enfermedades  oncológicas en el adulto  mayor desde la atención  primaria: una revisión de  alcance desde el enfoque de cuidado integral",
+          "handle": "20.500.12866/25165"
+        },
+        {
           "title": "Comparación del acceso radial distal con el acceso radial convencional en procedimientos de coronariografía e intervención coronaria percutánea: meta análisis",
           "handle": "20.500.12866/25155"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Mortalidad y severidad comparativa de los pacientes con hemorragia digestiva alta en la etapa pre pandémica versus la etapa pandémica por SARS-CoV-2 en un hospital nivel III-2 en Lima Perú: cohorte retrospectiva",
           "handle": "20.500.12866/25105"
-        },
-        {
-          "title": "Morbilidad por enfermedad respiratoria y calidad de aire ambiental en Lima Metropolitana.",
-          "handle": "20.500.12866/25103"
         }
       ]
     },
