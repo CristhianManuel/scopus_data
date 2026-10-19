@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T07:01:12.096Z",
+  "actualizado": "2026-10-19T14:35:27.127Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1624,6 +1624,14 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Factores de riesgo ocupacionales en trabajadores de limpieza pública de la Municipalidad Provincial de Tarma, después de la pandemia de la COVID-19",
+          "handle": "20.500.12866/25159"
+        },
+        {
+          "title": "Efectividad de una intervención educativa en el conocimiento sobre prevención del tabaquismo en adolescentes de tercer año de secundaria de una institución educativa privada, San Juan de Miraflores, 2025",
+          "handle": "20.500.12866/25157"
+        },
+        {
           "title": "Factores sociodemográficos asociados al nivel de sobrecarga del cuidador primario de pacientes oncológicos en cuidados paliativos, en un hospital del MINSA, 2025",
           "handle": "20.500.12866/25138"
         },
@@ -1634,14 +1642,6 @@
         {
           "title": "Factores relacionados con la adherencia a la suplementación de micronutrientes en cuidadores primarios de niños de 6 a 35 meses en un centro de salud de Lima, 2025",
           "handle": "20.500.12866/25074"
-        },
-        {
-          "title": "Efectividad de una intervención educativa de enfermería en el nivel de conocimiento sobre educación sexual en estudiantes de nivel secundario en una institución educativa 2025",
-          "handle": "20.500.12866/25045"
-        },
-        {
-          "title": "Adherencia al tratamiento y factores relacionados en adultos con diabetes mellitus tipo 2 en un hospital público de Lima-2025",
-          "handle": "20.500.12866/25040"
         }
       ]
     },
@@ -1649,6 +1649,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Intervenciones de enfermería en el perioperatorio y su relación con la hipotermia inadvertida en pacientes quirúrgicos ambulatorios de un hospital de Lima, 2026",
+          "handle": "20.500.12866/25158"
+        },
         {
           "title": "Educación preoperatoria de enfermería en la disminución de la ansiedad en pacientes adultos de una clínica privada de Lima",
           "handle": "20.500.12866/25152"
@@ -1664,10 +1668,6 @@
         {
           "title": "Relación entre factores estresores laborales y el nivel de cumplimiento de la lista de verificación de seguridad quirúrgica en enfermeras de centro quirúrgico de un hospital de Lima, 2026",
           "handle": "20.500.12866/25128"
-        },
-        {
-          "title": "Aplicación de la lista de verificación quirúrgica y su relación con la seguridad del paciente en sala de operaciones de un hospital de Ayacucho, 2026.",
-          "handle": "20.500.12866/25123"
         }
       ]
     },
