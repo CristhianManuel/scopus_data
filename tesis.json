@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T20:10:17.762Z",
+  "actualizado": "2026-10-19T23:38:33.990Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Comparación de índices Bióticos de Calidad de Aguas y metabolismo de Macroinvertebrados Bentónicos de diferentes altitudes en el Río Rímac",
+          "handle": "20.500.12866/25169"
+        },
+        {
           "title": "Dinámica esencial y canalización estructural inducida en las variantes de SARS-CoV-2",
           "handle": "20.500.12866/25163"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Formulación del Plan Estratégico de la Unidad de Servicios CicloMin-S&C: Aprendizajes Profesionales en Gestión Estratégica de Servicios Universitarios para la Rehabilitación Ambiental y Minería Responsable",
           "handle": "20.500.12866/25080"
-        },
-        {
-          "title": "El laboratorio escolar como espacio para el desarrollo de experiencias de indagación científica en el Programa de la Escuela Primaria del Bachillerato Internacional en un colegio privado de Lima.",
-          "handle": "20.500.12866/25042"
         }
       ]
     },
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Uso de simuladores clínicos de baja fidelidad en la formación de  habilidades de venopunción en  estudiantes de enfermería: análisis  documental (2020 - 2025)",
+          "handle": "20.500.12866/25170"
+        },
+        {
           "title": "Recursos Educativos Digitales Abiertos (REDA) y el desarrollo de competencias comunicativas del idioma inglés en estudiantes de una universidad pública de Cañete, 2023",
           "handle": "20.500.12866/25156"
         },
@@ -588,10 +592,6 @@
         {
           "title": "First implementation of a Point -of -care ultrasound course in undergraduate medical students in Peru",
           "handle": "20.500.12866/24941"
-        },
-        {
-          "title": "Influencia del aula invertida en los resultados de aprendizaje de los estudiantes de la Cátedra de Parasitología para Farmacéuticos en una Universidad de Iquitos",
-          "handle": "20.500.12866/24919"
         }
       ]
     },
@@ -1650,6 +1650,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Cumplimiento de la aplicación de la lista de verificación de cirugía segura por enfermeras de un hospital del Callao - 2026",
+          "handle": "20.500.12866/25168"
+        },
+        {
           "title": "Intervenciones de enfermería en el perioperatorio y su relación con la hipotermia inadvertida en pacientes quirúrgicos ambulatorios de un hospital de Lima, 2026",
           "handle": "20.500.12866/25158"
         },
@@ -1664,10 +1668,6 @@
         {
           "title": "Cuidados de enfermería y manejo inicial del paciente politraumatizado en un servicio de emergencia de Barranca Lima - 2026",
           "handle": "20.500.12866/25136"
-        },
-        {
-          "title": "Relación entre factores estresores laborales y el nivel de cumplimiento de la lista de verificación de seguridad quirúrgica en enfermeras de centro quirúrgico de un hospital de Lima, 2026",
-          "handle": "20.500.12866/25128"
         }
       ]
     },
