@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T12:53:31.267Z",
+  "actualizado": "2026-10-20T17:37:38.119Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1334,6 +1334,14 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Relación entre inteligencia emocional y rendimiento  académico en adolescentes: una revisión crítica de la  literatura científica de los últimos diez años",
+          "handle": "20.500.12866/25173"
+        },
+        {
+          "title": "Influencia de la salud mental en la percepción de  riesgo en bomberos voluntarios de Lima  Metropolitana",
+          "handle": "20.500.12866/25171"
+        },
+        {
           "title": "La asociación de la tenencia de mascotas y distintos indicadores de salud mental en adultos: una revisión crítica de literatura",
           "handle": "20.500.12866/25137"
         },
@@ -1344,14 +1352,6 @@
         {
           "title": "Modalidad de trabajo y el síndrome de burnout en trabajadores de una empresa de servicios privada en Lima Metropolitana",
           "handle": "20.500.12866/25025"
-        },
-        {
-          "title": "Apoyo social percibido y resiliencia en estudiantes becarios provenientes de provincia en una universidad privada de Lima Metropolitana",
-          "handle": "20.500.12866/25024"
-        },
-        {
-          "title": "Revisión crítica de la literatura sobre el clima laboral y la satisfacción laboral en trabajadores de Latinoamérica",
-          "handle": "20.500.12866/25010"
         }
       ]
     },
@@ -1444,6 +1444,10 @@
       "handle": "20.500.12866/18906",
       "tesis": [
         {
+          "title": "Determinación de la correlación del método de determinación del punto de nube en función de diversas variables fisicoquímicas en la elaboración del combustible DB5 S50 para climas fríos",
+          "handle": "20.500.12866/25172"
+        },
+        {
           "title": "Remoción del colorante azoico tartrazina (E-102) mediante el uso de Fe3O4@NH2-MIL-101(Fe) en muestras acuosas",
           "handle": "20.500.12866/25108"
         },
@@ -1458,10 +1462,6 @@
         {
           "title": "Implementación del control de calidad para producto intermedio en la industria cauchera",
           "handle": "20.500.12866/18109"
-        },
-        {
-          "title": "Influencia de las fragancias en los parámetros viscosidad y pH en la estabilidad de jabones líquidos producidos en un laboratorio cosmético-farmacéutico",
-          "handle": "20.500.12866/17785"
         }
       ]
     },
@@ -1650,6 +1650,10 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Efectividad de un sistema de triaje y la disminución del tiempo de espera de los pacientes que acuden al servicio de emergencia de una clínica de Lima",
+          "handle": "20.500.12866/25174"
+        },
+        {
           "title": "Cumplimiento de la aplicación de la lista de verificación de cirugía segura por enfermeras de un hospital del Callao - 2026",
           "handle": "20.500.12866/25168"
         },
@@ -1664,10 +1668,6 @@
         {
           "title": "Conocimientos sobre factores de riesgo cardiovascular y el autocuidado en adultos con enfermedades crónicas no transmisibles, en el primer nivel de atención Carhuaz, 2026",
           "handle": "20.500.12866/25150"
-        },
-        {
-          "title": "Cuidados de enfermería y manejo inicial del paciente politraumatizado en un servicio de emergencia de Barranca Lima - 2026",
-          "handle": "20.500.12866/25136"
         }
       ]
     },
