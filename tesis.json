@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T17:37:38.119Z",
+  "actualizado": "2026-10-20T20:53:05.919Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1624,6 +1624,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Intervención educativa en el conocimiento sobre la prevención del dengue en adultos en un centro de salud, Lima 2024",
+          "handle": "20.500.12866/25175"
+        },
+        {
           "title": "Factores de riesgo ocupacionales en trabajadores de limpieza pública de la Municipalidad Provincial de Tarma, después de la pandemia de la COVID-19",
           "handle": "20.500.12866/25159"
         },
@@ -1638,10 +1642,6 @@
         {
           "title": "Efecto de una intervención educativa de enfermería en el nivel de conocimiento sobre la prevención de infección por VPH en escolares de 3ero a 5to de secundaria en un colegio nacional en Lima-2025",
           "handle": "20.500.12866/25127"
-        },
-        {
-          "title": "Factores relacionados con la adherencia a la suplementación de micronutrientes en cuidadores primarios de niños de 6 a 35 meses en un centro de salud de Lima, 2025",
-          "handle": "20.500.12866/25074"
         }
       ]
     },
