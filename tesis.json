@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T17:56:18.928Z",
+  "actualizado": "2026-10-21T21:12:51.301Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Diseño de una propuesta didáctica mediada por inteligencia artificial para el fortalecimiento de la expresión oral en inglés en estudiantes universitarios",
+          "handle": "20.500.12866/25179"
+        },
+        {
           "title": "Uso de simuladores clínicos de baja fidelidad en la formación de  habilidades de venopunción en  estudiantes de enfermería: análisis  documental (2020 - 2025)",
           "handle": "20.500.12866/25170"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Revisión sistemática sobre la problemática de la producción científica en el Perú; un análisis crítico, 2013 - 2023",
           "handle": "20.500.12866/24971"
-        },
-        {
-          "title": "First implementation of a Point -of -care ultrasound course in undergraduate medical students in Peru",
-          "handle": "20.500.12866/24941"
         }
       ]
     },
@@ -1562,6 +1562,10 @@
       "handle": "20.500.12866/18758",
       "tesis": [
         {
+          "title": "Tratamiento fisioterapéutico con apoyo de herramientas tecnológicas en mujeres con incontinencia urinaria posparto en centros de salud: una revisión de alcance",
+          "handle": "20.500.12866/25180"
+        },
+        {
           "title": "Factores asociados con la calidad de vida de las personas que realizaron teletrabajo en Lima Metropolitana, 2022-2023",
           "handle": "20.500.12866/25129"
         },
@@ -1576,10 +1580,6 @@
         {
           "title": "Intervenciones de fisioterapia respiratoria aplicadas durante la ventilación mecánica previo al destete ventilatorio en pacientes pediátricos: una revisión de alcance",
           "handle": "20.500.12866/24727"
-        },
-        {
-          "title": "Evidencias sobre el uso clínico de las mediciones de presión inspiratoria máxima (PIMAX) y presión espiratoria máxima (PEMAX) en la rehabilitación pulmonar de personas con esclerosis lateral amiotrófica en el ámbito hospitalario: una revisión de alcance",
-          "handle": "20.500.12866/24678"
         }
       ]
     },
