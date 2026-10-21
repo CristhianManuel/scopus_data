@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T12:57:34.832Z",
+  "actualizado": "2026-10-21T17:56:18.928Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Factores psicosociales asociados a la hipertensión arterial",
+          "handle": "20.500.12866/25176"
+        },
+        {
           "title": "Prevención de enfermedades  oncológicas en el adulto  mayor desde la atención  primaria: una revisión de  alcance desde el enfoque de cuidado integral",
           "handle": "20.500.12866/25165"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Gestión ocupacional y rehabilitación de los trastornos musculoesqueléticos laborales",
           "handle": "20.500.12866/25120"
-        },
-        {
-          "title": "Mortalidad y severidad comparativa de los pacientes con hemorragia digestiva alta en la etapa pre pandémica versus la etapa pandémica por SARS-CoV-2 en un hospital nivel III-2 en Lima Perú: cohorte retrospectiva",
-          "handle": "20.500.12866/25105"
         }
       ]
     },
