@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T21:12:51.301Z",
+  "actualizado": "2026-10-22T00:02:21.564Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -522,6 +522,10 @@
       "handle": "20.500.12866/18974",
       "tesis": [
         {
+          "title": "Propuesta de una guía de aprendizaje para el curso Calidad Total en el Centro de Formación Profesional SENATI Chimbote, 2025.",
+          "handle": "20.500.12866/25186"
+        },
+        {
           "title": "Elaboración de una placa de desarrollo para la enseñanza aprendizaje de sensores y actuadores basado en Arduino para el módulo formativo de Microcontroladores, Sistemas Embebidos e introducción a Industrias IOT en SENATI",
           "handle": "20.500.12866/25147"
         },
@@ -536,10 +540,6 @@
         {
           "title": "Propuesta de uso didáctico de Nearpod en el desarrollo del módulo formativo CCNA 7, M1, ITN- Introduction to Networks (CISCO) en SENATI - La Libertad, 2025",
           "handle": "20.500.12866/24889"
-        },
-        {
-          "title": "Experiencia en la fabricación y uso didáctico de un equipo de ensayo de doblez guiado para evaluar las competencias en Construcciones Metálicas en SENATI Villa el Salvador, 2017 - 2024",
-          "handle": "20.500.12866/24704"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Ventajas y limitaciones de los exoesqueletos para la prevención de trastornos musculoesqueléticos en el trabajo",
+          "handle": "20.500.12866/25182"
+        },
+        {
           "title": "Factores psicosociales asociados a la hipertensión arterial",
           "handle": "20.500.12866/25176"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Características clínicas, exámenes de laboratorio e imágenes de pacientes diagnosticados con diabetes insípida central secundaria a xantoma diseminado: revisión exploratoria de la evidencia cualitativa y cuantitativa",
           "handle": "20.500.12866/25131"
-        },
-        {
-          "title": "Gestión ocupacional y rehabilitación de los trastornos musculoesqueléticos laborales",
-          "handle": "20.500.12866/25120"
         }
       ]
     },
@@ -1112,6 +1112,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Evaluación de la adición de aceites comerciales de moringa y de sacha inchi como alternativas antibacterianas a los dilutores de semen ovino refrigerado",
+          "handle": "20.500.12866/25181"
+        },
+        {
           "title": "Disponibilidad de servicios básicos en zonas endémicas a cisticercosis porcina según la Encuesta Nacional de Programas Presupuestales 2023",
           "handle": "20.500.12866/25143"
         },
@@ -1126,10 +1130,6 @@
         {
           "title": "Efectividad de Saponinas (1 - 5%) sobre el desempeño productivo y control de una coccidiosis inducida en pollos de engorde",
           "handle": "20.500.12866/25051"
-        },
-        {
-          "title": "Reporte de caso clínico de linfangiosarcoma cutáneo en felino doméstico en Lima, Perú",
-          "handle": "20.500.12866/24970"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Percepción de riesgo de violencia en mujeres jóvenes de un distrito de Lima a través del modelo ecológico",
+          "handle": "20.500.12866/25183"
+        },
+        {
           "title": "Relación entre inteligencia emocional y rendimiento  académico en adolescentes: una revisión crítica de la  literatura científica de los últimos diez años",
           "handle": "20.500.12866/25173"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Ansiedad y depresión en estudiantes universitarios de Latinoamérica: una revisión crítica de la literatura del 2020 al 2025",
           "handle": "20.500.12866/25065"
-        },
-        {
-          "title": "Modalidad de trabajo y el síndrome de burnout en trabajadores de una empresa de servicios privada en Lima Metropolitana",
-          "handle": "20.500.12866/25025"
         }
       ]
     },
@@ -1650,6 +1650,14 @@
       "handle": "20.500.12866/18624",
       "tesis": [
         {
+          "title": "Actividades de comunicación que realiza la enfermera  con la familia del paciente en las unidades de cuidados  intensivos de un hospital en Lima 2026",
+          "handle": "20.500.12866/25185"
+        },
+        {
+          "title": "Percepción del cuidado centrado en la familia y la satisfacción de los padres en la unidad de cuidados intensivos neonatal de un hospital nivel III Lima 2026",
+          "handle": "20.500.12866/25184"
+        },
+        {
           "title": "Efectividad de un sistema de triaje y la disminución del tiempo de espera de los pacientes que acuden al servicio de emergencia de una clínica de Lima",
           "handle": "20.500.12866/25174"
         },
@@ -1660,14 +1668,6 @@
         {
           "title": "Intervenciones de enfermería en el perioperatorio y su relación con la hipotermia inadvertida en pacientes quirúrgicos ambulatorios de un hospital de Lima, 2026",
           "handle": "20.500.12866/25158"
-        },
-        {
-          "title": "Educación preoperatoria de enfermería en la disminución de la ansiedad en pacientes adultos de una clínica privada de Lima",
-          "handle": "20.500.12866/25152"
-        },
-        {
-          "title": "Conocimientos sobre factores de riesgo cardiovascular y el autocuidado en adultos con enfermedades crónicas no transmisibles, en el primer nivel de atención Carhuaz, 2026",
-          "handle": "20.500.12866/25150"
         }
       ]
     },
@@ -1758,7 +1758,7 @@
           "handle": "20.500.12866/25078"
         },
         {
-          "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo 2015 al 2023",
+          "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo del 2015 al 2023",
           "handle": "20.500.12866/25041"
         },
         {
