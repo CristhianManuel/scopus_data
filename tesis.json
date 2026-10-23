@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T14:59:10.764Z",
+  "actualizado": "2026-10-23T18:57:10.910Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Estrategias de retroalimentación  efectiva para fortalecer prácticas de  evaluación formativa en docentes  formadores de EIB en Escuelas de  Educación Superior Pedagógica Pública",
+          "handle": "20.500.12866/25190"
+        },
+        {
           "title": "Diseño de una propuesta didáctica mediada por inteligencia artificial para el fortalecimiento de la expresión oral en inglés en estudiantes universitarios",
           "handle": "20.500.12866/25179"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Inteligencia artificial en la asignatura aplicaciones en Internet en estudiantes de un Instituto de Educación Superior Tecnológico Público de Huancavelica: propuesta de innovación",
           "handle": "20.500.12866/25005"
-        },
-        {
-          "title": "Revisión sistemática sobre la problemática de la producción científica en el Perú; un análisis crítico, 2013 - 2023",
-          "handle": "20.500.12866/24971"
         }
       ]
     },
