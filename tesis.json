@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T18:57:10.910Z",
+  "actualizado": "2026-10-23T21:51:56.948Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -150,6 +150,10 @@
       "handle": "20.500.12866/19019",
       "tesis": [
         {
+          "title": "Caracterización de los ingresos por accidente de tránsito en el hospital de emergencias “José Casimiro Ulloa” 2017 - 2024",
+          "handle": "20.500.12866/25057"
+        },
+        {
           "title": "Medición de las condiciones de atención integral a la primera infancia mediante un instrumento de recojo de información para la toma de decisiones informadas por el Comité de Gestión Local de la Municipalidad de Mazán, en 04 comités vecinales del distrito de Mazán, provincia de Maynas, Región Loreto",
           "handle": "20.500.12866/15516"
         },
@@ -164,10 +168,6 @@
         {
           "title": "Evaluación de la calidad de servicio desde la perspectiva de la usuaria de consulta externa de obstetricia del Hospital Nacional Arzobispo Loayza. Lima 2006",
           "handle": "20.500.12866/12508"
-        },
-        {
-          "title": "Estrategias de sobrevivencia de mujeres jefas de hogar que conciliaron por alimentos en la DEMUNA del distrito de Independencia durante 1,999, Lima",
-          "handle": "20.500.12866/10167"
         }
       ]
     },
@@ -872,10 +872,6 @@
       "handle": "20.500.12866/19020",
       "tesis": [
         {
-          "title": "Caracterización de los ingresos por accidente de tránsito en el hospital de emergencias “José Casimiro Ulloa” 2017 - 2024",
-          "handle": "20.500.12866/25057"
-        },
-        {
           "title": "Asociación entre los derrames de petróleo y los trastornos de salud mental: una revisión de alcance",
           "handle": "20.500.12866/25056"
         },
@@ -890,6 +886,10 @@
         {
           "title": "Más allá de las cifras: trayectorias de las jóvenes universitarias en el acceso a servicios de salud mental",
           "handle": "20.500.12866/17330"
+        },
+        {
+          "title": "Experiencias en el SERUMS de los profesionales de enfermería en el departamento de Huánuco (2019-2020)",
+          "handle": "20.500.12866/17254"
         }
       ]
     },
