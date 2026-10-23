@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T10:04:41.904Z",
+  "actualizado": "2026-10-23T14:59:10.764Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -898,6 +898,10 @@
       "handle": "20.500.12866/18909",
       "tesis": [
         {
+          "title": "Macroinvertebrados como bioindicadores de contaminación orgánica en humedales costeros",
+          "handle": "20.500.12866/25188"
+        },
+        {
           "title": "Optimización del mapeo de superficies glaciares mediante un algoritmo de clasificación de píxeles permanentes y temporales en la subcuenca Quillcay, Ancash - Perú",
           "handle": "20.500.12866/25018"
         },
@@ -912,10 +916,6 @@
         {
           "title": "Estrategias para el reaprovechamiento de los lodos derivados del tratamiento de drenaje ácido de mina, plantas de Pucará y Azalia, Daniel Alcides Carrión, Pasco",
           "handle": "20.500.12866/24540"
-        },
-        {
-          "title": "Cambio climático y su influencia en las clasificaciones de las ecorregiones andinas: un análisis sistemático de vegetación y factores ambientales",
-          "handle": "20.500.12866/18774"
         }
       ]
     },
@@ -1308,6 +1308,10 @@
       "handle": "20.500.12866/18904",
       "tesis": [
         {
+          "title": "Evaluación de los entornos alimentarios escolares alrededor de tres instituciones educativas en distritos de los niveles socioeconómicos A, C y E en Lima Metropolitana",
+          "handle": "20.500.12866/25187"
+        },
+        {
           "title": "Programa formativo para la prevención de la anemia infantil en comunidades rurales de los andes peruanos: experiencia profesional como nutricionista en un proyecto de salud.",
           "handle": "20.500.12866/25122"
         },
@@ -1322,10 +1326,6 @@
         {
           "title": "Propuesta de estandarización de la planificación nutricional basada en la composición corporal en futbolistas profesionales.",
           "handle": "20.500.12866/24913"
-        },
-        {
-          "title": "Interpretación médico nutricional como herramienta para clarificar mensajes nutricionales en población migrante en Estados Unidos",
-          "handle": "20.500.12866/24894"
         }
       ]
     },
@@ -1404,6 +1404,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "Rehabilitación psicosocial en el abordaje de la depresión en adultos: revisión crítica de la literatura",
+          "handle": "20.500.12866/25189"
+        },
+        {
           "title": "Bienestar psicológico, funcionamiento familiar y resiliencia en estudiantes de secundaria de una institución educativa del distrito de San Sebastián, Cusco, 2026",
           "handle": "20.500.12866/25149"
         },
@@ -1418,10 +1422,6 @@
         {
           "title": "La inteligencia emocional y la estrategia de afrontamiento de los estudiantes de dos institutos de educación superior de la provincia de Contumazá- Cajamarca en Post Pandemia el COVID-19.",
           "handle": "20.500.12866/25066"
-        },
-        {
-          "title": "Habilidades sociales y ansiedad estado rasgo en estudiantes de secundaria de un colegio de bachillerato internacional de la ciudad de Cusco, 2024",
-          "handle": "20.500.12866/24895"
         }
       ]
     },
