@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T21:51:56.948Z",
+  "actualizado": "2026-10-24T00:07:06.083Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Plan Estratégico del Instituto de Psicología IPIR en Lima, periodo 2026-2030",
+          "handle": "20.500.12866/25192"
+        },
+        {
           "title": "Plan estratégico de la empresa Sueño Salud",
           "handle": "20.500.12866/25121"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Plan estratégico de la Clínica San Juan de Dios de Arequipa",
           "handle": "20.500.12866/24984"
-        },
-        {
-          "title": "Plan estratégico para el Programa de Atención Domiciliaria (PADOMI) del Seguro Social de Salud EsSalud – PADOMI",
-          "handle": "20.500.12866/24716"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Eficacia de los programas basados en mindfulness en el bienestar psicológico de estudiantes de educación superior: una revisión crítica",
+          "handle": "20.500.12866/25193"
+        },
+        {
           "title": "Percepción de riesgo de violencia en mujeres jóvenes de un distrito de Lima a través del modelo ecológico",
           "handle": "20.500.12866/25183"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "La asociación de la tenencia de mascotas y distintos indicadores de salud mental en adultos: una revisión crítica de literatura",
           "handle": "20.500.12866/25137"
-        },
-        {
-          "title": "Ansiedad y depresión en estudiantes universitarios de Latinoamérica: una revisión crítica de la literatura del 2020 al 2025",
-          "handle": "20.500.12866/25065"
         }
       ]
     },
