@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T06:56:49.479Z",
+  "actualizado": "2026-10-26T13:54:30.402Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -522,6 +522,10 @@
       "handle": "20.500.12866/18974",
       "tesis": [
         {
+          "title": "Estudio comparativo del pensamiento crítico en estudiantes del segundo y tercer semestre de la especialidad de Mecánica de Mantenimiento del programa de aprendizaje dual de una IEST de Lima",
+          "handle": "20.500.12866/25195"
+        },
+        {
           "title": "Propuesta de una guía de aprendizaje para el curso Calidad Total en el Centro de Formación Profesional SENATI Chimbote, 2025.",
           "handle": "20.500.12866/25186"
         },
@@ -536,10 +540,6 @@
         {
           "title": "Situación de la producción académica de la relación entre los estilos de aprendizaje y rendimiento académico de los estudiantes de las universidades púbicas y privadas en el Perú, período 2015-2022",
           "handle": "20.500.12866/24903"
-        },
-        {
-          "title": "Propuesta de uso didáctico de Nearpod en el desarrollo del módulo formativo CCNA 7, M1, ITN- Introduction to Networks (CISCO) en SENATI - La Libertad, 2025",
-          "handle": "20.500.12866/24889"
         }
       ]
     },
@@ -934,6 +934,10 @@
       "handle": "20.500.12866/18907",
       "tesis": [
         {
+          "title": "El programa de mantenimiento de equipos biomédicos en el sector público y su relación con la calidad de los servicios de salud: una revisión sistemática",
+          "handle": "20.500.12866/25194"
+        },
+        {
           "title": "Desarrollo de una API para la interoperabilidad de prototipos de dispositivos médicos estudiantiles con una historia clínica electrónica libre",
           "handle": "20.500.12866/25101"
         },
@@ -948,10 +952,6 @@
         {
           "title": "Arquitectura metodológica para la evaluación sistemática y la optimización funcional de materiales en procesos de bioimpresión 3D mediante la tecnología CELLINK BIO-X",
           "handle": "20.500.12866/17997"
-        },
-        {
-          "title": "Diseño de un estimulador acústico de rango audible para la evaluación de su efecto en la formación de biofilms en cultivos de Pseudomonas aeruginosa",
-          "handle": "20.500.12866/17371"
         }
       ]
     },
