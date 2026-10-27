@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T13:41:30.933Z",
+  "actualizado": "2026-10-27T19:00:22.589Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -316,6 +316,10 @@
       "handle": "20.500.12866/18924",
       "tesis": [
         {
+          "title": "Respuesta neuroinflamatoria a Toxocara canis usando a la rata como modelo animal de toxocariasis",
+          "handle": "20.500.12866/25204"
+        },
+        {
           "title": "Análisis transcriptómico en el modelo murino de neurocisticercosis con tratamiento antihelmíntico para la búsqueda de genes implicados en la neuroinflamación",
           "handle": "20.500.12866/25072"
         },
@@ -330,10 +334,6 @@
         {
           "title": "Evaluación del efecto de la temperatura de inactivación, extracción y fragmentación del ADNg de Mycobacterium tuberculosis en el secuenciamiento usando la tecnología Oxford Nanopore",
           "handle": "20.500.12866/18047"
-        },
-        {
-          "title": "Evaluación de daño en el transporte axonal en un modelo animal de neurocisticercosis",
-          "handle": "20.500.12866/17923"
         }
       ]
     },
@@ -832,6 +832,14 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Evaluación del riesgo para la salud humana por presencia de mercurio, cadmio y plomo en jurel (Trachurus Murphyi) y bonito (Sarda Chiliensis Chiliensis) comercializados en los terminales pesqueros de Ventanilla y Villa María del Triunfo, Lima - Perú",
+          "handle": "20.500.12866/25202"
+        },
+        {
+          "title": "Influencia de la historia previa del consumo de alcohol y tabaco sobre el éxito de la terapia primaria y las alteraciones de genes conductores en adenocarcinoma ductal pancreático",
+          "handle": "20.500.12866/25201"
+        },
+        {
           "title": "Desarrollo de una herramienta orientada a optimizar la atención farmacéutica en pacientes ambulatorios de una farmacia magistral con preparados a base de cannabidiol (CBD) y tetrahidrocannabinol (THC)",
           "handle": "20.500.12866/25085"
         },
@@ -842,14 +850,6 @@
         {
           "title": "Aplicación del enfoque Quality by Design (QbD) en la reformulación de un producto desenredante bifásico capilar para mejorar la estabilidad de las fases",
           "handle": "20.500.12866/25071"
-        },
-        {
-          "title": "Implementación de un área de almacenamiento para el cumplimiento de las Buenas Prácticas de Almacenamiento (BPA) de productos farmacéuticos y dispositivos médicos termo sensibles",
-          "handle": "20.500.12866/24928"
-        },
-        {
-          "title": "Evaluación y mejora del Procedimiento Operativo Estándar (POE) del reporte de precios frente a la no conformidad detectada por la Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) en una droguería de Lima",
-          "handle": "20.500.12866/24921"
         }
       ]
     },
@@ -1060,24 +1060,24 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Farmacovigilancia y marco regulatorios de terapias avanzadas en Sudamérica. Scoping review",
+          "handle": "20.500.12866/25207"
+        },
+        {
+          "title": "Trastornos musculoesqueléticos en sectores productivos de alto riesgo: industria y construcción",
+          "handle": "20.500.12866/25205"
+        },
+        {
+          "title": "Efecto de las intervenciones psicosociales en la reducción de síndrome de burnout en el sector económico terciario",
+          "handle": "20.500.12866/25203"
+        },
+        {
           "title": "Ventajas y limitaciones de los exoesqueletos para la prevención de trastornos musculoesqueléticos en el trabajo",
           "handle": "20.500.12866/25182"
         },
         {
           "title": "Factores psicosociales asociados a la hipertensión arterial",
           "handle": "20.500.12866/25176"
-        },
-        {
-          "title": "Prevención de enfermedades  oncológicas en el adulto  mayor desde la atención  primaria: una revisión de  alcance desde el enfoque de cuidado integral",
-          "handle": "20.500.12866/25165"
-        },
-        {
-          "title": "Comparación del acceso radial distal con el acceso radial convencional en procedimientos de coronariografía e intervención coronaria percutánea: meta análisis",
-          "handle": "20.500.12866/25155"
-        },
-        {
-          "title": "Características clínicas, exámenes de laboratorio e imágenes de pacientes diagnosticados con diabetes insípida central secundaria a xantoma diseminado: revisión exploratoria de la evidencia cualitativa y cuantitativa",
-          "handle": "20.500.12866/25131"
         }
       ]
     },
