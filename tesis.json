@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T15:04:34.758Z",
+  "actualizado": "2026-10-28T20:14:44.975Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Conductas de riesgo como predictoras de accidentabilidad en estudiantes técnicos del sector minero en América Latina - una revisión sistemática de la literatura",
+          "handle": "20.500.12866/25213"
+        },
+        {
           "title": "Farmacovigilancia y marco regulatorios de terapias avanzadas en Sudamérica. Scoping review",
           "handle": "20.500.12866/25207"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Ventajas y limitaciones de los exoesqueletos para la prevención de trastornos musculoesqueléticos en el trabajo",
           "handle": "20.500.12866/25182"
-        },
-        {
-          "title": "Factores psicosociales asociados a la hipertensión arterial",
-          "handle": "20.500.12866/25176"
         }
       ]
     },
@@ -1112,6 +1112,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Características demográficas y casuística de enfermedades diagnosticadas de pacientes felinos (Felis catus) atendidos en un centro veterinario del distrito de Santiago de Surco, Lima-Perú, periodo 2022-2024",
+          "handle": "20.500.12866/25211"
+        },
+        {
           "title": "Evaluación de la adición de aceites comerciales de moringa y de sacha inchi como alternativas antibacterianas a los dilutores de semen ovino refrigerado",
           "handle": "20.500.12866/25181"
         },
@@ -1126,10 +1130,6 @@
         {
           "title": "Reporte de una serie de casos: manejo terapéutico de pacientes caninos con infecciones dermatológicas por Staphylococcus spp. con multirresistencia y resistencia extendida antibiótica.",
           "handle": "20.500.12866/25058"
-        },
-        {
-          "title": "Efectividad de Saponinas (1 - 5%) sobre el desempeño productivo y control de una coccidiosis inducida en pollos de engorde",
-          "handle": "20.500.12866/25051"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Violencia escolar y bienestar psicológico en adolescentes escolarizados en contextos latinoamericanos: una revisión crítica de la literatura",
+          "handle": "20.500.12866/25208"
+        },
+        {
           "title": "Eficacia de los programas basados en mindfulness en el bienestar psicológico de estudiantes de educación superior: una revisión crítica",
           "handle": "20.500.12866/25193"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Influencia de la salud mental en la percepción de  riesgo en bomberos voluntarios de Lima  Metropolitana",
           "handle": "20.500.12866/25171"
-        },
-        {
-          "title": "La asociación de la tenencia de mascotas y distintos indicadores de salud mental en adultos: una revisión crítica de literatura",
-          "handle": "20.500.12866/25137"
         }
       ]
     },
