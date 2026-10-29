@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T11:44:55.812Z",
+  "actualizado": "2026-10-29T17:34:46.628Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1404,6 +1404,10 @@
       "handle": "20.500.12866/18998",
       "tesis": [
         {
+          "title": "Medición de la violencia escolar en educación básica regular: revisión sistemática de instrumentos y definiciones operativas (2020-2025)",
+          "handle": "20.500.12866/25216"
+        },
+        {
           "title": "Rehabilitación psicosocial en el abordaje de la depresión en adultos: revisión crítica de la literatura",
           "handle": "20.500.12866/25189"
         },
@@ -1418,10 +1422,6 @@
         {
           "title": "Bilingüismo como factor protector de las funciones ejecutivas en niños con trastorno del espectro autista: una revisión crítica",
           "handle": "20.500.12866/25068"
-        },
-        {
-          "title": "La inteligencia emocional y la estrategia de afrontamiento de los estudiantes de dos institutos de educación superior de la provincia de Contumazá- Cajamarca en Post Pandemia el COVID-19.",
-          "handle": "20.500.12866/25066"
         }
       ]
     },
