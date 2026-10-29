@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T20:14:44.975Z",
+  "actualizado": "2026-10-29T00:02:50.706Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Desarrollo y validación de Marcadores genéticos Microsatélites de Alpacas (Vicugna pacos) conservados en rumiantes domésticos",
+          "handle": "20.500.12866/25215"
+        },
+        {
           "title": "Comparación de índices Bióticos de Calidad de Aguas y metabolismo de Macroinvertebrados Bentónicos de diferentes altitudes en el Río Rímac",
           "handle": "20.500.12866/25169"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
           "handle": "20.500.12866/25081"
-        },
-        {
-          "title": "Formulación del Plan Estratégico de la Unidad de Servicios CicloMin-S&C: Aprendizajes Profesionales en Gestión Estratégica de Servicios Universitarios para la Rehabilitación Ambiental y Minería Responsable",
-          "handle": "20.500.12866/25080"
         }
       ]
     },
