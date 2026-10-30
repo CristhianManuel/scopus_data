@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T14:35:27.939Z",
+  "actualizado": "2026-10-30T19:40:54.595Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Acumulación de carbono controlado por el origen de materia orgánica en los ambientes sedimentarios del humedal costero peruano “El Paraíso”",
+          "handle": "20.500.12866/25224"
+        },
+        {
           "title": "Desarrollo y validación de Marcadores genéticos Microsatélites de Alpacas (Vicugna pacos) conservados en rumiantes domésticos",
           "handle": "20.500.12866/25215"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Sistematización de la implementación de estrategias didácticas orientadas a promover la participación y la percepción positiva del aprendizaje científico en estudiantes de educación secundaria de una institución educativa privada de Lima",
           "handle": "20.500.12866/25133"
-        },
-        {
-          "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
-          "handle": "20.500.12866/25081"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Habilidades sociales en estudiantes universitarias beneficiarias del Programa Beca 18 de Universidades privadas de Lima: comparación según modalidad de beca",
+          "handle": "20.500.12866/25222"
+        },
+        {
           "title": "Violencia escolar y bienestar psicológico en adolescentes escolarizados en contextos latinoamericanos: una revisión crítica de la literatura",
           "handle": "20.500.12866/25208"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Relación entre inteligencia emocional y rendimiento  académico en adolescentes: una revisión crítica de la  literatura científica de los últimos diez años",
           "handle": "20.500.12866/25173"
-        },
-        {
-          "title": "Influencia de la salud mental en la percepción de  riesgo en bomberos voluntarios de Lima  Metropolitana",
-          "handle": "20.500.12866/25171"
         }
       ]
     },
@@ -1750,6 +1750,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "The epidemiology of third molar agenesis and its relationship with craniofacial growth in spanish and peruvian populations: a cross-sectional study",
+          "handle": "20.500.12866/25219"
+        },
+        {
           "title": "Relación entre la inclinación del incisivo inferior y las características morfológicas de la sínfisis mandibular en tomografías de pacientes con relación esquelética clase I y diferentes patrones faciales verticales",
           "handle": "20.500.12866/25116"
         },
@@ -1764,10 +1768,6 @@
         {
           "title": "Conocimientos, actitudes y prácticas sobre caries de primera infancia en padres/cuidadores de niños de 3 a 5 años de una institución educativa inicial de Los Olivos",
           "handle": "20.500.12866/25029"
-        },
-        {
-          "title": "Explorar las experiencias, actitudes y conocimientos en estudiantes y docentes de posgrado de periodoncia e implantes en relación al cambio en la clasificación de enfermedades y condiciones periodontales y periimplantarias del 2018, en la Facultad de Estomatología de la Universidad Peruana Cayetano Heredia",
-          "handle": "20.500.12866/24967"
         }
       ]
     },
