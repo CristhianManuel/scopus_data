@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T18:34:48.653Z",
+  "actualizado": "2026-11-03T01:13:25.140Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Competencias digitales y el aprendizaje autónomo en estudiantes de enfermería en una universidad privada de Lima Metropolitana",
+          "handle": "20.500.12866/25231"
+        },
+        {
           "title": "Estrategias de retroalimentación  efectiva para fortalecer prácticas de  evaluación formativa en docentes  formadores de EIB en Escuelas de  Educación Superior Pedagógica Pública",
           "handle": "20.500.12866/25190"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Recursos Educativos Digitales Abiertos (REDA) y el desarrollo de competencias comunicativas del idioma inglés en estudiantes de una universidad pública de Cañete, 2023",
           "handle": "20.500.12866/25156"
-        },
-        {
-          "title": "Inteligencia artificial en la asignatura aplicaciones en Internet en estudiantes de un Instituto de Educación Superior Tecnológico Público de Huancavelica: propuesta de innovación",
-          "handle": "20.500.12866/25005"
         }
       ]
     },
@@ -1060,6 +1060,14 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Instrumentos de medición y sistemas de vigilancia epidemiológica de trastornos músculo-esqueléticos en el trabajo",
+          "handle": "20.500.12866/25229"
+        },
+        {
+          "title": "Factores asociados a dengue grave en pacientes admitidos en un hospital del norte del Perú en 2023",
+          "handle": "20.500.12866/25228"
+        },
+        {
           "title": "Conductas de riesgo como predictoras de accidentabilidad en estudiantes técnicos del sector minero en América Latina - una revisión sistemática de la literatura",
           "handle": "20.500.12866/25213"
         },
@@ -1070,14 +1078,6 @@
         {
           "title": "Trastornos musculoesqueléticos en sectores productivos de alto riesgo: industria y construcción",
           "handle": "20.500.12866/25205"
-        },
-        {
-          "title": "Efecto de las intervenciones psicosociales en la reducción de síndrome de burnout en el sector económico terciario",
-          "handle": "20.500.12866/25203"
-        },
-        {
-          "title": "Ventajas y limitaciones de los exoesqueletos para la prevención de trastornos musculoesqueléticos en el trabajo",
-          "handle": "20.500.12866/25182"
         }
       ]
     },
