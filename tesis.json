@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T15:50:43.531Z",
+  "actualizado": "2026-11-03T21:19:44.077Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Respuesta patológica a la quimioterapia neoadyuvante  en mujeres menores de 35 años con cáncer de mama HER2 negativo",
+          "handle": "20.500.12866/25239"
+        },
+        {
           "title": "Técnicas quirúrgicas modificadas para la preservación de la eyaculación tras la enucleación prostática con láser: una revisión de alcance",
           "handle": "20.500.12866/25233"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Conductas de riesgo como predictoras de accidentabilidad en estudiantes técnicos del sector minero en América Latina - una revisión sistemática de la literatura",
           "handle": "20.500.12866/25213"
-        },
-        {
-          "title": "Farmacovigilancia y marco regulatorios de terapias avanzadas en Sudamérica. Scoping review",
-          "handle": "20.500.12866/25207"
         }
       ]
     },
@@ -1624,6 +1624,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Estrés y las estrategias de afrontamiento de los cuidadores primarios de niños con autismo en un Centro de Educación Básica Especial de Chorrillos-2025",
+          "handle": "20.500.12866/25234"
+        },
+        {
           "title": "Intervención educativa en el conocimiento sobre la prevención del dengue en adultos en un centro de salud, Lima 2024",
           "handle": "20.500.12866/25175"
         },
@@ -1638,10 +1642,6 @@
         {
           "title": "Factores sociodemográficos asociados al nivel de sobrecarga del cuidador primario de pacientes oncológicos en cuidados paliativos, en un hospital del MINSA, 2025",
           "handle": "20.500.12866/25138"
-        },
-        {
-          "title": "Efecto de una intervención educativa de enfermería en el nivel de conocimiento sobre la prevención de infección por VPH en escolares de 3ero a 5to de secundaria en un colegio nacional en Lima-2025",
-          "handle": "20.500.12866/25127"
         }
       ]
     },
@@ -1750,6 +1750,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Comparación de la exactitud en la transferencia de implantes múltiples con polivinilsiloxano y escaneo digital utilizando un elemento auxiliar en edéntulos totales - estudio in vitro",
+          "handle": "20.500.12866/25236"
+        },
+        {
           "title": "Evaluación tomográfica de la inclinación del incisivo central inferior y de la sínfisis mandibular en pacientes con relación esquelética clase III",
           "handle": "20.500.12866/25232"
         },
@@ -1764,10 +1768,6 @@
         {
           "title": "Estabilidad de color de resinas universales expuestas a bebidas funcionales",
           "handle": "20.500.12866/25078"
-        },
-        {
-          "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo del 2015 al 2023",
-          "handle": "20.500.12866/25041"
         }
       ]
     },
