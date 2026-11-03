@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T07:57:19.379Z",
+  "actualizado": "2026-11-03T15:50:43.531Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Técnicas quirúrgicas modificadas para la preservación de la eyaculación tras la enucleación prostática con láser: una revisión de alcance",
+          "handle": "20.500.12866/25233"
+        },
+        {
           "title": "Instrumentos de medición y sistemas de vigilancia epidemiológica de trastornos músculo-esqueléticos en el trabajo",
           "handle": "20.500.12866/25229"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Farmacovigilancia y marco regulatorios de terapias avanzadas en Sudamérica. Scoping review",
           "handle": "20.500.12866/25207"
-        },
-        {
-          "title": "Trastornos musculoesqueléticos en sectores productivos de alto riesgo: industria y construcción",
-          "handle": "20.500.12866/25205"
         }
       ]
     },
@@ -1750,6 +1750,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Evaluación tomográfica de la inclinación del incisivo central inferior y de la sínfisis mandibular en pacientes con relación esquelética clase III",
+          "handle": "20.500.12866/25232"
+        },
+        {
           "title": "The epidemiology of third molar agenesis and its relationship with craniofacial growth in spanish and peruvian populations: a cross-sectional study",
           "handle": "20.500.12866/25219"
         },
@@ -1764,10 +1768,6 @@
         {
           "title": "Factores asociados a las fracturas del tercio medio facial en el Servicio de Cirugía Bucal y Maxilofacial del Hospital Cayetano Heredia en el periodo del 2015 al 2023",
           "handle": "20.500.12866/25041"
-        },
-        {
-          "title": "Conocimientos, actitudes y prácticas sobre caries de primera infancia en padres/cuidadores de niños de 3 a 5 años de una institución educativa inicial de Los Olivos",
-          "handle": "20.500.12866/25029"
         }
       ]
     },
