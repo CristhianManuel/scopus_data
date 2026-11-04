@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T15:58:59.355Z",
+  "actualizado": "2026-11-04T21:46:42.742Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -574,6 +574,10 @@
       "handle": "20.500.12866/18976",
       "tesis": [
         {
+          "title": "Las competencias digitales en estudiantes universitarios del Perú en el periodo 2020-2025",
+          "handle": "20.500.12866/25244"
+        },
+        {
           "title": "Competencias digitales y el aprendizaje autónomo en estudiantes de enfermería en una universidad privada de Lima Metropolitana",
           "handle": "20.500.12866/25231"
         },
@@ -588,10 +592,6 @@
         {
           "title": "Uso de simuladores clínicos de baja fidelidad en la formación de  habilidades de venopunción en  estudiantes de enfermería: análisis  documental (2020 - 2025)",
           "handle": "20.500.12866/25170"
-        },
-        {
-          "title": "Recursos Educativos Digitales Abiertos (REDA) y el desarrollo de competencias comunicativas del idioma inglés en estudiantes de una universidad pública de Cañete, 2023",
-          "handle": "20.500.12866/25156"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Determinación del menoscabo por enfermedades cardiovasculares de origen ocupacional",
+          "handle": "20.500.12866/25240"
+        },
+        {
           "title": "Respuesta patológica a la quimioterapia neoadyuvante  en mujeres menores de 35 años con cáncer de mama HER2 negativo",
           "handle": "20.500.12866/25239"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Factores asociados a dengue grave en pacientes admitidos en un hospital del norte del Perú en 2023",
           "handle": "20.500.12866/25228"
-        },
-        {
-          "title": "Conductas de riesgo como predictoras de accidentabilidad en estudiantes técnicos del sector minero en América Latina - una revisión sistemática de la literatura",
-          "handle": "20.500.12866/25213"
         }
       ]
     },
@@ -1112,6 +1112,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Campañas de prevención y control del dengue desarrolladas por las municipalidades del departamento de Lima y su relación con los casos confirmados durante los años 2022 - 2024",
+          "handle": "20.500.12866/25241"
+        },
+        {
           "title": "Características demográficas y casuística de enfermedades diagnosticadas de pacientes felinos (Felis catus) atendidos en un centro veterinario del distrito de Santiago de Surco, Lima-Perú, periodo 2022-2024",
           "handle": "20.500.12866/25211"
         },
@@ -1126,10 +1130,6 @@
         {
           "title": "Caracterización del genoma completo de aislados de Campylobacter spp. obtenidos de aves de postura y carne en Lima, Perú",
           "handle": "20.500.12866/25089"
-        },
-        {
-          "title": "Reporte de una serie de casos: manejo terapéutico de pacientes caninos con infecciones dermatológicas por Staphylococcus spp. con multirresistencia y resistencia extendida antibiótica.",
-          "handle": "20.500.12866/25058"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Burnout y satisfacción laboral en personal de salud Latinoamericano: una revisión crítica de literatura de los últimos 10 años",
+          "handle": "20.500.12866/25242"
+        },
+        {
           "title": "Habilidades sociales en estudiantes universitarias beneficiarias del Programa Beca 18 de Universidades privadas de Lima: comparación según modalidad de beca",
           "handle": "20.500.12866/25222"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Percepción de riesgo de violencia en mujeres jóvenes de un distrito de Lima a través del modelo ecológico",
           "handle": "20.500.12866/25183"
-        },
-        {
-          "title": "Relación entre inteligencia emocional y rendimiento  académico en adolescentes: una revisión crítica de la  literatura científica de los últimos diez años",
-          "handle": "20.500.12866/25173"
         }
       ]
     },
@@ -1750,6 +1750,10 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Frecuencia de los signos radiográficos para determinar la relación entre los terceros molares mandibulares y el conducto dentario inferior en radiografías panorámicas digitales en el Servicio de Radiología Bucal del Hospital Militar Central Lima 2022",
+          "handle": "20.500.12866/25243"
+        },
+        {
           "title": "Comparación de la exactitud en la transferencia de implantes múltiples con polivinilsiloxano y escaneo digital utilizando un elemento auxiliar en edéntulos totales - estudio in vitro",
           "handle": "20.500.12866/25236"
         },
@@ -1764,10 +1768,6 @@
         {
           "title": "Relación entre la inclinación del incisivo inferior y las características morfológicas de la sínfisis mandibular en tomografías de pacientes con relación esquelética clase I y diferentes patrones faciales verticales",
           "handle": "20.500.12866/25116"
-        },
-        {
-          "title": "Estabilidad de color de resinas universales expuestas a bebidas funcionales",
-          "handle": "20.500.12866/25078"
         }
       ]
     },
