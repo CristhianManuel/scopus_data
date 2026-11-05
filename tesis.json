@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T08:38:13.879Z",
+  "actualizado": "2026-11-05T22:25:40.669Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Plan de negocio para la implementación de «Trascender», servicio de recreación en comunidad mediante paseos full day para adultos mayores del distrito de Miraflores-Lima",
+          "handle": "20.500.12866/25248"
+        },
+        {
           "title": "Determinación del menoscabo por enfermedades cardiovasculares de origen ocupacional",
           "handle": "20.500.12866/25240"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Instrumentos de medición y sistemas de vigilancia epidemiológica de trastornos músculo-esqueléticos en el trabajo",
           "handle": "20.500.12866/25229"
-        },
-        {
-          "title": "Factores asociados a dengue grave en pacientes admitidos en un hospital del norte del Perú en 2023",
-          "handle": "20.500.12866/25228"
         }
       ]
     },
@@ -1112,6 +1112,10 @@
       "handle": "20.500.12866/18934",
       "tesis": [
         {
+          "title": "Características hematológicas y demográficas en perros y gatos domésticos diagnosticados con agentes hemotrópicos registrados en una clínica veterinaria de Carabayllo durante el 2021 -2023",
+          "handle": "20.500.12866/25251"
+        },
+        {
           "title": "Campañas de prevención y control del dengue desarrolladas por las municipalidades del departamento de Lima y su relación con los casos confirmados durante los años 2022 - 2024",
           "handle": "20.500.12866/25241"
         },
@@ -1126,10 +1130,6 @@
         {
           "title": "Disponibilidad de servicios básicos en zonas endémicas a cisticercosis porcina según la Encuesta Nacional de Programas Presupuestales 2023",
           "handle": "20.500.12866/25143"
-        },
-        {
-          "title": "Caracterización del genoma completo de aislados de Campylobacter spp. obtenidos de aves de postura y carne en Lima, Perú",
-          "handle": "20.500.12866/25089"
         }
       ]
     },
@@ -1750,6 +1750,14 @@
       "handle": "20.500.12866/18667",
       "tesis": [
         {
+          "title": "Nivel de conocimiento sobre el cigarrillo electrónico y sus efectos en la salud general y periodontal en estudiantes de la segunda especialidad de estomatología de la Universidad Peruana Cayetano Heredia 2025",
+          "handle": "20.500.12866/25253"
+        },
+        {
+          "title": "Características tomográficas de los odontomas compuestos diagnosticados en la Facultad de Estomatología de la Universidad Peruana Cayetano Heredia. Periodo 2021-2025",
+          "handle": "20.500.12866/25250"
+        },
+        {
           "title": "Frecuencia de los signos radiográficos para determinar la relación entre los terceros molares mandibulares y el conducto dentario inferior en radiografías panorámicas digitales en el Servicio de Radiología Bucal del Hospital Militar Central Lima 2022",
           "handle": "20.500.12866/25243"
         },
@@ -1760,14 +1768,6 @@
         {
           "title": "Evaluación tomográfica de la inclinación del incisivo central inferior y de la sínfisis mandibular en pacientes con relación esquelética clase III",
           "handle": "20.500.12866/25232"
-        },
-        {
-          "title": "The epidemiology of third molar agenesis and its relationship with craniofacial growth in spanish and peruvian populations: a cross-sectional study",
-          "handle": "20.500.12866/25219"
-        },
-        {
-          "title": "Relación entre la inclinación del incisivo inferior y las características morfológicas de la sínfisis mandibular en tomografías de pacientes con relación esquelética clase I y diferentes patrones faciales verticales",
-          "handle": "20.500.12866/25116"
         }
       ]
     },
