@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T10:18:57.381Z",
+  "actualizado": "2026-11-09T20:52:10.438Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -264,6 +264,10 @@
       "handle": "20.500.12866/18900",
       "tesis": [
         {
+          "title": "Evaluación de sustratos agroindustriales y tratamientos de acondicionamiento sobre la colonización, estabilidad sanitaria y productividad de Pleurotus ostreatus en Cocachimba, Amazonas",
+          "handle": "20.500.12866/25257"
+        },
+        {
           "title": "Acumulación de carbono controlado por el origen de materia orgánica en los ambientes sedimentarios del humedal costero peruano “El Paraíso”",
           "handle": "20.500.12866/25224"
         },
@@ -278,10 +282,6 @@
         {
           "title": "Dinámica esencial y canalización estructural inducida en las variantes de SARS-CoV-2",
           "handle": "20.500.12866/25163"
-        },
-        {
-          "title": "Sistematización de la implementación de estrategias didácticas orientadas a promover la participación y la percepción positiva del aprendizaje científico en estudiantes de educación secundaria de una institución educativa privada de Lima",
-          "handle": "20.500.12866/25133"
         }
       ]
     },
@@ -600,6 +600,10 @@
       "handle": "20.500.12866/18977",
       "tesis": [
         {
+          "title": "Trabajo colegiado en la mejora de la gestión curricular en docentes de un centro de educación básica alternativa del distrito de Magdalena del Mar",
+          "handle": "20.500.12866/25255"
+        },
+        {
           "title": "Propuesta de gestión basada en la transferencia tecnológica orientada al fortalecimiento de competencias en docentes investigadores de una universidad pública del Perú",
           "handle": "20.500.12866/25153"
         },
@@ -614,10 +618,6 @@
         {
           "title": "Gestión del cambio educativo en una institución básica regular de Huancayo: liderazgo, desarrollo docente y gestión por procesos",
           "handle": "20.500.12866/24723"
-        },
-        {
-          "title": "Propuesta de gestión directiva para la enseñanza de matemática mediante el uso de la inteligencia artificial generativa en docentes de una Institución Educativa Privada de Nuevo Chimbote",
-          "handle": "20.500.12866/24710"
         }
       ]
     },
@@ -832,6 +832,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Implementación de mejoras para la obtención de la certificación en buenas prácticas de almacenamiento (BPA) en una droguería de dispositivos médicos, productos farmacéuticos y productos sanitarios del Cercado de Lima, 2025.",
+          "handle": "20.500.12866/25261"
+        },
+        {
           "title": "Evaluación del riesgo para la salud humana por presencia de mercurio, cadmio y plomo en jurel (Trachurus Murphyi) y bonito (Sarda Chiliensis Chiliensis) comercializados en los terminales pesqueros de Ventanilla y Villa María del Triunfo, Lima - Perú",
           "handle": "20.500.12866/25202"
         },
@@ -846,10 +850,6 @@
         {
           "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
           "handle": "20.500.12866/25081"
-        },
-        {
-          "title": "Aplicación del enfoque Quality by Design (QbD) en la reformulación de un producto desenredante bifásico capilar para mejorar la estabilidad de las fases",
-          "handle": "20.500.12866/25071"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Trastornos musculoesqueléticos y su implicancia con los factores de riesgos disergonómicos en empresas de manufactura",
+          "handle": "20.500.12866/25259"
+        },
+        {
           "title": "Plan de negocio para la implementación de «Trascender», servicio de recreación en comunidad mediante paseos full day para adultos mayores del distrito de Miraflores-Lima",
           "handle": "20.500.12866/25248"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Técnicas quirúrgicas modificadas para la preservación de la eyaculación tras la enucleación prostática con láser: una revisión de alcance",
           "handle": "20.500.12866/25233"
-        },
-        {
-          "title": "Instrumentos de medición y sistemas de vigilancia epidemiológica de trastornos músculo-esqueléticos en el trabajo",
-          "handle": "20.500.12866/25229"
         }
       ]
     },
@@ -1484,6 +1484,10 @@
       "handle": "20.500.12866/18757",
       "tesis": [
         {
+          "title": "Aplicación de la metodología Six Sigma como indicador de calidad de desempeño analítico de cinco parámetros hematológicos obtenidos a través de equipos automatizados, empleando tres niveles de control",
+          "handle": "20.500.12866/25258"
+        },
+        {
           "title": "Mapeo de los métodos de diagnóstico molecular utilizados en la detección de heterorresistencia en Mycobacterium tuberculosis: una revisión de alcance",
           "handle": "20.500.12866/24865"
         },
@@ -1498,10 +1502,6 @@
         {
           "title": "Factores de virulencia, resistencia antimicrobiana y fuentes de aislamiento de Salmonella enterica serovar Infantis en humanos, animales y alimentos en Latinoamérica: una revisión de alcance",
           "handle": "20.500.12866/24621"
-        },
-        {
-          "title": "Desempeño diagnóstico de métodos moleculares para la detección de genes de resistencia en Pseudomonas aeruginosa: una revisión de alcance",
-          "handle": "20.500.12866/24596"
         }
       ]
     },
