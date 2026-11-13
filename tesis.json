@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T17:39:19.831Z",
+  "actualizado": "2026-11-13T22:52:54.670Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -212,6 +212,10 @@
       "handle": "20.500.12866/18614",
       "tesis": [
         {
+          "title": "Plan Estratégico del Centro Odontológico Odontocity periodo 2026-2030",
+          "handle": "20.500.12866/25268"
+        },
+        {
           "title": "Plan Estratégico del Instituto de Psicología IPIR en Lima, periodo 2026-2030",
           "handle": "20.500.12866/25192"
         },
@@ -226,10 +230,6 @@
         {
           "title": "Planeamiento estratégico de la empresa de salud ocupacional Suma 2 Consultores",
           "handle": "20.500.12866/24998"
-        },
-        {
-          "title": "Plan estratégico de la Clínica San Juan de Dios de Arequipa",
-          "handle": "20.500.12866/24984"
         }
       ]
     },
