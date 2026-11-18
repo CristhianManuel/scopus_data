@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T20:55:00.659Z",
+  "actualizado": "2026-11-18T02:41:55.241Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Programas de conducta prosocial en escolares: una revisión crítica de literatura entre 2021-2026",
+          "handle": "20.500.12866/25272"
+        },
+        {
           "title": "Burnout y satisfacción laboral en personal de salud Latinoamericano: una revisión crítica de literatura de los últimos 10 años",
           "handle": "20.500.12866/25242"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Eficacia de los programas basados en mindfulness en el bienestar psicológico de estudiantes de educación superior: una revisión crítica",
           "handle": "20.500.12866/25193"
-        },
-        {
-          "title": "Percepción de riesgo de violencia en mujeres jóvenes de un distrito de Lima a través del modelo ecológico",
-          "handle": "20.500.12866/25183"
         }
       ]
     },
@@ -1624,6 +1624,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre medidas preventivas de crisis asmáticas en cuidadores primarios de niños menores de 5 años en un Centro de Salud del Callao, 2026",
+          "handle": "20.500.12866/25271"
+        },
+        {
           "title": "Estrés y las estrategias de afrontamiento de los cuidadores primarios de niños con autismo en un Centro de Educación Básica Especial de Chorrillos-2025",
           "handle": "20.500.12866/25234"
         },
@@ -1638,10 +1642,6 @@
         {
           "title": "Efectividad de una intervención educativa en el conocimiento sobre prevención del tabaquismo en adolescentes de tercer año de secundaria de una institución educativa privada, San Juan de Miraflores, 2025",
           "handle": "20.500.12866/25157"
-        },
-        {
-          "title": "Factores sociodemográficos asociados al nivel de sobrecarga del cuidador primario de pacientes oncológicos en cuidados paliativos, en un hospital del MINSA, 2025",
-          "handle": "20.500.12866/25138"
         }
       ]
     },
