@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T08:46:23.357Z",
+  "actualizado": "2026-11-19T17:44:29.658Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -1008,6 +1008,10 @@
       "handle": "20.500.12866/18813",
       "tesis": [
         {
+          "title": "Identificación y susceptibilidad antimicrobiana de bacterias ESKAPE aisladas de superficies inanimadas de pabellones de hospitalización de medicina en un hospital de tercer nivel",
+          "handle": "20.500.12866/25273"
+        },
+        {
           "title": "Aceptabilidad de la terapia directamente observada por video en personas afectadas por tuberculosis pulmonar en Lima Metropolitana",
           "handle": "20.500.12866/25059"
         },
@@ -1022,10 +1026,6 @@
         {
           "title": "Eficacia y seguridad de la terapia con terbinafina intermitente frente a pulsos de itraconazol en el tratamiento de la onicomicosis subungueal distal-lateral: ensayo clínico aleatorizado",
           "handle": "20.500.12866/24618"
-        },
-        {
-          "title": "Resultados clínicos de aumentación y reconstrucción capsular superior con bíceps braquial en rotura masiva de manguito rotador",
-          "handle": "20.500.12866/24579"
         }
       ]
     },
