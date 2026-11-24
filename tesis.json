@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T13:10:50.903Z",
+  "actualizado": "2026-11-24T00:50:29.560Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -636,6 +636,10 @@
       "handle": "20.500.12866/18961",
       "tesis": [
         {
+          "title": "Ambiente de aprendizaje en instituciones educativas estatales urbanas en el distrito de Miraflores de Lima Metropolitana en aulas del II ciclo",
+          "handle": "20.500.12866/25284"
+        },
+        {
           "title": "Actitudes lingüísticas de los estudiantes hacia el quechua y el aymara en una institución educativa inicial de Lima",
           "handle": "20.500.12866/16720"
         },
@@ -650,10 +654,6 @@
         {
           "title": "Las prácticas docentes en el nivel de educación inicial en la región Ancash desde los resultados de la ENDO 2018",
           "handle": "20.500.12866/15649"
-        },
-        {
-          "title": "Prácticas pedagógicas que favorecen el buen desempeño de docentes del nivel inicial en instituciones educativas públicas de Lima Metropolitana en el ámbito urbano según los resultados de la encuesta ENDO 2018",
-          "handle": "20.500.12866/15512"
         }
       ]
     },
@@ -1008,6 +1008,10 @@
       "handle": "20.500.12866/18813",
       "tesis": [
         {
+          "title": "Burnout syndrome and psychological workplace violence among peruvian physicians: a cross-sectional study",
+          "handle": "20.500.12866/25280"
+        },
+        {
           "title": "Identificación y susceptibilidad antimicrobiana de bacterias ESKAPE aisladas de superficies inanimadas de pabellones de hospitalización de medicina en un hospital de tercer nivel",
           "handle": "20.500.12866/25273"
         },
@@ -1022,10 +1026,6 @@
         {
           "title": "Conocimientos y prácticas acerca del lavado de manos en madres de neonatos hospitalizados en unidades de cuidados neonatales en un hospital de tercer nivel en Lima, Perú",
           "handle": "20.500.12866/24645"
-        },
-        {
-          "title": "Eficacia y seguridad de la terapia con terbinafina intermitente frente a pulsos de itraconazol en el tratamiento de la onicomicosis subungueal distal-lateral: ensayo clínico aleatorizado",
-          "handle": "20.500.12866/24618"
         }
       ]
     },
@@ -1334,6 +1334,14 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Inteligencia emocional y estrés por aculturación en adultos jóvenes peruanos migrantes en España",
+          "handle": "20.500.12866/25283"
+        },
+        {
+          "title": "Clima organizacional y satisfacción laboral en docentes de Latinoamérica: una revisión crítica de literatura",
+          "handle": "20.500.12866/25281"
+        },
+        {
           "title": "Programas de conducta prosocial en escolares: una revisión crítica de literatura entre 2021-2026",
           "handle": "20.500.12866/25272"
         },
@@ -1344,14 +1352,6 @@
         {
           "title": "Habilidades sociales en estudiantes universitarias beneficiarias del Programa Beca 18 de Universidades privadas de Lima: comparación según modalidad de beca",
           "handle": "20.500.12866/25222"
-        },
-        {
-          "title": "Violencia escolar y bienestar psicológico en adolescentes escolarizados en contextos latinoamericanos: una revisión crítica de la literatura",
-          "handle": "20.500.12866/25208"
-        },
-        {
-          "title": "Eficacia de los programas basados en mindfulness en el bienestar psicológico de estudiantes de educación superior: una revisión crítica",
-          "handle": "20.500.12866/25193"
         }
       ]
     },
@@ -1624,6 +1624,10 @@
       "handle": "20.500.12866/18888",
       "tesis": [
         {
+          "title": "Nivel de conocimiento y adherencia sobre la profilaxis pre exposición (PrEP) del usuario atendido/a en un centro de salud de Lima, 2025",
+          "handle": "20.500.12866/25282"
+        },
+        {
           "title": "Efectividad de una intervención educativa en el nivel de conocimiento sobre medidas preventivas de crisis asmáticas en cuidadores primarios de niños menores de 5 años en un Centro de Salud del Callao, 2026",
           "handle": "20.500.12866/25271"
         },
@@ -1638,10 +1642,6 @@
         {
           "title": "Factores de riesgo ocupacionales en trabajadores de limpieza pública de la Municipalidad Provincial de Tarma, después de la pandemia de la COVID-19",
           "handle": "20.500.12866/25159"
-        },
-        {
-          "title": "Efectividad de una intervención educativa en el conocimiento sobre prevención del tabaquismo en adolescentes de tercer año de secundaria de una institución educativa privada, San Juan de Miraflores, 2025",
-          "handle": "20.500.12866/25157"
         }
       ]
     },
@@ -1649,6 +1649,10 @@
       "clave": "enfermeria-titulo-de-segunda-especialidad-en-enfermeria",
       "handle": "20.500.12866/18624",
       "tesis": [
+        {
+          "title": "Calidad de atención de enfermería y satisfacción en pacientes oncológicos paliativos con tratamiento ambulatorio en un hospital de Concepción, 2026",
+          "handle": "20.500.12866/25278"
+        },
         {
           "title": "Percepción del paciente sobre el cuidado humanizado que brinda la enfermera en el servicio de emergencia de un hospital de Lima 2026",
           "handle": "20.500.12866/25270"
@@ -1664,10 +1668,6 @@
         {
           "title": "Percepción del cuidado centrado en la familia y la satisfacción de los padres en la unidad de cuidados intensivos neonatal de un hospital nivel III Lima 2026",
           "handle": "20.500.12866/25184"
-        },
-        {
-          "title": "Efectividad de un sistema de triaje y la disminución del tiempo de espera de los pacientes que acuden al servicio de emergencia de una clínica de Lima",
-          "handle": "20.500.12866/25174"
         }
       ]
     },
