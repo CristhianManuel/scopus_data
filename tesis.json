@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T13:39:49.951Z",
+  "actualizado": "2026-11-25T22:46:32.396Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -766,6 +766,10 @@
       "handle": "20.500.12866/18964",
       "tesis": [
         {
+          "title": "Percepciones de los estudiantes de cuarto grado de primaria sobre el uso educativo de herramientas digitales en una institución educativa pública en Independencia",
+          "handle": "20.500.12866/25294"
+        },
+        {
           "title": "Uso de los medios de comunicación y tecnologías de la información de docentes del nivel primaria de escuelas públicas de la región Ica según encuesta ENDO-2018",
           "handle": "20.500.12866/24615"
         },
@@ -780,10 +784,6 @@
         {
           "title": "Arte y juego como herramientas para la mejora de la convivencia de los estudiantes de 1er grado en el nivel primaria en el colegio Nuestra Señora de la Inmaculada Concepción, del distrito de San Juan de Lurigancho",
           "handle": "20.500.12866/16562"
-        },
-        {
-          "title": "Experiencias de aplicación de estrategias para la expresión oral en docentes de primaria de una institución educativa privada de Lima",
-          "handle": "20.500.12866/16282"
         }
       ]
     },
@@ -832,6 +832,10 @@
       "handle": "20.500.12866/18902",
       "tesis": [
         {
+          "title": "Perfil de compuestos fenólicos por UPLC-HRMS y capacidad antioxidante por el método DPPH de muestras de miel de abeja (Apis mellifera) provenientes de Ferreñafe y Morropón",
+          "handle": "20.500.12866/25287"
+        },
+        {
           "title": "Implementación de mejoras para la obtención de la certificación en buenas prácticas de almacenamiento (BPA) en una droguería de dispositivos médicos, productos farmacéuticos y productos sanitarios del Cercado de Lima, 2025.",
           "handle": "20.500.12866/25261"
         },
@@ -846,10 +850,6 @@
         {
           "title": "Desarrollo de una herramienta orientada a optimizar la atención farmacéutica en pacientes ambulatorios de una farmacia magistral con preparados a base de cannabidiol (CBD) y tetrahidrocannabinol (THC)",
           "handle": "20.500.12866/25085"
-        },
-        {
-          "title": "Desarrollo y validación de una metodología analítica para la determinación de ocratoxina A en muestras de músculo de pollo, a través de cromatografía líquida de ultra rendimiento acoplada a un detector de masas de triple cuadrupolo (UPLC-MS/MS)",
-          "handle": "20.500.12866/25081"
         }
       ]
     },
@@ -1510,6 +1510,10 @@
       "handle": "20.500.12866/18756",
       "tesis": [
         {
+          "title": "Factores asociados a la exposición ocupacional por radiación ionizante en tecnólogos médicos en radiología en procedimientos de radiología intervencionista: una revisión de alcance",
+          "handle": "20.500.12866/25291"
+        },
+        {
           "title": "Estrategias para la reducción de artefactos metálicos orientadas a mejorar la calidad de imagen en tomografía computarizada de cerebro, macizo facial y cuello en instituciones de mediano y alto nivel resolutivo: una revisión de alcance",
           "handle": "20.500.12866/25144"
         },
@@ -1524,10 +1528,6 @@
         {
           "title": "Utilidad de la inteligencia artificial en la mejora del diagnóstico de enfisema pulmonar por tomografía computarizada de baja dosis: una revisión de alcance",
           "handle": "20.500.12866/24713"
-        },
-        {
-          "title": "Estrategias de optimización de la sincronización del bolo y reducción del volumen de contraste en angio-TC de miembros inferiores para la evaluación de la arteriopatía periférica: una revisión de alcance",
-          "handle": "20.500.12866/24676"
         }
       ]
     },
@@ -1724,6 +1724,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Políticas nacionales de promoción de la salud bucal en el Perú: una revisión exploratoria",
+          "handle": "20.500.12866/25292"
+        },
+        {
           "title": "Asociación entre la práctica de videojuegos y la destreza manual de estudiantes de odontología empleando simulación de realidad virtual háptica",
           "handle": "20.500.12866/25069"
         },
@@ -1738,10 +1742,6 @@
         {
           "title": "Relación entre el uso de la IA generativa Gemini 1.5, el rendimiento académico y la percepción estudiantil en alumnos de Estomatología de la UPCH. Estudio longitudinal",
           "handle": "20.500.12866/24786"
-        },
-        {
-          "title": "Prevalencia de compuestos volátiles sulfurados de la halitosis en pacientes edéntulos totales de la Clínica Dental Docente Cayetano Heredia durante el 2025",
-          "handle": "20.500.12866/24777"
         }
       ]
     },
@@ -1749,6 +1749,10 @@
       "clave": "estomatologia-titulo-de-segunda-especialidad-en-estomatologia",
       "handle": "20.500.12866/18667",
       "tesis": [
+        {
+          "title": "Efecto antimicrobiano del aceite de Cocos nucifera frente a dos micro-organismos endodónticos",
+          "handle": "20.500.12866/25290"
+        },
         {
           "title": "Nivel de conocimiento sobre el cigarrillo electrónico y sus efectos en la salud general y periodontal en estudiantes de la segunda especialidad de estomatología de la Universidad Peruana Cayetano Heredia 2025",
           "handle": "20.500.12866/25253"
@@ -1764,10 +1768,6 @@
         {
           "title": "Comparación de la exactitud en la transferencia de implantes múltiples con polivinilsiloxano y escaneo digital utilizando un elemento auxiliar en edéntulos totales - estudio in vitro",
           "handle": "20.500.12866/25236"
-        },
-        {
-          "title": "Evaluación tomográfica de la inclinación del incisivo central inferior y de la sínfisis mandibular en pacientes con relación esquelética clase III",
-          "handle": "20.500.12866/25232"
         }
       ]
     },
