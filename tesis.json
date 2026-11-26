@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T14:17:47.325Z",
+  "actualizado": "2026-11-26T23:04:55.083Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -290,6 +290,10 @@
       "handle": "20.500.12866/18917",
       "tesis": [
         {
+          "title": "Identificación de microRNAs como potenciales biomarcadores en la transmisión congénita de Chagas en madres del hospital Percy Boland, Bolivia",
+          "handle": "20.500.12866/25299"
+        },
+        {
           "title": "Amplificaciones seriadas a través de reacciones isotérmicas con Recombinasa Polimerasa y evaluación de la hipótesis de la presión mutacional termodinámica en condiciones mesófilas sin presión de selección",
           "handle": "20.500.12866/25110"
         },
@@ -304,10 +308,6 @@
         {
           "title": "Efecto de las partículas TiO2 conjugadas con el nanocuerpo anti-Fas2 en la viabilidad y peroxidación lipídica de parásitos adultos de Fasciola hepatica",
           "handle": "20.500.12866/19370"
-        },
-        {
-          "title": "Citoadherencia en eritrocitos infectados con cepas de Plasmodium falciparum nativas de la Amazonía peruana portadoras de diversos genotipos hrp2/hrp3",
-          "handle": "20.500.12866/18521"
         }
       ]
     },
