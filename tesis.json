@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T14:46:36.904Z",
+  "actualizado": "2026-11-27T23:01:04.123Z",
   "colecciones": [
     {
       "clave": "administracion-maestria-en-comportamiento-organizacional-con-mencion-en-gestion-de-recursos-humanos",
@@ -934,6 +934,10 @@
       "handle": "20.500.12866/18907",
       "tesis": [
         {
+          "title": "Obtención y caracterización inicial de quitosano a partir de Hermetia illucens para su potencial aplicación en biotintas",
+          "handle": "20.500.12866/25302"
+        },
+        {
           "title": "El programa de mantenimiento de equipos biomédicos en el sector público y su relación con la calidad de los servicios de salud: una revisión sistemática",
           "handle": "20.500.12866/25194"
         },
@@ -948,10 +952,6 @@
         {
           "title": "Desarrollo de una aplicación web para el registro y consulta de eventos de mantenimiento de equipos médicos en la Clínica Médica Cayetano Heredia (CMCH)",
           "handle": "20.500.12866/24796"
-        },
-        {
-          "title": "Arquitectura metodológica para la evaluación sistemática y la optimización funcional de materiales en procesos de bioimpresión 3D mediante la tecnología CELLINK BIO-X",
-          "handle": "20.500.12866/17997"
         }
       ]
     },
@@ -1060,6 +1060,10 @@
       "handle": "20.500.12866/18694",
       "tesis": [
         {
+          "title": "Síntomas depresivos y su asociación con enfermedades crónicas en una comunidad adulta mayor altoandina en Ayacucho, Perú",
+          "handle": "20.500.12866/25307"
+        },
+        {
           "title": "Trastornos musculoesqueléticos y su implicancia con los factores de riesgos disergonómicos en empresas de manufactura",
           "handle": "20.500.12866/25259"
         },
@@ -1074,10 +1078,6 @@
         {
           "title": "Respuesta patológica a la quimioterapia neoadyuvante  en mujeres menores de 35 años con cáncer de mama HER2 negativo",
           "handle": "20.500.12866/25239"
-        },
-        {
-          "title": "Técnicas quirúrgicas modificadas para la preservación de la eyaculación tras la enucleación prostática con láser: una revisión de alcance",
-          "handle": "20.500.12866/25233"
         }
       ]
     },
@@ -1138,6 +1138,10 @@
       "handle": "20.500.12866/18933",
       "tesis": [
         {
+          "title": "Análisis situacional y planificación estratégica para la conservación del delfín rosado (Inia geoffrensis) en la Reserva Nacional Pacaya Samiria",
+          "handle": "20.500.12866/25304"
+        },
+        {
           "title": "Elaboración y socialización para la implementación a nivel nacional de un protocolo estandarizado para el manejo en cautividad del cóndor andino (Vultur gryphus) en centros de cría del Perú.",
           "handle": "20.500.12866/25088"
         },
@@ -1152,10 +1156,6 @@
         {
           "title": "Fortalecimiento integral del programa ex situ de Telmatobius macrostomus (Peters, 1873) para la conservación de una especie críticamente amenazada",
           "handle": "20.500.12866/18509"
-        },
-        {
-          "title": "Miocardiopatía dilatada crónica en un mono araña (Ateles chamek) en cautiverio: reporte de caso clínico con hallazgos clínico-patológicos",
-          "handle": "20.500.12866/18083"
         }
       ]
     },
@@ -1334,6 +1334,10 @@
       "handle": "20.500.12866/18989",
       "tesis": [
         {
+          "title": "Eficacia de los programas cognitivo y/o conductuales en población infanto-juvenil con trastornos del neurodesarrollo: una revisión crítica",
+          "handle": "20.500.12866/25305"
+        },
+        {
           "title": "Inteligencia emocional y estrés por aculturación en adultos jóvenes peruanos migrantes en España",
           "handle": "20.500.12866/25283"
         },
@@ -1348,10 +1352,6 @@
         {
           "title": "Burnout y satisfacción laboral en personal de salud Latinoamericano: una revisión crítica de literatura de los últimos 10 años",
           "handle": "20.500.12866/25242"
-        },
-        {
-          "title": "Habilidades sociales en estudiantes universitarias beneficiarias del Programa Beca 18 de Universidades privadas de Lima: comparación según modalidad de beca",
-          "handle": "20.500.12866/25222"
         }
       ]
     },
@@ -1724,6 +1724,10 @@
       "handle": "20.500.12866/18889",
       "tesis": [
         {
+          "title": "Nivel de motivación académica en estudiantes de pregrado de Odontología de una universidad peruana, 2026",
+          "handle": "20.500.12866/25306"
+        },
+        {
           "title": "Políticas nacionales de promoción de la salud bucal en el Perú: una revisión exploratoria",
           "handle": "20.500.12866/25292"
         },
@@ -1738,10 +1742,6 @@
         {
           "title": "Revisión sistemática de la evolución de los escáneres intraorales",
           "handle": "20.500.12866/24841"
-        },
-        {
-          "title": "Relación entre el uso de la IA generativa Gemini 1.5, el rendimiento académico y la percepción estudiantil en alumnos de Estomatología de la UPCH. Estudio longitudinal",
-          "handle": "20.500.12866/24786"
         }
       ]
     },
@@ -1749,6 +1749,10 @@
       "clave": "estomatologia-titulo-de-segunda-especialidad-en-estomatologia",
       "handle": "20.500.12866/18667",
       "tesis": [
+        {
+          "title": "Capacidad de conformación y centrado de un instrumento reciprocante activado a través de un nuevo movimiento adaptativo",
+          "handle": "20.500.12866/25308"
+        },
         {
           "title": "Efecto antimicrobiano del aceite de Cocos nucifera frente a dos micro-organismos endodónticos",
           "handle": "20.500.12866/25290"
@@ -1764,10 +1768,6 @@
         {
           "title": "Frecuencia de los signos radiográficos para determinar la relación entre los terceros molares mandibulares y el conducto dentario inferior en radiografías panorámicas digitales en el Servicio de Radiología Bucal del Hospital Militar Central Lima 2022",
           "handle": "20.500.12866/25243"
-        },
-        {
-          "title": "Comparación de la exactitud en la transferencia de implantes múltiples con polivinilsiloxano y escaneo digital utilizando un elemento auxiliar en edéntulos totales - estudio in vitro",
-          "handle": "20.500.12866/25236"
         }
       ]
     },
